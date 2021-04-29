@@ -62,8 +62,8 @@ social-network-links:
 #  calendly: yourname
 #  mastodon: instance.url/@username
   ORCID: 0000-0003-4803-0367
-  google-scholar: SXkN-cgAAAAJ
-
+  google-scholar: citations?user=SXkN-cgAAAAJ&hl=en&oi=ao
+  
 # If you want to show a link to an RSS in the footer, add the site description here.
 # If you don't want to show an RSS link, remove the following line.
 # rss-description: This website is a virtual proof that I'm awesome

@@ -1,4 +1,8 @@
-## Wills & McLaren (1997)
+---
+layout: page
+title: Wills & McLaren (1997)
+subtitle: My First Research Paper
+---
 
 These were the first studies I ran during my Ph.D. with Ian McLaren, so 1995-1996, and the first scientific paper I had accepted. I was 24. I think Ian probably saw this project going more in the direction of perceptual learning research, in that the sharpening of generalization gradients under discriminative training is expected from a common-elements view. To his credit, when Experiment 2 made such an explanation look unlikely,  he was happy to go with my decision-mechanism explanation, and was really supportive as I developed the winner-take-all simulations. It was from this initial base that I developed my research theme on decision mechanisms in category learning. I seem to remember it taking about three months to get these simulations working, and Mike Aitken quipping that I hadn't done any psychology that term. The work was all done on [Acorn RiscPCs](https://en.wikipedia.org/wiki/RiscPC), a somewhat forgotten cul-de-sac of desktop computing.
 

@@ -10,4 +10,4 @@ Re-reading this paper in 2019, it seeems better written than I remember it. On t
 
 Looking back, it's interesting to see how much of my future career is foreshadowed in this paper. Work by Greg Ashby, Lee Brooks, Mark Gluck, Rob Nosofsky, Stephen Lea, and David Shanks, are all mentioned. I almost moved to the US to work with Mark. Stephen was important in my move to Exeter in 2000. Lee Brooks's work comes up a lot in another of my research themes. Greg became something of adversarial figure in my published work from 2009 onwards. David's work has probably affected my thinking as much as anyone I've worked with. 
 
-Return to [publications](publications.md).
+

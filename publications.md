@@ -8,7 +8,7 @@ subtitle: A comprehensive list of academic writing
   <p>{{ paper.content | markdownify }}</p>
 {% endfor %}
 
-OLD SCHOOL
+## OLD SCHOOL
 
 Click on the title to access the full text of the article, plus any other public resources relating to the publication (e.g. raw data, analysis scripts). 
 

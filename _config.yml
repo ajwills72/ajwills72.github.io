@@ -17,7 +17,7 @@ navbar-links:
   People:
     - About me: "aboutme"
     - Lab members: "lab"
-    - Other co-authors: "coauthors"
+    - Co-authors: "coauthors"
   Publications: "publications"
   Resources:
     - Software: "software"

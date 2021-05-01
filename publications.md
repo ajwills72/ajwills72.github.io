@@ -6,7 +6,7 @@ subtitle: A comprehensive list of academic writing
 
 {% for paper in site.publications reversed %}
   <p>{{ paper.content | markdownify }} 
-  <a href="{{ paper.pdf }}">Download PDF</a>, <a href="{{ paper.osr }}">Open Science Repository</a>
+  <a href="{{ paper.pdf }}">PDF</a> - <a href="{{ paper.osr }}">Data, scripts</a>
   </p>
 {% endfor %}
 

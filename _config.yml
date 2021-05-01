@@ -27,7 +27,7 @@ navbar-links:
     - Co-authors: "coauthors"
   Publications:
     - All publications: "publications"
-    - Categorical decisions: "cat-dec"
+    - Categorical decisions: "pub-catdec"
   Resources:
     - Software: "software"
 #    - Learn markdown: "https://www.markdowntutorial.com/"

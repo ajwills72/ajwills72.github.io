@@ -1,3 +1,9 @@
+---
+layout: page
+title: Jones et al. (1998)
+subtitle: My second paper
+---
+
 The idea for Experiment 1 came from a discussion with Mike Aitken, but I guess the bar for authorship credit
 was higher back then. Fergal Jones ran Experiment 1 as his undergraduate project, along with Howard Portess.
 They were big Star Trek fans, and when I went in to debug the code, I found variables like 'Riker' and 'Troi'!

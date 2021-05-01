@@ -26,6 +26,7 @@ navbar-links:
     - Lab members: "lab"
     - Co-authors: "coauthors"
   Publications: "publications"
+    - Categorical decisions: "cat-dec"
   Resources:
     - Software: "software"
 #    - Learn markdown: "https://www.markdowntutorial.com/"

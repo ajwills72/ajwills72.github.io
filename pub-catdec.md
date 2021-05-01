@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Categorical decisions
-subtitle: 
+title: Publications
+subtitle: Categorical decisions
 ---
 
 {% for paper in site.publications reversed %}

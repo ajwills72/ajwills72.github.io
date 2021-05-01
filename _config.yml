@@ -15,7 +15,7 @@ author: Andy J. Wills
 
 navbar-links:
   People:
-    - Me: "aboutme"
+    - About me: "aboutme"
     - Lab members: "lab"
     - Other co-authors: "coauthors"
   Publications: "publications"

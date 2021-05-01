@@ -26,7 +26,7 @@ navbar-links:
     - Lab members: "lab"
     - Co-authors: "coauthors"
   Publications:
-    - All publications: "publications"
+    - All: "publications"
     - Categorical decisions: "pub-catdec"
   Resources:
     - Software: "software"

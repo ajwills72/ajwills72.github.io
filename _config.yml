@@ -13,7 +13,8 @@ author: Andy J. Wills
 
 # Jekyll collections
 collections:
-  - people
+  people:
+    sort_by: surname
 
 # --- List of links in the navigation bar --- #
 

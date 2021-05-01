@@ -16,8 +16,8 @@ author: Andy J. Wills
 navbar-links:
   About Me: "aboutme"
   Publications: "publications"
-#  Resources:
-#    - Beautiful Jekyll: "https://beautifuljekyll.com"
+  Resources:
+    - Software: "software"
 #    - Learn markdown: "https://www.markdowntutorial.com/"
 #  Author's home: "https://deanattali.com"
 
@@ -233,4 +233,5 @@ plugins:
 
 # Beautiful Jekyll / Dean Attali
 # 2fc73a3a967e97599c9763d05e564189
+
 

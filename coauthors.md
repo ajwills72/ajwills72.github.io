@@ -6,6 +6,12 @@ subtitle: People I've published with
 
 I've worked with a lot of great people since I started my academic career. This page celebrates those who ended up co-authoring one or more papers with me. 
 
+{% for person in site.people %}
+  <h2>{{ person.name }} - {{ person.position }}</h2>
+  <p>{{ person.content | markdownify }}</p>
+{% endfor %}
+
+**OLD STYLE** 
 
 <img src="/assets/img/fergal-jones.jpg" alt="Fergal Jones" style="width:64px;">
 [Fergal Jones](https://www.canterbury.ac.uk/science-engineering-and-social-sciences/psychology-and-life-sciences/staff/Profile.aspx?staff=e60942d39c138260): _Reader in Clinical Psychology, Canterbury Christ Church University_.

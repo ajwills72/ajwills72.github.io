@@ -5,13 +5,12 @@ subtitle: A comprehensive list of academic writing
 ---
 
 {% for paper in site.publications %}
-  {{ paper.reference }}
+  <p>{{ paper.content | markdownify }}</p>
 {% endfor %}
 
 OLD SCHOOL
 
 Click on the title to access the full text of the article, plus any other public resources relating to the publication (e.g. raw data, analysis scripts). 
-
 
 
 ## Preprints

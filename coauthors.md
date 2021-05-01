@@ -7,7 +7,8 @@ subtitle: People I've published with
 I've worked with a lot of great people since I started my academic career. This page celebrates those who ended up co-authoring one or more papers with me. 
 
 {% for person in site.people %}
-  <h2>{{ person.name }} - {{ person.position }}</h2>
+  <img src="{{ person.thumbnail-img }}" alt="{{ person.name }}" style="width:64px:">
+  <h2>{{ person.name }}: <i>{{ person.position }}</i></h2>
   <p>{{ person.content | markdownify }}</p>
 {% endfor %}
 

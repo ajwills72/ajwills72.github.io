@@ -25,7 +25,8 @@ navbar-links:
     - About me: "aboutme"
     - Lab members: "lab"
     - Co-authors: "coauthors"
-  Publications: "publications"
+  Publications:
+    - All publications: "publications"
     - Categorical decisions: "cat-dec"
   Resources:
     - Software: "software"

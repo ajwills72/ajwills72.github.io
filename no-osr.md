@@ -1,6 +1,6 @@
 ---
 layout: page
-title: No open-access repository
+title: Does not exit
 ---
 
-There is currently no open-access repository for this publication, please contact the authors.
+There is no open-access repository for this publication, please request materials directly from the corresponding author.

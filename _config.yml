@@ -14,7 +14,10 @@ author: Andy J. Wills
 # --- List of links in the navigation bar --- #
 
 navbar-links:
-  About Me: "aboutme"
+  People:
+    - Me: "aboutme"
+    - Lab members: "lab"
+    - Other co-authors: "coauthors"
   Publications: "publications"
   Resources:
     - Software: "software"

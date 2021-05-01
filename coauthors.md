@@ -8,8 +8,9 @@ I've worked with a lot of great people since I started my academic career. This 
 
 {% for person in site.people %}
   <img src="{{ person.thumbnail-img }}" alt="{{ person.name }}" style="width:64px;">
-  <b><a href="{{ person.link }}">{{ person.name }}</a></b>: <i>{{ person.position }}</i>
+  <b><a href="{{ person.link }}">{{ person.first-name }} {{ person.surname }}</a></b>: <i>{{ person.position }}</i>
   <p>{{ person.content | markdownify }}</p>
+  <p>We have co-authored {{ person.co-count }} publication(s).</p>
 {% endfor %}
 
 **OLD STYLE** 

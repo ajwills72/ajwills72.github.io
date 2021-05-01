@@ -8,7 +8,7 @@ I've worked with a lot of great people since I started my academic career. This 
 
 {% for person in site.people %}
   <img src="{{ person.thumbnail-img }}" alt="{{ person.name }}" style="width:64px;">
-  <h2>{{ person.name }}: <i>{{ person.position }}</i></h2>
+  <b><a href="{{ person.link }}">{{ person.name }}</a></b>: <i>{{ person.position }}</i>
   <p>{{ person.content | markdownify }}</p>
 {% endfor %}
 

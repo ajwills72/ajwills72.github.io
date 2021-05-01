@@ -4,7 +4,7 @@ title: Publications
 subtitle: A comprehensive list of academic writing
 ---
 
-{% for paper in site.publications %}
+{% for paper in site.publications reversed %}
   <p>{{ paper.content | markdownify }} 
   <a href="{{ paper.pdf }}">PDF</a>
   </p>

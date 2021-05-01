@@ -5,7 +5,9 @@ subtitle: A comprehensive list of academic writing
 ---
 
 {% for paper in site.publications %}
-  <p>{{ paper.content | markdownify }}<br><a href="{{ paper.pdf }}">PDF</a></p>
+  <p>{{ paper.content | markdownify }} 
+  <a href="{{ paper.pdf }}">PDF</a>
+  </p>
 {% endfor %}
 
 ## OLD SCHOOL

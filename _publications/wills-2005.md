@@ -2,7 +2,7 @@
 date: 2005-02-08
 pdf: /pubs/pu114.md
 osr: /no-osr
-tag: misc
+tag: attlearn
 alcs: /no-alcs
 ---
 

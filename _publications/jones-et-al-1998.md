@@ -2,7 +2,7 @@
 date: 1998-02-01
 pdf: /assets/pdf/1998jones.pdf
 osr: /no-osr
-tag: catdec
+tag: compcat
 alcs: ineligible
 ---
 

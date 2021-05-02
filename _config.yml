@@ -4,9 +4,12 @@
 # the initial set up you won't need to come back to this file often.
 
 # publication tags
-# attlearn - Attention and learning
-# freecatPL - Free classification and perceptual learning
+# attlearn - Attention and/or predictive learning
+# compcat - computational modelling of categorization
+# dualproc - dual-process theories of categorization
+# freecatPL - Free classification and/or perceptual learning
 # objclass - Object classification
+
 
 
 # --- Required options --- #

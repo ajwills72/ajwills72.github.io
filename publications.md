@@ -133,34 +133,4 @@ Wills, A.J., Barrasin, T.J., & McLaren, I.P.L. (2011). [Working memory capacity 
 
 Milton, F., Viika, L., Henderson, H., & Wills, A.J. (2011). [The effect of time pressure and the spatial integration of the stimulus dimensions on overall similarity categorization](pu141.md). In L. Carlson, C. Holscher, & T. Shipley (Eds.). _Proceedings of the 33rd Annual Conference of the Cognitive Science Society_ (pp. 795-800). Austin, TX: Cognitive Science Society. Published: August 2011.
 
-Wills, A.J., Graham, S., Koh, Z., McLaren, I.P.L., & Rolland, M.D. (2011). [Effects of concurrent load on feature- and rule-based generalization in human contingency learning](pu140.md). _Journal of Experimental Psychology: Animal Behavior Processes_, 37, 308-316. Published: 1 July 2011.
-
-Welham, A.K., & Wills, A.J. (2011). [Unitization, similarity and overt attention in categorization and exposure](pu139.md). Memory and Cognition, 39, 1518-1533. Published: 29 June 2011.
-
-Graham, S., Jie, H.L., Minn, C.H., McLaren, I.P.L., & Wills, A.J. (2011). [Simultaneous backward conditioned inhibition and mediated conditioning](pu138.md). _Journal of Experimental Psychology: Animal Behavior Processes, 31_, 241-245. Published: 1 April 2011.
-
-Goto, K., Lea, S.E.G., Wills, A.J., & Milton, F. (2011). [Interpreting the effects of image manipulation on picture perception in pigeons (Columba livia) and humans (Homo sapiens)](pu137.md). _Journal of Comparative Psychology, 125_, 48-60. Published: 1 February 2011.
-
-Pothos, E.M., & Wills, A.J. (2011). [Formal approaches in categroization](pu136.md). Cambridge University Press. 
-
-McLaren, I.P.L., Wills, A.J., & Graham, S. (2011). [Representation development, perceptual learning and concept formation](pu135.md). _Behavioral and Brain Sciences_, 34, 141-142. Published: 19 May 2011.
-
-Beesley, T., Wills, A.J., & Le Pelley, M.E. (2010). [Syntactic transfer in artificial grammar learning](pu134.md). _Psychonomic Bulletin and Review, 17_, 122-128. Published: February 2010.
-
-McLaren, I.P.L., Wills, A.J., & Graham, S. (2010). [Attention and Perceptual Learning](pu133.md). In C. Mitchell, & M. Le Pelley (Eds.). _Attention and associative learning: From brain to behaviour_. Oxford: Oxford University Press. 
-
-Hopewell, L., Leaver, L.A., Lea, S.E.G., & Wills, A.J. (2010). [Grey squirrels (Sciurus carolinensis) show a feature-negative effect specific to social learning](pu132.md). _Animal Cognition, 13_, 219-227. Published: 09 July 2009
-
-## 2000s
-
-Wills, A.J., Lea, S.E.G., Leaver, L.A., Osthaus, B., Ryan, C.M.E., Suret, M.B., Bryant, C.M.L., Chapman, S.J., & Millar, L. (2009). [A comparative analysis of the categorization of multidimensional stimuli: I. Unidimensional classification does not necessarily imply analytic processing; evidence from pigeons (Columba livia), squirrels (Sciurus carolinensis), and humans (Homo sapiens)](pu130.md). _Journal of Comparative Psychology, 123,_ 391-405. Published: 1 November 2009.
-
-Lea, S.E.G., Wills, A.J., Leaver, L.A., and Ryan, C.M.E., Bryant, C.M.L., & Millar, L. (2009). [A comparative analysis of the categorization of multidimensional stimuli: II. Strategic information search in humans (Homo sapiens) but not in pigeons (Columba livia)](pu131.md). _Journal of Comparative Psychology, 123_, 406-420. Published: 1 November 2009.
-
-Milton, F., & Wills, A.J. (2009). [Eye movements in overall similarity and single-dimension sorting](pu129.md). In N.A. Tattgen, & H. van Rijn (Eds.). Proceedings of the 31st Annual Conference of the Cognitive Science Society (pp. 1512-1517). Austin, TX: Cognitive Science Society. Published: August 2009.
-
-
-
-
-
 _Publications are ordered by date of first publication (usually online publication). In some cases, this results in them being out of order in terms of the year the journal issue was published_.

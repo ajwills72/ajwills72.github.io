@@ -2,7 +2,7 @@
 date: 2000-11-01
 pdf: /assets/pdf/2000Wills.pdf
 osr: http://www.willslab.org.uk/cam1/index.html
-tag: catdec
+tag: compcat
 alcs: ineligible
 ---
 

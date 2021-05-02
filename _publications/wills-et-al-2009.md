@@ -1,7 +1,7 @@
 ---
 date: 2009-11-01
 pdf: /assets/pdf/2009willslea.pdf
-osr: /metpage/wills-et-al-2009.md
+osr: /metapage/wills-et-al-2009
 tag: objclass
 alcs: 2013-09-06
 ---

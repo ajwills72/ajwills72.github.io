@@ -1,6 +1,6 @@
 ---
 date: 2012-11-01
-pdf: /assets/pdf/yeates2012.pdf
+pdf: /assets/pdf/WillsPothos2012a.pdf
 osr: /no-osr
 tag: misc
 alcs: 2013-11-15

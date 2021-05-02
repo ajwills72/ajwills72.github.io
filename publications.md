@@ -1,13 +1,16 @@
 ---
 layout: page
 title: Publications
-subtitle: A comprehensive list of academic writing
+subtitle: Page under construction
 ---
 
 {% for paper in site.publications reversed %}
   <p>{{ paper.content | markdownify }}
   <div align="right">
-  <a href="{{ paper.pdf }}">Full-text (PDF)</a> - <a href="{{ paper.osr }}">Open-access repository</a>
+  <a href="{{ paper.pdf }}">Full text (PDF)</a> : 
+  {% unless paper.osr == "/no-osr" %}
+  <a href="{{ paper.osr }}">data/code</a>
+  {% endunless %}
   </div>
   </p>
 {% endfor %}

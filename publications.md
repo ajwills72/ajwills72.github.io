@@ -14,7 +14,7 @@ subtitle: Page under construction
   </div>
   </p>
 {% endfor %}
-
+ p
 ## OLD SCHOOL
 
 Click on the title to access the full text of the article, plus any other public resources relating to the publication (e.g. raw data, analysis scripts). 
@@ -172,46 +172,6 @@ Milton, F., Longmore, C.A., & Wills, A.J. (2008). [Processes of overall similari
 Lea, S.E.G., & Wills, A.J. (2008). [Use of multiple dimensions in learned discriminations](pu123.md). _Comparative Cognition and Behavior Reviews, 3_, 115-133. 
 
 Haslam, C., Wills, A.J., Haslam, S.A., Kay, J., Baron, R., & McNab, F. (2007). [Does maintenance of colour categories rely on language? Evidence to the contrary from a case of semantic dementia](pu122.md). _Brain and Language, 103_, 251-263. Published: 31 October 2007.
-
-GOT UP TO HERE.
-
-Wills, A.J., Lavric, A., Croft, G., & Hodgson, T.L. (2007). [Predictive learning, prediction errors and attention: Evidence from event-related potentials and eye tracking](pubs/pu121.md). _Journal of Cognitive Neuroscience, 19_, 843-854. Published: 8 May 2007.
-
-Wills, A.J., Noury, M., Moberly, M.J., & Newport, M. (2006). [Formation of category representations](pubs/pu120.md). _Memory and Cognition, 34_, 17-27.
-
-Lea, S.E.G., Wills, A.J., & Ryan, C.M.E. (2006). [Why are artificial polymorphous concepts so hard for birds to learn?](pubs/pu119.md) _Quarterly Journal of Experimental Psychology, 59_, 251-267.
-
-Wills, A.J. (2005, Ed.). [New Directions in Human Associative Learning](pubs/pu114.md). Hove: Lawrence Erlbaum Associates. 
-
-Zwickel, J., & Wills, A.J. (2005). [Integrating associative models of supervised and unsupervised categorization](pubs/pu117.md). In A.J. Wills (Ed.). _New Directions in Human Associatve Learning_ (pp. 101-123). Lawrence Erlbaum Associates.
-
-Le Pelley, M.E., Oakeshott, S.M., Wills, A.J., & McLaren, I.P.L. (2005). [The outcome-specificity of learned predictiveness effects: Parallels between human causal learning and animal conditioning](pubs/pu113.md). _Journal of Experimental Psychology: Animal Behavior Processes, 31,_ 2226-236.
-
-Bryant, C.M., Jones, G.J.F., & Wills, A.J. (2004). [Integration of psychological models in the design of artificial creatures](pubs/pu112.md). _Proceedings of the AISB 2004 symposium on Emotion, Cognition and Affective Computing_ (pp. 9-20).
-
-Milton, F., & Wills, A.J. (2004). [The influence of stimulus properties on category construction](pubs/pu111.md). _Journal of Experimental Psychology: Learning, Memory and Cognition, 30,_ 407-415.
-
-Wills, A.J., Suret, M.B., & McLaren, I.P.L. (2004). [The role of category structure in determining the effects of stimulus preexposure on categorization accuracy](pubs/pu110.md). _Quarterly Journal of Experimental Psychology, 57B,_ 79-88. 
-
-Goto, K., Wills, A.J., & Lea, S.E.G. (2004). [Global-feature classification can be acquired more rapidly than local-feature classification in both humans and pigeons](pubs/pu109.md). _Animal Cognition, 7_, 109-113. 
-
-Lochmann, T., & Wills, A.J. (2003). [Predictive history in an allergy prediction task](pubs/pu108.md). In F. Schmalhofer, R.M. Young, & G. Katz (Eds.). _Proceedings of EuroCogSci 03: The European Cognitive Science Conference_ (pp. 217-222). Mahwah, NJ: Lawrence Erlbaum Associates.
-
-Welham, A.K., Schnadt, M.J., & Wills, A.J. (2003). [Speeded categorization: the effects of perceptual processing and decision-making time](pubs/pu107.md). In R. Alterman, & D. Kirsh (Eds.). _Proceedings of the 25th Annual Conference of the Cognitive Science Society_ (pp. 1218-1223). Mahwah, NJ: Lawrence Erlbaum Associates. 
-
-Zwickel, J., & Wills, A.J. (2002). [Is competitive learning an adequate account of free classification?](pubs/pu106.md). In W.D. Gray, & C.D. Schunn (Eds.). _Proceedings of the 24th Annual Conference of the Cognitive Science Society_ (pp. 982-987). Mahwah, NJ: Lawrence Erlbaum Associates.
-
-Wills, A.J. (2002). [Adapting to a response deadline in categorization](pubs/pu105.md). In W.D. Gray, & C.D. Schunn (Eds.). _Proceedings of the 24th Annual Conference of the Cognitive Science Society_ (pp. 938-943). Mahwah, NJ: Lawrence Erlbaum Associates. Published: August 2002.
-
-Wills, A.J., Reimers, S., Stewart, N., & McLaren, I.P.L. (2000). [Tests of the ratio rule in categorization](pubs/pu104.md). _Quarterly Journal of Experimental Psychology, 53A,_ 983-1011. 
-
-## 1990s
-
-Wills, A.J., & McLaren, I.P.L. (1998). [Perceptual learning and free classification](pubs/pu103.md). _Quarterly Journal of Experimental Psychology, 51B_, 235-270. 
-
-Jones, F.W., Wills, A.J., & McLaren, I.P.L. (1998). [Perceptual categorization: connectionist modelling and decision rules](pubs/pu102.md). _Quarterly Journal of Experimental Psychology, 51B_, 33-58. 
-
-Wills, A.J., & McLaren, I.P.L. (1997). [Generalization in human category learning: A connectionist explanation of differences in gradient after discriminative and non-discriminative training](pubs/pu101.md). _Quarterly Journal of Experimental Psychology, 50A,_ 607-630. 
 
 
 _Publications are ordered by date of first publication (usually online publication). In some cases, this results in them being out of order in terms of the year the journal issue was published_.

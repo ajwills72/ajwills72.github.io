@@ -1,11 +1,8 @@
 ---
 layout: page
 title: Lab members
-subtitle: Current and former members of my lab
+subtitle: 
 ---
 
-## Current lab members
 
-
-## Former lab members
 

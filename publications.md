@@ -14,7 +14,7 @@ subtitle: Page under construction
   </div>
   </p>
 {% endfor %}
- p
+ 
 ## OLD SCHOOL
 
 Click on the title to access the full text of the article, plus any other public resources relating to the publication (e.g. raw data, analysis scripts). 
@@ -159,19 +159,8 @@ Lea, S.E.G., Wills, A.J., Leaver, L.A., and Ryan, C.M.E., Bryant, C.M.L., & Mill
 
 Milton, F., & Wills, A.J. (2009). [Eye movements in overall similarity and single-dimension sorting](pu129.md). In N.A. Tattgen, & H. van Rijn (Eds.). Proceedings of the 31st Annual Conference of the Cognitive Science Society (pp. 1512-1517). Austin, TX: Cognitive Science Society. Published: August 2009.
 
-Wills, A.J. (2009). [Prediction errors and attention in the presence and absence of feedback](pu128.md). _Current Directions in Psychological Science, 18_, 95-100. Published: 1 April 2009.
 
-Milton, F., Wills, A.J., & Hodgson, T.L. (2009). [The neural basis of overall similarity and single-dimension sorting](pu127.md). _NeuroImage, 46_, 319-326. Published: 5 February 2009.
 
-Milton, F., & Wills, A.J. (2009). [Long-term persistence of sort strategy in free classification](pu126.md). _Acta Psychologica, 130_, 161-167. Published: 12 January 2009.
-
-Milton, F., & Wills, A.J. (2008). [The influence of perceptual difficulty on family resemblance sorting](pu125.md). In B.C. Love, K. McRae, & M. Sloutsky (Eds.). _Proceedings of the 30th Annual Conference of the Cognitive Science Society_ (pp. 2273-2278). Austin, TX: Cognitive Science Society. Published: August 2008.
-
-Milton, F., Longmore, C.A., & Wills, A.J. (2008). [Processes of overall similarity sorting in free classification](pu124.md). _Journal of Expeirmental Psychology: Human Perception and Performance, 30_, 407-415. Published: 1 March 2008.
-
-Lea, S.E.G., & Wills, A.J. (2008). [Use of multiple dimensions in learned discriminations](pu123.md). _Comparative Cognition and Behavior Reviews, 3_, 115-133. 
-
-Haslam, C., Wills, A.J., Haslam, S.A., Kay, J., Baron, R., & McNab, F. (2007). [Does maintenance of colour categories rely on language? Evidence to the contrary from a case of semantic dementia](pu122.md). _Brain and Language, 103_, 251-263. Published: 31 October 2007.
 
 
 _Publications are ordered by date of first publication (usually online publication). In some cases, this results in them being out of order in terms of the year the journal issue was published_.

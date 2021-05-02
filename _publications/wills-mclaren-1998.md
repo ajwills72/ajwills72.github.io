@@ -1,7 +1,7 @@
 ---
 date: 1998-08-01
 pdf: /assets/pdf/1998willsmclaren.pdf
-osr: /no-osr
+osr: /metapage/wills-mclaren-1998.md
 tag: freecatPL
 alcs: ineligible
 ---

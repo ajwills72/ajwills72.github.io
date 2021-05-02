@@ -9,7 +9,7 @@ subtitle: Page under construction
   <div align="right">
   <a href="{{ paper.pdf }}">Full text (PDF)</a>
   {% unless paper.osr == "/no-osr" %}
-   : <a href="{{ paper.osr }}">data/code</a>
+   : <a href="{{ paper.osr }}">Repository</a>
   {% endunless %}
   </div>
   </p>
@@ -117,20 +117,18 @@ Yeates, F., Wills, A.J., McLaren, R.P., & McLaren, I.P.L. (2013). [Modeling huma
 
 Newell, B.R., Moore, C.P., Wills, A.J., & Milton, F. (2013). [Reinstating the frontal lobes? Having more time to think improves 'implicit' perceptual categorization. A comment on Filoteo, Lauritzen and Maddox (2010)](pu149.md). _Psychological Science, 24_, 386-389. Published: 6 February 2013.
 
-Wills, A.J., & Pothos, E.M. (2012). [On the adequacy of Bayesian evaluations of categorization models: Reply to Vanpaemel & Lee (2012)](pu148.md). _Psychological Bulletin, 138_, 1253-1258. Published: November 2012.
 
-Yeates, F., Jones, F.W., Wills, A.J., Aitken, M.R.F., & McLaren, I.P.L. (2012). [Implicit Learning: A Demonstration and a Novel SRT Paradigm](pu147.md). In N Miyake, D Peebles, & RP Cooper (Eds.). _Proceedings of the 34th Annual Conference of the Cognitive Science Society_ (pp. 1185-1190). Austin, TX: Cognitive Science Society. Published: August 2012.
 
-Yeates, F., Wills, A.J., Jones, F.W., & McLaren, I.P.L. (2012). [State-trace analysis of sequence learning by recurrent networks](pu146.md). In N Miyake, D Peebles, & RP Cooper (Eds.). _Proceedings of the 34th Annual Conference of the Cognitive Science Society_ (pp. 2581-2586). Austin, TX: Cognitive Science Society. Published: August 2012.
 
-Wills, A.J., & Pothos, E.M. (2012). [On the adequacy of current empirical evaluations of formal models of categorization](pu145.md). Psychological Bulletin, 138, 102-125. Published: 1 January 2012.
 
-Kovacs, T., & Wills, A.J. (2012). [Generalization versus discrimination in learning](pu144.md). In N.M. Seele (Ed.). _Encyclopedia of the Sciences of Learning_ (pp. ). Springer. Published: 18 October 2011.
 
-Wills, A.J. (2011). [Learning from errors: Perspectives from basic research](pu143.md). In E. Wuttke, & J. Seifried (Eds.). _Learning from Errors at School and at Work_ (pp. 143-153). Verlag Barbara Budrich. Published: 11 November 2011.
 
-Wills, A.J., Barrasin, T.J., & McLaren, I.P.L. (2011). [Working memory capacity and generalization in predictive learning](pu142.md). In L. Carlson, C. Holscher, & T. Shipley (Eds.). _Proceedings of the 33rd Annual Conference of the Cognitive Science Society_ (pp. 3205-3210). Austin, TX: Cognitive Science Society. Published: August 2011.
 
-Milton, F., Viika, L., Henderson, H., & Wills, A.J. (2011). [The effect of time pressure and the spatial integration of the stimulus dimensions on overall similarity categorization](pu141.md). In L. Carlson, C. Holscher, & T. Shipley (Eds.). _Proceedings of the 33rd Annual Conference of the Cognitive Science Society_ (pp. 795-800). Austin, TX: Cognitive Science Society. Published: August 2011.
+
+
+
+
+
+
 
 _Publications are ordered by date of first publication (usually online publication). In some cases, this results in them being out of order in terms of the year the journal issue was published_.

@@ -1,7 +1,7 @@
 ---
 date: 2011-07-01
 pdf: /assets/pdf/2011wills.pdf
-osr: /no-osr
+osr: /metapage/wills-et-al-2011.md
 tag: dualproc
 alcs: 2013-11-15
 ---

@@ -1,6 +1,6 @@
 ---
 date: 2013-02-06
-pdf: /assets/pdf/2012newellps.pdf
+pdf: /assets/pdf/newellps2012.pdf
 osr: /no-osr
 tag: dualproc
 alcs: 2013-11-15

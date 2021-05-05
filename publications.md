@@ -4,23 +4,6 @@ title: Publications
 subtitle: Page under construction
 ---
 
-{% for paper in site.publications reversed %}
-  <p>{{ paper.content | markdownify }}
-  <div align="right">
-  {% unless paper.pdf == "/no-text" %}
-  <a href="{{ paper.pdf }}">Full text</a>
-  {% endunless %}
-  {% unless paper.osr == "/no-osr" %}
-   : <a href="{{ paper.osr }}">Repository</a>
-  {% endunless %}
-  </div>
-  </p>
-{% endfor %}
- 
-## OLD SCHOOL
-
-Click on the title to access the full text of the article, plus any other public resources relating to the publication (e.g. raw data, analysis scripts). 
-
 
 ## Preprints
 
@@ -96,25 +79,18 @@ Edmunds, C.E.R., & Wills, A.J. (2016). [Modeling category learning using a dual-
 
 Carpenter, K., Wills, A.J., Bennattayallah, A., & Milton, F. (2016). [A comparison of the neural correlates that underlie rule-based and information-integration category learning](pu166.md). _Human Brain Mapping, 37_, 3557–3574. Published: 20 May 2016.
 
-
-### 2015
-
-Maes, E., De Filippo, G., Inkster, A., Lea, S.E.G., De Houwer, J., D'Hooge, R., Beckers, T., & Wills, A.J. (2015). [Feature- versus rule-based generalization in rats, pigeons and humans](pu164.md). _Animal Cognition, 18_, 1267-1284. Published: 19 July 2015.
-
-
-Wills, A.J., Inkster, A.B., & Milton, F. (2015). [Combination or Differentiation? Two theories of processing order in classification](pu163.md). _Cognitive Psychology, 80_, 1-33. Published: 8 June 2015.
-
-Hogarth, L., Zhimin, H., Chase, H.W., Wills, A.J., Troisi II, J., Leventhal, M., Mathew, A.R., & Hitsman, B. (2015). [Negative mood reverses devaluation of goal-directed drug-seeking favouring an incentive learning account of drug dependence](pu162.md). _Psychopharmacology, 232_, 3235-3247. Published: 5 June 2015.
-
-Edmunds, C.E.R., Milton, F., & Wills, A.J. (2015). [Feedback can be superior to observational training for both rule-based and information-integration category structures](pu161.md). _Quarterly Journal of Experimental Psychology, 68_, 1203-1222. Published: 9 Jan 2015
-
-Yeates, F., Wills, A.J., Jones, F.W., & McLaren, I.P.L. (2015). [State trace analysis: Dissociable processes in a connectionist network?](pu160.md) _Cognitive Science, 39_, 1047-1061. Published: 12 October 2014.
-
-
-
-
-
-
-
+{% for paper in site.publications reversed %}
+  <p>{{ paper.content | markdownify }}
+  <div align="right">
+  {% unless paper.pdf == "/no-text" %}
+  <a href="{{ paper.pdf }}">Full text</a>
+  {% endunless %}
+  {% unless paper.osr == "/no-osr" %}
+   : <a href="{{ paper.osr }}">Repository</a>
+  {% endunless %}
+  </div>
+  </p>
+{% endfor %}
+ 
 
 _Publications are ordered by date of first publication (usually online publication). In some cases, this results in them being out of order in terms of the year the journal issue was published_.

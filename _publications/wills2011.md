@@ -1,6 +1,6 @@
 ---
 date: 2011-11-01
-pdf: https://www.amazon.co.uk/Learning-Errors-School-Vocational-Education/dp/3866494157/
+pdf: /no-text
 osr: /no-osr
 tag: attlearn
 alcs: 2014-07-07

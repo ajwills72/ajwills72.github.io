@@ -1,6 +1,6 @@
 ---
 date: 2011-10-18
-pdf: https://www.amazon.co.uk/Encyclopedia-Sciences-Learning-Norbert-Seel/dp/1441914277
+pdf: /no-text
 osr: /no-osr
 tag: misc
 alcs: 2014-07-07

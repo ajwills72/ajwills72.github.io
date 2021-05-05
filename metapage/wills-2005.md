@@ -18,13 +18,13 @@ List of chapters (with links to the full-text of chapters for which I am an auth
 
 5. [Connectionist models of human associative learning](/assets/pdf/2005willsch5.pdf). A. J. Wills.
 
-6. [Integrating associative models of supervised and unsupervised categorization](assets/pdf/2005willsch6.pdf). Jan Zwickel and A. J. Wills
+6. [Integrating associative models of supervised and unsupervised categorization](/assets/pdf/2005willsch6.pdf). Jan Zwickel and A. J. Wills
 
 7. **The role of associative history in human causal learning**. M. E. Le Pelley and I. P. L. McLaren.
 
 8. **Elemental representation and associability: An integrated model**. Mark Suret and I. P. L. McLaren.
 
-9. [Applications and extensions](assets/pdf/2005willsch9.pdf). A. J. Wills.
+9. [Applications and extensions](/assets/pdf/2005willsch9.pdf). A. J. Wills.
 
 10. **Signal-outcome contingency, contiguity, and the depressive realism effect**. Robin A. Murphy, Frederic Vallee-Tourangeau, Rachel Msetfi, and Andy G. Baker.
 

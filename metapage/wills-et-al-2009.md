@@ -10,7 +10,7 @@ subtitle: Repository
 
 - Stimulus example for [Experiment 2](https://commons.wikimedia.org/wiki/File:Stimuli_for_Wills_et_al._%282009%29,_Experiment_2.svg)
 
-- Squirrel video for [Experiment 2](http://www.willslab.org.uk/vid/itchy.mp4)
+- Squirrel video for [Experiment 2](http://www.willslab.org.uk/vid/Itchy.mp4)
 
 
 

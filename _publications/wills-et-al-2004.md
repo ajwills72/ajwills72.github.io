@@ -1,7 +1,7 @@
 ---
 date: 2004-01-01
 pdf: /assets/pdf/2004willssuretmclaren.pdf
-osr: /metapage/wills-et-al-2004.md
+osr: /metapage/wills-et-al-2004
 tag: freecatPL
 ---
 

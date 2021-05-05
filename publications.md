@@ -7,7 +7,9 @@ subtitle: Page under construction
 {% for paper in site.publications reversed %}
   <p>{{ paper.content | markdownify }}
   <div align="right">
-  <a href="{{ paper.pdf }}">Full text (PDF)</a>
+  {% unless paper.pdf == "/no-text" %}
+  <a href="{{ paper.pdf }}">Full text</a>
+  {% endunless %}
   {% unless paper.osr == "/no-osr" %}
    : <a href="{{ paper.osr }}">Repository</a>
   {% endunless %}

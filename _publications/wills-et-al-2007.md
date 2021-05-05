@@ -1,7 +1,7 @@
 ---
 date: 2007-05-08
 pdf: /assets/pdf/2007Willsetal.pdf
-osr: /no-osr
+osr: /metapage/wills-et-al-2007
 tag: attlearn
 alcs: ineligible
 ---

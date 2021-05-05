@@ -69,15 +69,7 @@ Roberts, H., Watkins, E., & Wills, A.J. (2017). [Does rumination cause "inhibito
 
 ### 2016
 
-O'Connell, G., Myers, C.E., Hopkins, R.O., McLaren, R.P., Gluck, M.A., & Wills, A.J. (2016). [Amnesic patients show superior generalization in category learning](pu170.md). _Neuropsychology, 30_, 915–919. Published: November 2016.
 
-Le Pelley, M.E., Mitchell, C.J., Beesley, T., George, D.N., & Wills, A.J. (2016). [Attention and associative learning in humans: An integrative review](pu169.md). _Psychological Bulletin, 142_, 1111-1140. Published: October 2016.
-
-Edmunds, C.E.R., Wills, A.J., & Milton, F.N. (2016). [Memory for exemplars in category learning](pu168.md). In A. Papfragou, D. Grodner, D. Mirman, & J.C. Trueswell (Eds.). _Proceedings of the 38th Annual Conference of the Cognitive Science Society_ (pp. 2243-2248). Austin, TX: Cognitive Science Society. Published: August 2016.
-
-Edmunds, C.E.R., & Wills, A.J. (2016). [Modeling category learning using a dual-system approach: A simulation of Shepard, Hovland and Jenkins (1961) by COVIS](pu167.md). In A. Papfragou, D. Grodner, D. Mirman, & J.C. Trueswell (Eds.). _Proceedings of the 38th Annual Conference of the Cognitive Science Society_ (pp. 69-74). Austin, TX: Cognitive Science Society. Published: August 2016.
-
-Carpenter, K., Wills, A.J., Bennattayallah, A., & Milton, F. (2016). [A comparison of the neural correlates that underlie rule-based and information-integration category learning](pu166.md). _Human Brain Mapping, 37_, 3557–3574. Published: 20 May 2016.
 
 {% for paper in site.publications reversed %}
   <p>{{ paper.content | markdownify }}

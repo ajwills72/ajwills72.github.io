@@ -1,6 +1,6 @@
 ---
 date: 2016-08-01
-pdf: /assets/pdf/2016covis.pdf
+pdf: /assets/pdf/edmunds2016covis.pdf
 osr: /no-osr
 tag: dualproc
 alcs: 2019-10-26

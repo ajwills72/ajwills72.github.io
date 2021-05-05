@@ -4,7 +4,7 @@ title: Wills et al. (2015)
 subtitle: Repository
 ---
 
-- [Supplementary materials](/pubs/2015willsSup.pdf)
+- [Supplementary materials](assets/pdf/2015willsSup.pdf)
 
 - Repository for [Experiment 1](http://www.willslab.org.uk/exe1/index.html)
 

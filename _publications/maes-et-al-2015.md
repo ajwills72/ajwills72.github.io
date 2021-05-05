@@ -1,7 +1,7 @@
 ---
 date: 2015-07-19
 pdf: /assets/pdf/2015maes.pdf
-osr: /metapage/maes-et-al-2015.md
+osr: /metapage/maes-et-al-2015
 tag: dualproc
 alcs: ineligible
 IR: http://hdl.handle.net/10026.1/4156

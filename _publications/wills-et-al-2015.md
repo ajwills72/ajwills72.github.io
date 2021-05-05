@@ -1,7 +1,7 @@
 ---
 date: 2015-06-08
 pdf: /assets/pdf/2015willsCS.pdf
-osr: /metapage/wills-et-al-2015.md
+osr: /metapage/wills-et-al-2015
 tag: objclass
 alcs: ineligible
 IR: http://hdl.handle.net/10026.1/4156

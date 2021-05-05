@@ -1,4 +1,4 @@
----
+--
 date: 2012-08-01
 pdf: /assets/pdf/yeates2012a.pdf
 osr: /no-osr

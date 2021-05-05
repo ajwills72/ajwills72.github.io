@@ -111,25 +111,6 @@ Wills, A.J., Milton, F., Longmore, C.A., Hester, S., & Robinson, J. (2013). [Is 
 
 Wills, A.J., Longmore, C.A., & Milton, F. (2013). [Impulsivity and overall similarity classification](pu153.md). In M. Knauff, M. Pauen, N. Sebanz, & I. Wachsmuth (Eds.). _Proceedings of the 35th Annual Conference of the Cognitive Science Society_ (pp. 3783-3788). Austin, TX: Cognitive Science Society. Published: August 2013.
 
-Yeates, F., Jones, F.W., Wills, A.J., Aitken, M.R.F., & McLaren, I.P.L. (2013). [Implicit learning: A demonstration and a revision to a novel SRT paradigm](pu152.md). In M. Knauff, M. Pauen, N. Sebanz, & I. Wachsmuth (Eds.). _Proceedings of the 35th Annual Conference of the Cognitive Science Society_ (pp. 3829-3834). Austin, TX: Cognitive Science Society. Published: August 2013.
-
-Wills, A.J. (2013). [Models of categorization](pu151.md). In D. Reisberg (Ed.). Oxford Handbook of Cognitive Psychology (pp. 346-357). Oxford: Oxford University Press. Published: June 2013.
-
-Yeates, F., Wills, A.J., McLaren, R.P., & McLaren, I.P.L. (2013). [Modeling human sequence learning under incidental conditions](pu150.md). _Journal of Experimental Psychology: Animal Behavior Processes, 39_, 166-173. Published: April 2013.
-
-Newell, B.R., Moore, C.P., Wills, A.J., & Milton, F. (2013). [Reinstating the frontal lobes? Having more time to think improves 'implicit' perceptual categorization. A comment on Filoteo, Lauritzen and Maddox (2010)](pu149.md). _Psychological Science, 24_, 386-389. Published: 6 February 2013.
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 

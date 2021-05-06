@@ -34,10 +34,11 @@ navbar-links:
     - About me: "aboutme"
     - Lab members: "lab"
     - Co-authors: "coauthors"
-  Publications: "publications"
-  Research: 
+  Research:
+    - Publications: "publications"
     - Categorical decisions: "pub-catdec"
   Resources:
+    - Open culture: "open"
     - Software: "software"
 #    - Learn markdown: "https://www.markdowntutorial.com/"
 #  Author's home: "https://deanattali.com"

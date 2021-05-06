@@ -26,7 +26,7 @@ collections:
     sort_by: surname
   publications:
     sort_by: date
-  talks
+  talks:
     sort_by: date
     
 # --- List of links in the navigation bar --- #

@@ -62,7 +62,6 @@ Wills, A.J., & Hollins, T.J. (2017). [In defence of effect-centric research](pu0
 Wills, A.J., O'Connell, G., Edmunds, C.E.R., & Inkster, A.B. (2017). [Progress in modeling through distributed collaboration: Concepts, tools, and category-learning examples](pu002.md). _Psychology of Learning and Motivation, 66,_ 79-115. Accepted: 14 July 2016. Published: 6 February 2017.
 
 
-
 ### Script generated
 
 {% for paper in site.publications reversed %}

@@ -61,15 +61,9 @@ Wills, A.J., & Hollins, T.J. (2017). [In defence of effect-centric research](pu0
 
 Wills, A.J., O'Connell, G., Edmunds, C.E.R., & Inkster, A.B. (2017). [Progress in modeling through distributed collaboration: Concepts, tools, and category-learning examples](pu002.md). _Psychology of Learning and Motivation, 66,_ 79-115. Accepted: 14 July 2016. Published: 6 February 2017.
 
-Milton, F., Bealing, P., Carpenter, K.L., Bennattayallah, A., & Wills, A.J. (2017). [The neural correlates of similarity- and rule-based generalization](pu172.md). _Journal of Cognitive Neuroscience, 29_, 150-166. Accepted: 26 July 2016. Published: 30 November 2016.
-
-Lawson, R., Chang, F., & Wills, A. J. (2017). [Free classification of large sets of everday objects is more thematic than taxonomic](pu171.md). _Acta Psychologica, 172_, 26-40. Accepted: 1 November 2016. Published: 15 November 2016.
-
-Roberts, H., Watkins, E., & Wills, A.J. (2017). [Does rumination cause "inhibitory" deficits?](pu165.md) _Psychopathology Review, 4_, 341-376. Accepted: 28 January 2015. Published: 5 May 2016.
-
-### 2016
 
 
+### Script generated
 
 {% for paper in site.publications reversed %}
   <p>{{ paper.content | markdownify }}

@@ -1,12 +1,11 @@
 ---
-date: 2017-08-01
-pdf: /assets/pdf/edmunds2017cogsci.pdf
+date: 2017-03-30
+pdf: /assets/pdf/wills2017.pdf
 osr: /no-osr
-tag: compcat
-alcs: 2019-10-26
-IR: /no-IR
-accepted: 2017-04-11
+tag: misc
+alcs: ineligible
+IR: http://hdl.handle.net/10026.1/9181
+accepted: 2016-10-31
 ---
 
-Edmunds, C.E.R., Milton, F., & Wills, A.J. (2017). Due process in dual process: A model-recovery analysis of Smith et al. (2014). In A. Gunzelmann, A. Howes, T. Tenbrink, & E.J. Davelaar (Eds.). _Proceedings of the 39th Annual Conference of the Cognitive Science Society_ (pp. 1979-1984). Austin, TX: Cognitive Science Society. 
-
+Wills, A.J., & Hollins, T.J. (2017). In defence of effect-centric research. Journal of Applied Research in Memory and Cognition, 6, 43--46. [pdf] [IR] non-ALCS, accepted: 2016-10-31

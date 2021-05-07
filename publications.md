@@ -57,10 +57,6 @@ Edmunds, C.E.R., Milton, F., & Wills, A.J. (2018). [Due process in dual process:
 
 Edmunds, C.E.R., Milton, F., & Wills, A.J. (2017). [Due process in dual process: A model-recovery analysis of Smith et al. (2014)](pu014.md). In A. Gunzelmann, A. Howes, T. Tenbrink, & E.J. Davelaar (Eds.). _Proceedings of the 39th Annual Conference of the Cognitive Science Society_ (pp. 1979-1984). Austin, TX: Cognitive Science Society. Accepted: 11 April 2017. Published: August 2017.
 
-Wills, A.J., & Hollins, T.J. (2017). [In defence of effect-centric research](pu011.md). _Journal of Applied Research in Memory and Cognition, 6_, 43-46. Accepted: 31 October 2016. Published: 30 March 2017.
-
-Wills, A.J., O'Connell, G., Edmunds, C.E.R., & Inkster, A.B. (2017). [Progress in modeling through distributed collaboration: Concepts, tools, and category-learning examples](pu002.md). _Psychology of Learning and Motivation, 66,_ 79-115. Accepted: 14 July 2016. Published: 6 February 2017.
-
 
 ### Script generated
 

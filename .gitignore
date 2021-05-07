@@ -4,6 +4,8 @@ _site
 .vagrant
 
 # general
+\#*
+*~
 .DS_Store
 Thumbs.db
 ehthumbs.db

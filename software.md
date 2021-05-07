@@ -6,7 +6,7 @@ subtitle: Open-source software I've written or maintain
 
 - [catlearn](/catlearn): An R package for computational modelling of categorization and learning. [![](https://cranlogs.r-pkg.org/badges/grand-total/catlearn)](https://cran.r-project.org/package=catlearn)
 
-- [freesortphi](http://freesortphi.r-forge.r-project.org/): An R package to do certain Cramer's Phi calculations. [![](https://cranlogs.r-pkg.org/badges/grand-total/freesortphi)](https://cran.r-project.org/package=freesortphi)
+- [freesortphi](http://freesortphi.r-forge.r-project.org/): An R package to do certain Cramer's Phi calculations. 
 
 - [grt](https://github.com/matsukik/grt/issues): An R package to generate and analyze data for psychology experiments based on General Recognition Theory. [![](https://cranlogs.r-pkg.org/badges/grand-total/grt)](https://cran.r-project.org/package=grt)
 

@@ -10,7 +10,7 @@ subtitle: Page under construction
   {% unless talk.pdf == "/no-slides" %}
   <a href="{{ talk.pdf }}">Slides</a>
   {% endunless %}
-  {% unless ta;l.osr == "/no-osr" %}
+  {% unless talk.osr == "/no-osr" %}
    : <a href="{{ talk.osr }}">Repository</a>
   {% endunless %}
   </div>

@@ -1,7 +1,7 @@
 ---
 date: 2018-09-10
 pdf: /assets/pdf/seabrooke2018.pdf
-osr: /metapage/seabrooke-et-al-2019.md
+osr: /metapage/seabrooke-et-al-2019
 tag: dualproc
 alcs: 2019-07-07
 IR: http://hdl.handle.net/10026.1/12011

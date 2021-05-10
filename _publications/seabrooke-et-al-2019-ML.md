@@ -1,7 +1,7 @@
 ---
 date: 2018-09-19
 pdf: /assets/pdf/seabrooke2018b.pdf
-osr: /metapage/seabrooke-et-al-2019-ML.md
+osr: /metapage/seabrooke-et-al-2019-ML
 tag: attlearn
 alcs: 2019-10-27
 IR: http://hdl.handle.net/10026.1/12011

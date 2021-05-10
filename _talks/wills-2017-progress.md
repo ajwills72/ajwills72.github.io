@@ -7,4 +7,3 @@ pu: pu021
 ---
 
 Wills, A.J. (2017). Progress in modelling through distributed collaboration. _Experimental Psychology Society_. London.
-

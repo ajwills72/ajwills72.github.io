@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Papers
-subtitle: Dual-process theories of categorizatiojn
+subtitle: Dual-process theories of categorization
 ---
 
 ## List of publications
@@ -10,8 +10,13 @@ subtitle: Dual-process theories of categorizatiojn
   {% if paper.tag == "dualproc" %}
   <p>{{ paper.content | markdownify }}
   <div align="right">
-  <a href="{{ paper.pdf }}">Full-text (PDF)</a> - <a href="{{ paper.osr }}">Open-access repository</a>
+  {% unless paper.pdf == "/no-text" %}
+  <a href="{{ paper.pdf }}">Full text</a>
+  {% endunless %}
+  {% unless paper.osr == "/no-osr" %}
+   : <a href="{{ paper.osr }}">Repository</a>
+  {% endunless %}
   </div>
   </p>
-  {% endif %}
+  {% endif %} 
 {% endfor %}

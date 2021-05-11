@@ -2,7 +2,7 @@
 date: 2017-08-01
 pdf: /assets/pdf/edmunds2017cogsci.pdf
 osr: /no-osr
-tag: compcat
+tag: dualproc
 alcs: 2019-10-26
 IR: /no-IR
 accepted: 2017-04-11

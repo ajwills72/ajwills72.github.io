@@ -10,8 +10,13 @@ subtitle: Free classification and perceptual learning
   {% if paper.tag == "freecatPL" %}
   <p>{{ paper.content | markdownify }}
   <div align="right">
-  <a href="{{ paper.pdf }}">Full-text (PDF)</a> - <a href="{{ paper.osr }}">Open-access repository</a>
+  {% unless paper.pdf == "/no-text" %}
+  <a href="{{ paper.pdf }}">Full text</a>
+  {% endunless %}
+  {% unless paper.osr == "/no-osr" %}
+   : <a href="{{ paper.osr }}">Repository</a>
+  {% endunless %}
   </div>
   </p>
-  {% endif %}
+  {% endif %} 
 {% endfor %}

@@ -37,7 +37,7 @@ navbar-links:
     - Lab members: "lab"
     - Co-authors: "coauthors"
   Outputs:
-    - Publications: "publications"
+    - Papers: "publications"
     - Talks: "talks"
 
   Resources:

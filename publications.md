@@ -14,7 +14,7 @@ At the end of this page, you'll find a full list of the papers I've co-authored 
 
 - [Attention, errors, and learning](pub-attlearn.md)
 
-- [Dual-process theories of categorization](pub-dualproc.md)
+- [Dual-process theories of learning and categorization](pub-dualproc.md)
 
 - [Free classification and perceptual learning](pub-freecatPL.md)
 

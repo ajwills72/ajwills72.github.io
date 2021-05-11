@@ -9,6 +9,6 @@ accepted: NA
 DOI: https://doi.org/10.46221/ojepn.2020.8639
 ---
 
-Edmunds, C.E.R., Inkster, A.B., Jones, P.M., Milton, F., & Wills, A.J. (2020). Absence of cross-modality analogical transfer in perceptual categorization). _Open Journal of Experimental Psychology and Neuroscience, 1_, 3-13.
+Edmunds, C.E.R., Inkster, A.B., Jones, P.M., Milton, F., & Wills, A.J. (2020). Absence of cross-modality analogical transfer in perceptual categorization. _Open Journal of Experimental Psychology and Neuroscience, 1_, 3-13.
 
 

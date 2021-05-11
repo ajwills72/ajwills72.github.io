@@ -1,21 +1,10 @@
 ---
 layout: page
 title: Publications
-subtitle: Page under construction
+subtitle: Full list of my academic writing
 ---
 
-
-## Preprints
-
-Inkster, A., Mitchell, C. J., Schlegelmilch, R., & Wills, A. J. [Effect of a context shift on the inverse base rate effect](pu075.md).
-
-Inkster, A.B., Milton, F., Edmunds, C.E.R., Benattayallah, A., & Wills, A.J. [Neural correlates of the inverse base-rate effect](pu073.md).
-
-Edmunds, C.E.R., Inkster, A.B., Jones, P.M., Milton, F., & Wills, A.J. [Absence of cross-modality analogical transfer in perceptual categorization](pu008.md).
-
-Seabrooke, T., Mitchell, C. J., Wills, A. J., & Hollins, T. J. (in press). [Pretesting boosts recognition, but not cued recall, of targets from unrelated word pairs](pu060.md). Psychonomic Bulletin and Review. Accepted: 26 November 2019.
-
-### Script generated
+_Full text_ links lead to the full-text of the manuscript, normally as a PDF. _Repository_ links lead to a location from which the raw data, analysis scripts, etc. can be publicly accessed. Where the full-text of the paper is open access and contains such links within it, the _repository_ link leads to the paper. If there is no _repository_ link for a paper you're interested in, please request that I add one.
 
 {% for paper in site.publications reversed %}
   <p>{{ paper.content | markdownify }}

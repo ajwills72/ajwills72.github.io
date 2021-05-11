@@ -2,7 +2,7 @@
 date: 2016-08-01
 pdf: /assets/pdf/edmunds2016covis.pdf
 osr: /no-osr
-tag: dualproc
+tag: misc
 alcs: 2019-10-26
 IR: /no-IR
 ---

@@ -2,7 +2,7 @@
 date: 2014-10-12
 pdf: /assets/pdf/2014yeates.pdf
 osr: /no-osr
-tag: dualproc
+tag: misc
 alcs: ineligible
 IR: http://hdl.handle.net/10026.1/4157
 ---

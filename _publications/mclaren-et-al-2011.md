@@ -2,7 +2,7 @@
 date: 2011-05-19
 pdf: /assets/pdf/2011mclaren.pdf
 osr: /no-osr
-tag: freecatPL
+tag: misc
 alcs: 2013-11-15
 ---
 

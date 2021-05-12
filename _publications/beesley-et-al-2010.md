@@ -2,7 +2,7 @@
 date: 2010-02-01
 pdf: /assets/pdf/2010beesley.pdf
 osr: /no-osr
-tag: freecatPL
+tag: misc
 alcs: 2013-09-09
 ---
 

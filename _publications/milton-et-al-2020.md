@@ -2,7 +2,7 @@
 date: 2020-01-01
 pdf: /assets/pdf/milton2019.pdf
 osr: /metapage/milton-et-al-2020
-tag: freecatPL
+tag: misc
 alcs: ineligible
 IR: http://hdl.handle.net/10026.1/14753
 accepted: 2019-08-03

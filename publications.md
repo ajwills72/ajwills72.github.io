@@ -10,7 +10,7 @@ At the end of this page, you'll find a full list of the papers I've co-authored 
 
 I work on the psychology and neuroscience of learning and categorization. More specifically, I have published on the following topics within this area:
 
-- [Computational modelling](pub-compcat.md)
+- [Computational modelling of categorization](pub-compcat.md)
 
 - [Theories of object classification](pub-objclass.md)
 

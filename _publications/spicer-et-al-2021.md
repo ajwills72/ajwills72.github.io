@@ -2,7 +2,7 @@
 date: 2021-03-17
 pdf: https://www.ojepn.com/images/2021/2021-6623.pdf
 osr: https://www.ojepn.com/images/2021/2021-6623.pdf
-tag: compcat
+tag: misc
 alcs: ineligible
 IR: /no-IR
 accepted: NA

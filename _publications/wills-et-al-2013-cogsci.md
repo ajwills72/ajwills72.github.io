@@ -2,7 +2,7 @@
 date: 2013-08-01
 pdf: /assets/pdf/wills2013cogsci.pdf
 osr: /no-osr
-tag: objclass
+tag: misc
 alcs: ineligible
 ---
 

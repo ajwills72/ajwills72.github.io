@@ -2,7 +2,7 @@
 date: 2011-02-01
 pdf: /assets/pdf/2011goto.pdf
 osr: /no-osr
-tag: objclass
+tag: misc
 alcs: 2013-09-11
 ---
 

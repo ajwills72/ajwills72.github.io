@@ -2,7 +2,7 @@
 date: 2009-08-01
 pdf: /assets/pdf/2009miltoncogsci.pdf
 osr: /no-osr
-tag: objclass
+tag: misc
 alcs: ineligible
 ---
 

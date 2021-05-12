@@ -2,7 +2,7 @@
 date: 2008-12-31
 pdf: /assets/pdf/2008leaWills.pdf
 osr: /no-osr
-tag: objclass
+tag: misc
 alcs: ineligible
 ---
 

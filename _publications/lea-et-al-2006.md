@@ -2,7 +2,7 @@
 date: 2005-07-13
 pdf: /assets/pdf/2006leawillsryan.pdf
 osr: /no-osr
-tag: objclass
+tag: misc
 alcs: 2013-09-01
 ---
 

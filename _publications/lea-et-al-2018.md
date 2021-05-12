@@ -2,7 +2,7 @@
 date: 2018-04-01
 pdf: /assets/pdf/lea2018.pdf
 osr: /no-osr
-tag: objclass
+tag: misc
 alcs: ineligible
 IR: http://hdl.handle.net/10026.1/10687
 accepted: 2018-01-27

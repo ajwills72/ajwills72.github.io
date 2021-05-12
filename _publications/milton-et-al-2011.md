@@ -2,7 +2,7 @@
 date: 2011-08-01
 pdf: /assets/pdf/2011milton.pdf
 osr: /no-osr
-tag: objclass
+tag: misc
 alcs: ineligible
 ---
 

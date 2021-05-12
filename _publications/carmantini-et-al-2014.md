@@ -2,7 +2,7 @@
 date: 2014-08-01
 pdf: /assets/pdf/2014carmantini.pdf
 osr: /no-osr
-tag: compcat
+tag: misc
 alcs: 2016-08-01
 IR: http://hdl.handle.net/10026.1/3070
 ---

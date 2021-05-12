@@ -2,7 +2,7 @@
 date: 2018-08-01
 pdf: /assets/pdf/sch2018.pdf
 osr: /no-osr
-tag: compcat
+tag: misc
 alcs: 2019-10-27
 IR: /no-IR
 accepted: 2018-04-13

@@ -2,7 +2,7 @@
 date: 2005-04-01
 pdf: /assets/pdf/2005willsch6.pdf
 osr: /no-osr
-tag: compcat
+tag: misc
 alcs: /no-alcs
 ---
 

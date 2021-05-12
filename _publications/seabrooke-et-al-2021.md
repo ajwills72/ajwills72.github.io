@@ -2,7 +2,7 @@
 date: 2020-09-21
 pdf: /assets/pdf/seabrooke2019pbr.pdf
 osr: /metapage/seabrooke-et-al-2021
-tag: attlearn
+tag: misc
 alcs: ineligible
 IR: http://hdl.handle.net/10026.1/15204
 accepted: 2019-11-26

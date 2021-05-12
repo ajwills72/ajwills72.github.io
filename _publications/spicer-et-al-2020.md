@@ -2,7 +2,7 @@
 date: 2020-04-01
 pdf: /assets/pdf/spicer2019.pdf
 osr: /metapage/spicer-et-al-2020
-tag: attlearn
+tag: misc
 alcs: ineligible
 IR: http://hdl.handle.net/10026.1/14792
 accepted: 2019-07-19

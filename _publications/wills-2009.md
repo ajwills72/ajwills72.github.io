@@ -2,7 +2,7 @@
 date: 2009-04-01
 pdf: /assets/pdf/2009wills.pdf
 osr: /no-osr
-tag: attlearn
+tag: misc
 alcs: ineligible
 ---
 

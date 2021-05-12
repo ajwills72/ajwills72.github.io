@@ -2,7 +2,7 @@
 date: 2005-04-01
 pdf: /assets/pdf/2005lepelley.pdf
 osr: /no-osr
-tag: attlearn
+tag: misc
 alcs: 2013-09-01
 ---
 

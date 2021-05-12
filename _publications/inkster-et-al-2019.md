@@ -2,7 +2,7 @@
 date: 2019-09-20
 pdf: https://psyarxiv.com/rpb7x/
 osr: https://psyarxiv.com/rpb7x/
-tag: attlearn
+tag: misc
 alcs: NA
 IR: NA
 accepted: NA

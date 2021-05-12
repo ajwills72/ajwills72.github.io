@@ -1,8 +1,12 @@
 ---
 layout: page
 title: Talks
-subtitle: Page under construction
+subtitle: Selected talks I have given
 ---
+
+I generally give a few research-relared talks a year, and have done so for about 25 years. I'm slowly adding them to this page, as time permits.
+
+## Selected talks
 
 {% for talk in site.talks reversed %}
   <p>{{ talk.content | markdownify }}

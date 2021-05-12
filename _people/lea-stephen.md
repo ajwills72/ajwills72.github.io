@@ -1,7 +1,7 @@
 ---
 surname: Lea
 first-name: Stephen
-position: Emeritus Professor of Psychology, University of Exeter
+position: Emeritus Professor
 thumbnail-img: /assets/img/segl by ingmar.jpg
 link: http://people.exeter.ac.uk/SEGLea/
 co-count: 9

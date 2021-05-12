@@ -1,7 +1,7 @@
 ---
 surname: Suret
 first-name: Mark
-position: Chartered tax advisor
+position: Tax advisor
 thumbnail-img: /assets/img/blank-person.jpg
 link: https://uk.linkedin.com/in/mark-suret-25128b25
 co-count: 2

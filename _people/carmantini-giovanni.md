@@ -1,11 +1,12 @@
 ---
-surname: Benattayallah
-first-name: Abdelmalek
-position: Medical physicist
+surname: Carmantini
+first-name: Giovanni
+position: Co-founder, foldAI
 thumbnail-img: /assets/img/giovanni-carmantini.jpg
-link: 
+link: https://fold.ai/our-team/
 co-count: 1
 ---
 
-Malek works at the Brain Research Imaging Centre, Plymouth University. He previously worked at the Exeter MR centre. We have published through a common connection with Fraser Milton. 
+Giovanni is a co-founder at foldAI, a startup that uses AI to support sustainable forestry. I supervised his Masters' dissertation at Plymouth University.
+
 

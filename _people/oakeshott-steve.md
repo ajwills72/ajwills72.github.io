@@ -7,7 +7,7 @@ link: https://www.linkedin.com/in/stephen-oakeshott-b0437417/?originalSubdomain=
 co-count: 1
 ---
 
-Back in the '90s, Steve and I worked in the Experimental Psychology department, Cambridge. I went to Exeter in 200, and he went to Brooklyn College a few years later. He now works for the Medical Research Council, UK.
+Back in the '90s, Steve and I worked in the Experimental Psychology department, Cambridge. I went to Exeter in 2000, and he went to Brooklyn College a few years later. He now works for the Medical Research Council, UK.
 
 
 

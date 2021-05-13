@@ -1,15 +1,12 @@
 ---
-surname: Rolland
-first-name: Matt
-position: 
-thumbnail-img: /assets/img/blank-person.jpg
-link: 
+surname: Koh
+first-name: Zhisheng
+position: Senior Photographer
+thumbnail-img: /assets/img/zhisheng-koh.jpg
+link: https://www.linkedin.com/in/kohzhisheng/?originalSubdomain=sg 
 co-count: 1
 ---
 
-I supervised Matt Rolland's undergraduate dissertation at Exeter University.
-
-
-
+Zhisheng works as Livestudios, Singapore. Previously, he was a research assistant at National University Singapore. We've published together through a common connection with Steve Graham.
 
 

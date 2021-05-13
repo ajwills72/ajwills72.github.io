@@ -2,7 +2,7 @@
 surname: D'Hooge
 first-name: Rudi
 position: Professor
-thumbnail-img: /assets/img/rudi-dehooge.jpg
+thumbnail-img: /assets/img/rudi-dhooge.jpg
 link: https://ppw.kuleuven.be/english/education/programmes/master-of-psychology-theory-and-research/teaching-staff/00043549/view?sortby=scdate&pubsonpage=20&pubtype=journal-article
 co-count: 1
 ---

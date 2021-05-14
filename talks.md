@@ -4,7 +4,7 @@ title: Talks
 subtitle: Selected talks I have given
 ---
 
-I generally give a few research-relared talks a year, and have done so for about 25 years. I'm slowly adding them to this page, as time permits.
+I generally give a few research-related talks a year, and have done so for about 25 years. I'm slowly adding them to this page, as time permits.
 
 ## Selected talks
 

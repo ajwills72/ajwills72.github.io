@@ -12,9 +12,11 @@ Keen to secure a permanent position, and interested in teaching as well as resea
 
 In 2012, I moved to Plymouth to take up a full professor role there. Since then, I've been focussing less on management, and more on research, pursuing the same four principal topics as I did in Exeter. Since arriving at Plymouth, I've also chaired a major redesign of the undergraduate curriculum, overseen the transition from teaching undergraduates SPSS to teaching them R, built and maintained an R package to support formal modelling in categorization, and become an advocate of open science, and of open-source software. Oh, and I co-ordinated our REF 2021 submission, and served for a brief period as Associate Head of Research.
 
-## Notes
+## More about me
 
-- You can see my academic tree at [psychtree](https://academictree.org/psych/tree.php?pid=71145).
+- [CV](/cv)
 
-- Before moving my blog to this site, I blogged for several years on [blogspot](http://willslabblog.blogspot.com/).
+- [Academic tree](https://academictree.org/psych/tree.php?pid=71145).
+
+- Blog: [current](https://www.andywills.info/), [2012-2021](http://willslabblog.blogspot.com/).
 

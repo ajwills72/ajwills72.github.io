@@ -24,6 +24,8 @@ author: Andy Wills
 collections:
   people:
     sort_by: surname
+  lab:
+    sort_by: surname
   publications:
     sort_by: date
   talks:

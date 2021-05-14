@@ -2,7 +2,7 @@
 surname: Ellett
 first-name: Lyn
 position: Reader
-thumbnail-img: /assets/img/lyn-ellet.jpg
+thumbnail-img: /assets/img/lyn-ellett.jpg
 link: 
 co-count: 1
 ---

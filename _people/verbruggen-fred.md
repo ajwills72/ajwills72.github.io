@@ -2,7 +2,7 @@
 surname: Verbruggen
 first-name: Fred
 position: Professor
-thumbnail-img: /assets/img/fred-verbruggen.jpg
+thumbnail-img: /assets/img/fred-vergbruggen.jpg
 link: https://www.researchgate.net/scientific-contributions/Frederick-Verbruggen-38674382
 co-count: 1
 ---

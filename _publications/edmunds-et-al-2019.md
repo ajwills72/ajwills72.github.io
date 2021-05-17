@@ -1,6 +1,6 @@
 ---
 date: 2018-01-01
-pdf: /assets/pdf/edumunds2017.pdf
+pdf: /assets/pdf/edmunds2017.pdf
 osr: /metapage/edmunds-et-al-2019.md
 tag: dualproc
 alcs: 2019-07-07

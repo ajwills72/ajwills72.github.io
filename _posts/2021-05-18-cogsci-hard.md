@@ -2,7 +2,7 @@
 layout: post
 title: How hard is cognitive science?
 subtitle: Very, very hard
-cover-img: /assets/img/cogscihard.jpg
+cover-img: /assets/img/cogscihard.png
 thumbnail-img: /assets/img/cogscihard.png
 share-img: /assets/img/cogscihard.png
 gh-repo: daattali/beautiful-jekyll
@@ -22,9 +22,9 @@ This is all very much my first impression of this interesting paper. One thing t
 
 Another thing is that I wonder whether the assumption there is exactly one correct theory makes the problem particularly difficult. If there are in fact a large number of reasonably adequate theories, finding one of them should not be so hard. 
 
-A related point - I think the authors are relying on time to be sure of finding the correct answer. Would this therefore be a type of worst-case scenario, where it could take that long, but we'd be extraordinarily unlucky for it to do so. For example, do the conclusions differ if we estimate the time elapsed before finding the solution 50% of the time?
+A related point - I think the authors are relying on calculating the amoutn of time to be sure of finding the correct answer. Would this therefore be a type of worst-case scenario, where it could take that long, but we'd be extraordinarily unlucky for it to do so? For example, do the conclusions differ if we estimate the time elapsed before finding the solution 50% of the time?
 
-So, to emphasize, these are initial thoughts on a fascinating paper, and it's very possible the authors have already thought about and addressed these thoughts. Either way. thanks Patricia, Ronald, Todd, and Iris, great work!
+So, to emphasize, these are initial thoughts on a fascinating paper, and it's very possible the authors have already thought about and addressed these thoughts. Either way, thanks Patricia, Ronald, Todd, and Iris, great work!
 
 
 Image by Rich et al.

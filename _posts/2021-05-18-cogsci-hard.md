@@ -27,4 +27,16 @@ A related point - I think the authors are relying on calculating the amoutn of t
 So, to emphasize, these are initial thoughts on a fascinating paper, and it's very possible the authors have already thought about and addressed these thoughts. Either way, thanks Patricia, Ronald, Todd, and Iris, great work!
 
 
-Image by Rich et al.
+Image by Rich et al. (2021)
+
+### UPDATE: 2020-05-19
+
+The tweet of this blog post reached around 10K impressions within 20 hours - clearly Rich and colleagues are saying something people are interested in here, and I'm happy to have helped bring it to a slightly wider audience. 
+
+In other news, I talked to my wife (a Head Teacher of an [SEN school](https://www.millfordschool.co.uk/welcome/staff/senior-leader-ship-team)) about this paper last night, which prompted another couple of random thoughts that might be worth sharing:
+
+- Is cognitive science particularly hard? For example, compared to explaining the set of phenomena encompassed by Newtonian laws? If it is not harder than other sciences, how do we explain the (apparent?) success of theories in other fields?
+
+- If this particular goal of cognitive science is indeed intractable, how should we respond? For example, do we change the goal? Having the wrong goal doesn't necessarily preclude progress. For example, transmutation of base metals into gold (alchemy) isn't possible, but the pursuit of that goal did seem to advance chemistry. However, once we know a goal is unachievable, what is to be gained by keeping the same goal?
+
+

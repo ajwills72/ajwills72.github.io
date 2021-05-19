@@ -39,4 +39,7 @@ In other news, I talked to my wife (a Head Teacher of an [SEN school](https://ww
 
 - If this particular goal of cognitive science is indeed intractable, how should we respond? For example, do we change the goal? Having the wrong goal doesn't necessarily preclude progress. For example, transmutation of base metals into gold (alchemy) isn't possible, but the pursuit of that goal did seem to advance chemistry. However, once we know a goal is unachievable, what is to be gained by keeping the same goal?
 
+### UPDATE: 2020-05-19, part 2
 
+Starting to read the Supplementary Materials, a key point seems to be that if a problem is NP-hard, then it is intractable by the authors' definition. A famous example of an NP-hard problem is the [Travelling Salesperson Problem](https://en.wikipedia.org/wiki/Travelling_salesman_problem), yet humans quickly find near-optimal solutions to these problems (e.g. [MacGregor & Omerod, 1996](https://core.ac.uk/download/pdf/193094737.pdf)). So, intractable by this definition does not mean that humans are unable to make progress on a solution. 
+ 

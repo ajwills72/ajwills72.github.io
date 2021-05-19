@@ -30,6 +30,8 @@ collections:
     sort_by: date
   talks:
     sort_by: date
+  quotes:
+    sort_by: year
     
 # --- List of links in the navigation bar --- #
 
@@ -44,6 +46,7 @@ navbar-links:
 
   Resources:
     - Open culture: "open"
+    - Quotes: "quotes"
     - Software: "software"
     - Teaching: "teach"
 #    - Learn markdown: "https://www.markdowntutorial.com/"

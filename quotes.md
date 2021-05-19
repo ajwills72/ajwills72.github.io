@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Quotes
-subtitle: Well, one quote for now...
+subtitle: Well, two quotes for now...
 ---
 
 {% for quote in site.quotes reversed %}

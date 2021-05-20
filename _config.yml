@@ -45,6 +45,7 @@ navbar-links:
     - Talks: "talks"
 
   Resources:
+    - Lab resources: "lab-res"
     - Open culture: "open"
     - Quotes: "quotes"
     - Software: "software"

@@ -10,6 +10,7 @@ subtitle: Current members
   <p>{{ person.content | markdownify }}
 {% endfor %}
 
+
 ### Selected lab resources
 
 This section is mainly for the benefit of current lab members, but feel free to read on if you're curious.

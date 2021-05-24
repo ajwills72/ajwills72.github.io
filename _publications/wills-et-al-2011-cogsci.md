@@ -2,7 +2,7 @@
 date: 2011-08-01
 pdf: /assets/pdf/2011willscs.pdf
 osr: /no-osr
-tag: dualproc
+tag: misc
 alcs: ineligible
 ---
 

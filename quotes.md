@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Quotes
-subtitle: Well, two quotes for now...
+subtitle: "Bite-size wisdom"
 ---
 
 {% for quote in site.quotes reversed %}

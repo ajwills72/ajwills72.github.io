@@ -43,13 +43,13 @@ navbar-links:
   Outputs:
     - Papers: "publications"
     - Talks: "talks"
-
+    - Software: "software"
   Resources:
     - Lab resources: "lab-res"
     - Open culture: "open"
     - Quotes: "quotes"
-    - Software: "software"
-    - Teaching: "teach"
+    - Teaching: "teach"      
+
 #    - Learn markdown: "https://www.markdowntutorial.com/"
 #  Author's home: "https://deanattali.com"
 

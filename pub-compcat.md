@@ -8,7 +8,7 @@ subtitle: Computational modelling of categorization
 
 **Approaches to model comparison**: Since around 2008, I've been thinking a lot about the problem of formal model comparison, leading to a fairly strong statement of the problem (Wills & Pothos, 2012), followed by some proactive attempts to begin to solve the problem (Wills et al., 2017), including a range of open-source [software](/software).
 
-**The CAL model**: One of the unexpected side benefits of this thinking about model comparison is that it brought me into contact with René Schlegelmilch, who started developing the CAL model of category learning during as a visiting Ph.D. student in my lab in 2017. CAL is a fascinating and sophisticated new model of category learning, which you can read about in preprint form below (Schlegelmilch et al., 2020). 
+**The CAL model**: One of the unexpected side benefits of this thinking about model comparison is that it brought me into contact with René Schlegelmilch, who started developing the CAL model of category learning as a visiting Ph.D. student in my lab in 2017. CAL is a fascinating and sophisticated new model of category learning, which you can read about our forthcoming Psychological Review paper (Schlegelmilch et al., 2021), see below. 
 
 
 ## Selected publications

@@ -37,7 +37,7 @@ There are three steps
 
 1. Reboot: `sudo reboot`
 
-2. Unlock drive: `ssh root@10.224.46.127 -p 8022 -i ~/.ssh/id_rsa`, wait until you see the "please unlock" dialog including the final colon, type in the password that was used to encrypt the drive. 
+2. Unlock drive: `ssh root@10.224.46.144 -p 8022 -i ~/.ssh/id_rsa`, wait until you see the "please unlock" dialog including the final colon, type in the password that was used to encrypt the drive. 
 
 3. Now you can log in normally, as per above.
 

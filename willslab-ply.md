@@ -10,7 +10,9 @@ subtitle: Lab compute server
 
 - Nvidia Quadro P200 5GB 
 
-- 2 x 1TB SSD
+- 1TB SSD system drive
+
+- 1TB SSD dataset drive (mounted at `/mnt/datasets`)
 
 
 ## Configuration
@@ -20,6 +22,11 @@ subtitle: Lab compute server
 - R 4.1.0; R packages: MRAN 2021-05-19
 
 - Python 3.8.10; Tensorflow 2.5.0 (GPU enabled)
+
+
+## Datasets
+
+`/mnt/datasets/objectnet` (190GB) - The [ObjectNet](https://objectnet.dev/) image set.
 
 
 ## Logging on

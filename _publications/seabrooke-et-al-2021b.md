@@ -9,7 +9,7 @@ accepted: 2021-07-22
 DOI: /no-doi
 ---
 
-Seabrooke, T., Mitchell, C. J., Wills, A. J., & Hollins, T. J. (2021). Pretesting boosts recognition, but not cued recall, of targets from unrelated word pairs. _Psychonomic Bulletin & Review, 28_, 268-273.
+Seabrooke, T., Mitchell, C. J., Wills, A. J., Inkster, A. B. & Hollins, T. J. (accepted). The Benefits of Impossible Tests: Assessing the Role of Error-Correction in the Pretesting Effect. _Memory & Cognition_.
 
 
 

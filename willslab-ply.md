@@ -35,7 +35,7 @@ _Note:_ Configuring CUDA/cuDNN/Tensorflow is fiddly; this [Medium](https://mediu
 
 1. Be on campus, or connect to the campus network via the VPN.
 
-2. Log on via SSH: `user@10.224.46.144` 
+2. Log on via SSH: `user@10.224.46.144`. If you want to be able to e.g. view images, you can `ssh -X user@10.224.46.144` and use the `eog` command.
 
 ## Using tensorflow
 

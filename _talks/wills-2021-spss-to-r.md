@@ -1,6 +1,7 @@
 ---
 date: 2021-07-19
-pdf: https://www.youtube.com/watch?v=VfmisntqcqE
+video: https://www.youtube.com/watch?v=VfmisntqcqE
+slides: /no-slides
 osr: /no-osr
 tag: open-science
 pu: ajwills72/pu177-spss-r

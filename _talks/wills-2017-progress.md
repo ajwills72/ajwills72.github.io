@@ -1,6 +1,7 @@
 ---
 date: 2017-01-05
-pdf: http://www.willslab.org.uk/vid/catlearn-intro.mp4
+video: http://www.willslab.org.uk/vid/catlearn-intro.mp4
+slides: /no-slides
 osr: /no-osr
 tag: compcat
 pu: pu021

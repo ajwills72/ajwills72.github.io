@@ -1,6 +1,7 @@
 ---
 date: 2019-06-14
-pdf: /assets/pdf/esteem-slides.pdf
+video: /no-video
+slides: /assets/pdf/esteem-slides.pdf
 osr: https://github.com/ajwills72/on-esteem/
 tag: opensci
 pu: pu074

@@ -11,8 +11,11 @@ I generally give a few research-related talks a year, and have done so for about
 {% for talk in site.talks reversed %}
   <p>{{ talk.content | markdownify }}
   <div align="right">
-  {% unless talk.pdf == "/no-slides" %}
-  <a href="{{ talk.pdf }}">Slides</a>
+  {% unless talk.slides == "/no-slides" %}
+  <a href="{{ talk.slides }}">Slides</a>
+  {% endunless %}
+  {% unless talk.video == "/no-video" %}
+  <a href="{{ talk.video }}">Video</a>
   {% endunless %}
   {% unless talk.osr == "/no-osr" %}
    : <a href="{{ talk.osr }}">Repository</a>

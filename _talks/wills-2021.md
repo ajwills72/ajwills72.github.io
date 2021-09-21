@@ -1,6 +1,7 @@
 ---
 date: 2021-06-16
-pdf: https://www.youtube.com/watch?v=14OFq__r-Xc
+video: https://www.youtube.com/watch?v=14OFq__r-Xc
+slides: /no-slides
 osr: /no-osr
 tag: objrec
 pu: ajwills72/pu172-man-machine

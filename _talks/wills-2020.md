@@ -1,6 +1,7 @@
 ---
 date: 2020-09-08
-pdf: https://www.youtube.com/watch?v=SfqkqEYagJU&list=PLOA0aRJ90NxvXtMt5Si5ukmR9LYfvDueB&index=10
+video: https://www.youtube.com/watch?v=SfqkqEYagJU&list=PLOA0aRJ90NxvXtMt5Si5ukmR9LYfvDueB&index=10
+slides: /no-slides
 osr: /no-osr
 tag: opensci
 pu: NA

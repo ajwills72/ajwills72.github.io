@@ -1,6 +1,7 @@
 ---
 date: 2019-02-13
-pdf: /assets/pdf/fix-replication-crisis.pdf
+video: /no-video
+slides: /assets/pdf/fix-replication-crisis.pdf
 osr: https://github.com/ajwills72/fix-replication-crisis
 tag: opensci
 ---

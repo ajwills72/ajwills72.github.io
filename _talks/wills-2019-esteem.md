@@ -1,6 +1,7 @@
 ---
 date: 2019-06-14
 video: /no-video
+poster: /no-poster
 slides: /assets/pdf/esteem-slides.pdf
 osr: https://github.com/ajwills72/on-esteem/
 tag: opensci

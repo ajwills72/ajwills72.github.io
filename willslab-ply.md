@@ -17,11 +17,13 @@ subtitle: Lab compute server
 
 ## Configuration
 
-- Ubuntu 20.04; CUDA 11.4
+- Ubuntu 20.04; CUDA 11.4; cuDNN 8.2.2
 
 - R 4.1.0; R packages: MRAN 2021-05-19
 
 - Python 3.8.10; Tensorflow 2.5.0 (GPU enabled)
+
+_Note:_ Configuring CUDA/cuDNN/Tensorflow is fiddly; this [Medium](https://medium.com/@harishmasand/installing-tensorflow-with-gpu-cuda-and-cudnn-in-ubuntu-20-04-ab2208c06c4a) post by Harish Masand from August 2021 was helpful.
 
 
 ## Datasets
@@ -35,6 +37,16 @@ subtitle: Lab compute server
 
 2. Log on via SSH: `user@10.224.46.144` 
 
+## Using tensorflow
+
+In order to use Tensforflow, you must edit your `.bashrc` file. Each user must do this once. Specifically, add this to the end of your file:
+
+```
+export LD_LIBRARY_PATH=/usr/local/cuda-11.4/lib64:$LD_LIBRARY_PATH
+export LD_LIBRARY_PATH=/usr/local/cuda/lib64:$LD_LIBRARY_PATH
+```
+
+save, exit, and then `source ~/.bashrc`
 
 ## Remote reboot
 

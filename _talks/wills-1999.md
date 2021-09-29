@@ -8,7 +8,7 @@ tag: objclass
 pu: /none
 ---
 
-Wills, A.J., Chung, I., Moberly, N. & Suret, M. (1999). Secondary generalization, categorization and single-feature reversal. _Associative Learning Symposium, Gregynog, Wales_. 
+Wills, A.J., Chung, I., Moberly, N. & Suret, M. (1999). Secondary generalization, categorization and single-feature reversal. _Associative Learning Symposium_. Gregynog, Wales. 
 
 
 

@@ -10,4 +10,7 @@ This section is mainly for the benefit of current lab members, but feel free to 
 
 - [willslab-ply](willslab-ply.md): Lab compute server
 
-- [Library](library.md): Andy's book collection
+- [LibraryThing](https://www.librarything.com/catalog/AndyWills): Andy's book collection
+
+- [Box of Doom](box-of-doom.md): Record of lab talks
+

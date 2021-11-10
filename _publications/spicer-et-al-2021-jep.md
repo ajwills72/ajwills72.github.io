@@ -1,7 +1,7 @@
 ---
 date: 2021-11-10
 pdf: /assets/pdf/spicer2021.pdf
-osr: /no-osr
+osr: /assets/pdf/spicer2021.pdf
 tag: misc
 alcs: ineligible
 IR: /no-IR

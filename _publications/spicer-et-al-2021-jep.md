@@ -1,11 +1,11 @@
 ---
-date: 2021-11-08
-pdf: /no-text
+date: 2021-11-10
+pdf: /assets/pdf/spicer2021.pdf
 osr: /no-osr
 tag: misc
 alcs: ineligible
 IR: /no-IR
-accepted: 2021-11-08
+accepted: 2021-11-09
 DOI: /no-DOI
 ---
 

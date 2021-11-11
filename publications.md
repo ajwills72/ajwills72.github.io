@@ -22,7 +22,16 @@ I work on the psychology and neuroscience of learning and categorization. More s
 
 ## Publications
 
-**Full text** links lead to the full-text of the manuscript, normally as a PDF. **Repository** links lead to a location from which the raw data, analysis scripts, etc. can be publicly accessed. Where the full text of the paper is open access and contains such links within it, the repository link leads to the paper. If there is no repository link for a paper you're interested in, please request that I add one.
+### Definitions and Explanations
+
+- **Full text** links lead to the full-text of the manuscript, normally as a PDF. 
+
+- **Repository** links lead to a location from which the raw data, analysis scripts, etc. can be publicly accessed. Where the full text of the paper is open access and contains such links within it, the repository link leads to the paper. If there is no repository link for a paper you're interested in, please request that I add one.
+
+_Papers are ordered by date of online publication (date of last update for preprints). Journals differ in the time between online publication and allocation of an article to a journal issue, which  means that sometimes papers are out of order in terms of the year of publication as expressed in their APA reference._
+
+
+### Complete list of publications
 
 {% for paper in site.publications reversed %}
   <p>{{ paper.content | markdownify }}
@@ -40,4 +49,3 @@ I work on the psychology and neuroscience of learning and categorization. More s
 <hr>
 
 
-_Papers are ordered by date of online publication (date of last update for preprints). Journals differ in the time between online publication and allocation of an article to a journal issue, which  means that sometimes papers are out of order in terms of the year of publication as expressed in their APA reference._

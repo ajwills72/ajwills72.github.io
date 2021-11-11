@@ -1,7 +1,7 @@
 ---
 date: 2021-08-06
 pdf: /assets/pdf/seabrooke2021mc.pdf
-osr: /no-osr
+osr: /assets/pdf/seabrooke2021mc.pdf
 tag: misc
 alcs: ineligible
 IR: http://hdl.handle.net/10026.1/17367

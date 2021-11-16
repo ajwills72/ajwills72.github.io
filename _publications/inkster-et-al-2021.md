@@ -4,7 +4,7 @@ pdf: https://psyarxiv.com/muqrh/
 osr: https://psyarxiv.com/muqrh/
 tag: attlearn
 alcs: NA
-IR: NA
+IR: http://hdl.handle.net/10026.1/18369
 accepted: 2021-11-16
 DOI: NA
 ---

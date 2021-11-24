@@ -14,3 +14,4 @@ This section is mainly for the benefit of current lab members, but feel free to 
 
 - [Box of Doom](box-of-doom.md): Record of lab talks
 
+- [Weird DNN](weirdDNN.md): Weird errors in object recognition made by DNNs.

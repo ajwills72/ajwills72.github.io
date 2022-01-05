@@ -9,7 +9,7 @@ accepted: 2021-06-29
 DOI: NA
 ---
 
-Schlegelmilch, R., Wills, A.J. &  von Helversen, B. (2021). A Cognitive Category-Learning Model of Rule Abstraction, Attention Learning, and Contextual Modulation. _Psychological Review_.
+Schlegelmilch, R., Wills, A.J. &  von Helversen, B. (2022). A Cognitive Category-Learning Model of Rule Abstraction, Attention Learning, and Contextual Modulation. _Psychological Review_. Advance Online Publication.
 
 
 

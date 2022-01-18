@@ -17,9 +17,9 @@ subtitle: Lab compute server
 
 ## Configuration
 
-- Ubuntu 20.04; CUDA 11.4; cuDNN 8.2.2
+- Ubuntu 20.04.3; CUDA 11.4; cuDNN 8.2.2
 
-- R 4.1.0; R packages: MRAN 2021-05-19
+- R 4.1.2; R packages: MRAN 2022-01-18
 
 - Python 3.8.10; Tensorflow 2.5.0 (GPU enabled)
 

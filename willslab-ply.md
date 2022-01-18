@@ -6,7 +6,7 @@ subtitle: Lab compute server
 
 ## Specifications
 
-- i7-8700 @ 3.2GHz, 32GB 
+- i7-8700 @ 3.2GHz, 64GB 
 
 - Nvidia Quadro P200 5GB 
 

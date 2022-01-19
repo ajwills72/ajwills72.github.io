@@ -8,7 +8,7 @@ subtitle: Lab compute server
 
 - i7-8700 @ 3.2GHz, 64GB 
 
-- Nvidia Quadro P200 5GB 
+- Nvidia Quadro P2000 5GB 
 
 - 1TB SSD system drive
 

@@ -8,9 +8,11 @@ subtitle:
 
 This section is mainly for the benefit of current lab members, but feel free to read on if you're curious.
 
-- [willslab-ply](willslab-ply.md): Lab compute server
+- [willslab-ply](willslab-ply.md): Lab compute workstation (Feb 2019)
 
-- [Deep Sim](deepsim.md): _Coming 2022_: School of Psychology workstation for Deep Learning.
+- [Deep Sim](deepsim.md): School of Psychology workstation for Deep Learning (_coming 2022_)
+
+- [isaac](isaac.md): Andy's home workstation (Dec 2017)
 
 - [LibraryThing](https://www.librarything.com/catalog/AndyWills): Andy's book collection
 

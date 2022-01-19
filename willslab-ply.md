@@ -1,14 +1,18 @@
 ---
 layout: page
 title: willslab-ply
-subtitle: Lab compute server
+subtitle: Lab compute workstation
 ---
+
+Installed in Feb 2019 as part of the University fleet refresh.
 
 ## Specifications
 
 - i7-8700 @ 3.2GHz, 64GB 
 
 - Nvidia Quadro P2000 5GB 
+
+- 64GB RAM (upgraded from 32GB)
 
 - 1TB SSD system drive
 

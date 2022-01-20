@@ -12,6 +12,8 @@ This section is mainly for the benefit of current lab members, but feel free to 
 
 - [Deep Sim](deepsim.md): School of Psychology workstation for Deep Learning (_coming 2022_)
 
+- [BRIC Azure](bric-azure.md): Virtual Machines for HPC, via MS Azure at the [Brain Research and Imaging Centre](https://www.plymouth.ac.uk/research/psychology/brain-research-and-imaging-centre).
+
 - [isaac](isaac.md): Andy's home workstation (Dec 2017)
 
 - [LibraryThing](https://www.librarything.com/catalog/AndyWills): Andy's book collection

@@ -30,3 +30,8 @@ PD2 was built in December 2017, and named "isaac".
 
 - White, LED-lit windowed case from maplin.co.uk 
 
+## Logging on
+
+1. You'll need an OpenVPN client. plus a bunch of info about Andy's OpenVPN server to be able to log on(request via email). Once you have that...
+
+2. Log on via SSH: `user@192.168.1.172`. If you want to be able to e.g. view images, you can `ssh -X` and use the `eog` command.

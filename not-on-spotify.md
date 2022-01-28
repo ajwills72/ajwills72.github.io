@@ -15,6 +15,12 @@ Given the popularity of Spotify, it deels like the absence of an album from Spot
 | 2002 | Sessions 2000 | Jarre's 14th studio album | 
 | 2004 | Aero | A compilation album with three new tracks and new connecting pieces. |
 | 2006 | Téo & Téa | Jarre's 16th studio album | 
-| 2015 | Essential recollection | A compilation album from 1976-2000, remastered in 2014 |
 
 It also doesn't contain the 2015 Essential Recollection compilation, but as that's a compilation with no new tracks, I built a [Spotify playlist](https://open.spotify.com/playlist/0CFvy5M66KMnHfR4ZHOV2Y?si=8727224068ee4d80).
+
+## Mike Oldfield
+
+| Year | Album | Note |
+| ---- | ----- | ---- |
+| 2017 | Return to Ommadawn | About 8 min of the 42 minute alblum is available |
+

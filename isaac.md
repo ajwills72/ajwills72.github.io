@@ -18,7 +18,7 @@ PD2 was built in December 2017, and named "isaac".
 
 - 40GB DDR4 RAM (originally 8GB)
 
-- 240GB SSD (NVMe)
+- 2TB SSD (originally 240GB SSD)
 
 - 4TB Iron Wolf HDD
 

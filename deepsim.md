@@ -7,9 +7,14 @@ subtitle: School of Psychology Deep Learning Workstation
 This system has budgetary approval (£9.8K), and entered the final spec /
 purchasing phase on 2022-01-17.
 
-The spec requested to TIS is [this machine](https://www.scan.co.uk/products/3xs-dbp-g2-32t-amd-ryzen-threadripper-3970x-128gb-ram-2x-24gb-nvidia-rtx-3090-2tb-m2-ssd-4tb-hdd), which is a 64-thread CPU, 128GB RAM, 2 x RTX3090 for a total of ~20K CUDA cores and 48GB GPU memory. The (retail) cost of components is around £7,500 (see below). They want **£8,500**, which is quite a mark up, but when we previously looked at Lenovo, they wanted £13K for a less-good system. An even less good MacPro system costs around £15K. 
+## Planning for operation
+
+For stability and usability, the way forward may be a docker container running tensorflow and jupyter. Some [initial notes](docker.md)
+
 
 ## Specifications
+
+The spec requested to TIS is [this machine](https://www.scan.co.uk/products/3xs-dbp-g2-32t-amd-ryzen-threadripper-3970x-128gb-ram-2x-24gb-nvidia-rtx-3090-2tb-m2-ssd-4tb-hdd), which is a 64-thread CPU, 128GB RAM, 2 x RTX3090 for a total of ~20K CUDA cores and 48GB GPU memory. The (retail) cost of components is around £7,500 (see below). They want **£8,500**, which is quite a mark up, but when we previously looked at Lenovo, they wanted £13K for a less-good system. An even less good MacPro system costs around £15K. 
 
 What follows is a justification of the primary spec. The goal here was to get a system with a 3-5 year usable life, that was the best within budget, without getting too far off the price-performance sweet spot.
 
@@ -68,3 +73,4 @@ Our CPU loads are mainly Parameter Space Partioning. Even today, we're running 9
 | Case    | 150 |
 | 1200W PSU | 200 |
 | Motherboard | 400 |
+

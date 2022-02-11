@@ -4,8 +4,19 @@ title: DeepSim
 subtitle: School of Psychology Deep Learning Workstation
 ---
 
-This system has budgetary approval (£9.8K), and entered the final spec /
-purchasing phase on 2022-01-17.
+## Timeline
+
+An idea first raised by Lenard in June 2021, this workstation now has budgetary approval (£9.8K), and entered the spec/purchasing phase on 2022-01-17. How much longer will it take - who knows? It took a month to get from budgetary approval to central IT requesting quotes from suppliers. 
+
+| Date | Event |
+| ---- | ----- |
+| 09/06/2021 | £5-10K **workstation requested** from AHoS (research). Declined - no money. |
+| 03/12/2021 | £13K workstation requested from HoS. |
+| 15/12/2021 | AHoS (Research) suggests cloud-based solution / budget reduction |
+| 11/01/2022 | £9.8K workstation bid resubmitted to HoS. **Budget approved** |
+| 17/01/2022 | Spec/advice meeting with Psy Tech Office. TIS contacted via email |
+| 21/01/2022 | Request is logged on TIS self-service system |
+| 09/02/2022 | TIS request quote from getech / lenovo |
 
 ## Planning for operation
 

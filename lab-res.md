@@ -16,8 +16,8 @@ This section is mainly for the benefit of current lab members, but feel free to 
 
 - [isaac](isaac.md): Andy's home workstation (Dec 2017)
 
-- [LibraryThing](https://www.librarything.com/catalog/AndyWills): Andy's book collection
-
-- [Box of Doom](box-of-doom.md): Record of lab talks
-
 - [Weird DNN](weirdDNN.md): Weird errors in object recognition made by DNNs.
+
+### How-to documents
+
+- [Linking JATOS and SONA](jatos-sona-notes.md) : How to set it up such that SONA awards credit to those who complete the study. 

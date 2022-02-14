@@ -6,7 +6,7 @@ subtitle: School of Psychology Deep Learning Workstation
 
 ## Timeline
 
-An idea first raised by Lenard in 2021-06-09, this workstation now has budgetary approval (£9.8K), and was ordered 2022-02-11.
+Delivery due around 15th March 2022.
 
 | Date | Attempt | Event |
 | ---- | ------- | ----- |
@@ -18,7 +18,7 @@ An idea first raised by Lenard in 2021-06-09, this workstation now has budgetary
 | 21/01/2022 |   | Request is logged on TIS self-service system |
 | 09/02/2022 |   | TIS request quote from getech / lenovo |
 | 11/02/2022 |   | No quote forthcoming. **Purchase approved** by TIS. |
-| 11/02/2022 |   | **Ordered** from scan.co.uk by Psy Tech Office |
+| 11/02/2022 |   | **Ordered** from scan.co.uk by Psy Tech Office. Despatch due 14/03/2022. |
 
 ## Planning for operation
 

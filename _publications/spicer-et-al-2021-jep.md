@@ -9,7 +9,7 @@ accepted: 2021-11-09
 DOI: /no-DOI
 ---
 
-Spicer, S.G.,  Mitchell, C.J., Wills,  A.J., Blake, K.L., and Jones, P.M. (2022). Theory protection: Do humans protect existing associative links? _Journal of Experimental Psychology: Animal Learning & Cognition_. accepted.
+Spicer, S.G.,  Mitchell, C.J., Wills,  A.J., Blake, K.L., and Jones, P.M. (2022). Theory protection: Do humans protect existing associative links? _Journal of Experimental Psychology: Animal Learning & Cognition_, 48_, 1-16.
 
 
 

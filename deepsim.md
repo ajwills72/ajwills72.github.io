@@ -6,19 +6,19 @@ subtitle: School of Psychology Deep Learning Workstation
 
 ## Timeline
 
-An idea first raised by Lenard in 2021-06-09, this workstation now has budgetary approval (£9.8K), and entered the spec/purchasing phase on 2022-02-11. 
+An idea first raised by Lenard in 2021-06-09, this workstation now has budgetary approval (£9.8K), and was ordered 2022-02-11.
 
 | Date | Attempt | Event |
 | ---- | ------- | ----- |
 | 09/06/2021 | 1 | £5-10K workstation requested from AHoS (research). Declined - no money. |
 | 03/12/2021 | 2 | £13K workstation requested from HoS. |
-| 15/12/2021 | 2 | AHoS (Research) suggests cloud-based solution / budget reduction |
+| 15/12/2021 |   | AHoS (Research) suggests cloud-based solution / budget reduction |
 | 11/01/2022 | 3 | £9.8K workstation bid resubmitted to HoS. **Budget approved** |
-| 17/01/2022 | 3 | Spec/advice meeting with Psy Tech Office. TIS contacted via email |
-| 21/01/2022 | 3 | Request is logged on TIS self-service system |
-| 09/02/2022 | 3 | TIS request quote from getech / lenovo |
-| 11/02/2022 | 3 | No quote forthcoming. **Purchase approved** by TIS. Psy Tech Office to seek quote |
-
+| 17/01/2022 |   | Spec/advice meeting with Psy Tech Office. TIS contacted via email |
+| 21/01/2022 |   | Request is logged on TIS self-service system |
+| 09/02/2022 |   | TIS request quote from getech / lenovo |
+| 11/02/2022 |   | No quote forthcoming. **Purchase approved** by TIS. |
+| 11/02/2022 |   | **Ordered** from scan.co.uk by Psy Tech Office |
 
 ## Planning for operation
 

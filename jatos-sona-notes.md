@@ -6,9 +6,11 @@ To set up the SONA to JATOS and back to SONA links, you need to take the followi
 
 ## 1. On SONA
 
+Do the following under "Change Study Information" on SONA:
+
 - Set up study on SONA as an Online External Study
 
-- Ensure "Automatic Credit Granting" is set to "no"
+- Ensure "Automatic Credit Granting" is set to "no" 
 
 - Set study URL to a placeholder for now, you need something with `%SURVEY_CODE%` in it so SONA will give you a completion URL:
 

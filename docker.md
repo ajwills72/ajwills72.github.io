@@ -8,7 +8,7 @@ subtitle: Some introductory notes
 
 Maintaining a working, GPU-enabled, copy of tensorflow is a pain the ass; one alternative is to use docker and jupyter:
 
-1. Do a base install of Ubuntu 20.04.
+1. Do a base install of Ubuntu 20.04. **Note**: Do NOT use Ubuntu snap to install docker, this will break things in non-obvious and non-immediate ways. Install docker as described in the next step.
 
 1. Follow [these instructions](https://docs.nvidia.com/datacenter/cloud-native/container-toolkit/install-guide.html#docker) to install _tensorflow-gpu_. 
 

@@ -8,11 +8,7 @@ subtitle: Some introductory notes
 
 Maintaining a working, GPU-enabled, copy of tensorflow is a pain the ass; one alternative is to use docker and jupyter:
 
-1. Do a base install of Ubuntu 20.04, including NVIDIA drivers (just the driver, no need for CUDA etc).
-
-1. Install docker: `sudo snap install docker`
-
-1. Follow [these instructions](https://www.tensorflow.org/install) to install tensorflow as a docker image. 
+1. Do a base install of Ubuntu 20.04.
 
 1. Follow [these instructions](https://docs.nvidia.com/datacenter/cloud-native/container-toolkit/install-guide.html#docker) to install _tensorflow-gpu_. 
 
@@ -32,7 +28,18 @@ From here, operate as root (or use `sudo`)
 
 - You can get a command into the container like this: `docker exec -i -t 91 /bin/bash`
 
-## Future stuff
+## Remote access
 
-- While everything here assumes your browser is on the same physical machine as your docker container, it should be possible to run the notebook from a remote machine, using an SSH tunnel (see tutorial provided by [anaconda](https://docs.anaconda.com/anaconda/user-guide/tasks/remote-jupyter-notebook/)).
+- You can remotely access a jupyter notebook using an SSH tunnel from your local machine, e.g.:
+
+`ssh -L 8080:localhost:8888 usr@addr`
+
+where `user@addr` is replaced with the address of the remote machine, and your username on that machine.
+
+You can then connect using your local browser to:
+
+`http://localhost:8080/` 
+
+You will need the token to access this, which is given in the URL produced by the `docker exec` command above.
+
 

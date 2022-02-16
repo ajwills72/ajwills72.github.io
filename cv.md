@@ -87,9 +87,7 @@ Lenard Dome (current), Gokcek Kul (current), Stuart Spicer (2020), Angus Inkster
 
 ## Professional activities
 
-- **Journal peer review**: Around 50 articles a year, for various high-profile psychology journals.
-
-- **Grant peer review**: Around 10 applications a year, for ESRC and various national funders worldwide.
+- [External peer review](peer.md): Around 50 articles a year, for various high-profile psychology journals, plus around 10 grant applications a year, for ESRC and various national funders worldwide.
 
 - **External Ph.D. examination**: Around one Ph.D. examination a year, for various Russell Group universities.
 

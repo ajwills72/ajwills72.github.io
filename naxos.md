@@ -24,11 +24,15 @@
 
 - [Delos on wikipedia](https://en.wikipedia.org/wiki/Delos)
 
+- [Getting to Delos from Naxos](https://archaeology-travel.com/greece/visiting-delos-island/)
+
 # Ios
 
 - [Skarkos](https://www.greeka.com/cyclades/ios/sightseeing/skarkos/): Bronze-age settlement
 
 # Naxos
+
+ - [Naxos.net](https://www.naxos.net/)
 
 - [Visit Greece site on Naxos](https://www.visitgreece.gr/islands/cyclades/naxos/)
 

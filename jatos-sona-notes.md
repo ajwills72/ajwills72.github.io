@@ -66,6 +66,8 @@ Do the following under "Change Study Information" on SONA:
 
 ## 5. Back on SONA
 
+- Use "Sample Link with Embedded ID code" to test experiment.
+
 - Request study approval.
 
 

@@ -1,8 +1,10 @@
-# Brief notes on setting up SONA <-> JATOS link
+---
+layout: SONA <-> JATOS
+title: Lab resources
+subtitle: Brief notes on setting up a link
+---
 
 These notes cover getting our JATOS server (which runs the experiment) and our SONA server (which handles participant recruitment and credit awards) to talk to each other. This should be the last step, when you're sure the experiment works correctly on JATOS in all other respects.
-
-
 
 To set up the SONA to JATOS and back to SONA links, you need to take the following steps:
 

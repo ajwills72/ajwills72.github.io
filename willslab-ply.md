@@ -34,6 +34,7 @@ _Note:_ Configuring CUDA/cuDNN/Tensorflow is fiddly; this [Medium](https://mediu
 
 `/mnt/datasets/objectnet` (190GB) - The [ObjectNet](https://objectnet.dev/) image set.
 
+`/mnt/datasets/imagenet/` (171GB) - The [ImageNet 2012](https://image-net.org/challenges/LSVRC/index.php) image set. 
 
 ## Logging on
 

@@ -18,7 +18,8 @@ Delivery due around 15th March 2022.
 | 21/01/2022 |   | Request is logged on TIS self-service system |
 | 09/02/2022 |   | TIS request quote from getech / lenovo |
 | 11/02/2022 |   | No quote forthcoming. **Purchase approved** by TIS. |
-| 11/02/2022 |   | **Ordered** from scan.co.uk by Psy Tech Office. Despatch due 14/03/2022. |
+| 11/02/2022 |   | **Ordered** @ £8.5K from scan.co.uk by Psy Tech Office. Despatch due 14/03/2022. |
+| 15/03/2022 |   | Parts shortage, price increase to £9.4K. Despatch now due w/c 21/03/2022. |
 
 ## Planning for operation
 

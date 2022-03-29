@@ -9,7 +9,7 @@ accepted: 2021-07-19
 DOI: /no-doi
 ---
 
-Seabrooke, T., Mitchell, C. J., Wills, A. J., Inkster, A. B. & Hollins, T. J. (2022). The Benefits of Impossible Tests: Assessing the Role of Error-Correction in the Pretesting Effect. _Memory & Cognition_. Published online.
+Seabrooke, T., Mitchell, C. J., Wills, A. J., Inkster, A. B. & Hollins, T. J. (2022). The Benefits of Impossible Tests: Assessing the Role of Error-Correction in the Pretesting Effect. _Memory & Cognition, 50_, 296-311.
 
 
 

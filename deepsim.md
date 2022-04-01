@@ -4,87 +4,30 @@ title: DeepSim
 subtitle: School of Psychology Deep Learning Workstation
 ---
 
-## Timeline
+DeepSim is a multi-user workstation for CPU- and GPU-intensive compute jobs. Only sysadmins have `sudo` on this system; some users have non-root access to `docker`. DeepSim is currently open to a limited number of experienced users, for the purposes of testing. [sysadmin notes](deepsim-config.md).
 
-Delivery due around 15th March 2022.
-
-| Date | Attempt | Event |
-| ---- | ------- | ----- |
-| 09/06/2021 | 1 | £5-10K workstation requested from AHoS (research). Declined - no money. |
-| 03/12/2021 | 2 | £13K workstation requested from HoS. |
-| 15/12/2021 |   | AHoS (Research) suggests cloud-based solution / budget reduction |
-| 11/01/2022 | 3 | £9.8K workstation bid resubmitted to HoS. **Budget approved** |
-| 17/01/2022 |   | Spec/advice meeting with Psy Tech Office. TIS contacted via email |
-| 21/01/2022 |   | Request is logged on TIS self-service system |
-| 09/02/2022 |   | TIS request quote from getech / lenovo |
-| 11/02/2022 |   | No quote forthcoming. **Purchase approved** by TIS. |
-| 11/02/2022 |   | **Ordered** @ £8.5K from scan.co.uk by Psy Tech Office. Despatch due 14/03/2022. |
-| 15/03/2022 |   | Parts shortage, price increase to £9.4K. Despatch now due w/c 21/03/2022. |
-
-## Planning for operation
-
-For stability and usability, the way forward may be a docker container running tensorflow and jupyter. Some [initial notes](docker.md)
+DeepSim was first requested in Jun 2021, with funding agreed in January 2022, and delivery in April 2022. [history](deep-sim-history.md) .
 
 
 ## Specifications
 
-The spec requested to TIS is [this machine](https://www.scan.co.uk/products/3xs-dbp-g2-32t-amd-ryzen-threadripper-3970x-128gb-ram-2x-24gb-nvidia-rtx-3090-2tb-m2-ssd-4tb-hdd), which is a 64-thread CPU, 128GB RAM, 2 x RTX3090 for a total of ~20K CUDA cores and 48GB GPU memory. The (retail) cost of components is around £7,500 (see below). They want **£8,500**, which is quite a mark up, but when we previously looked at Lenovo, they wanted £13K for a less-good system. An even less good MacPro system costs around £15K. 
+- CPU: 64 thread; 3.5/4.2 GHz (Threadripper PRO)
 
-What follows is a justification of the primary spec. The goal here was to get a system with a 3-5 year usable life, that was the best within budget, without getting too far off the price-performance sweet spot.
+- RAM: 128GB (8 x 16GB)
 
-### Choice of GPU
+- 2 x GPU: RTX3090 24GB
 
-| Card | CUDA cores  | Memory (GB) | Price (GBP)  |
-| ---- | ----------- | ----------- | ---------------- | 
-| GTX 1060 (isaac) | 1280 | 3 | 3 | 180 (Dec 2017) |
-| [Quadro P2000][1]  (willslab-ply) | 1024 | 5 | 330 |
-| [RTX 3080][2] | 8960 | 12 |  900 |
-| [RTX 3090][3] | 10496 | 24 |  1900 |
+- 2TB M.2 SSD
 
-[Recent benchmarking][5] indicates that for 2-GPU systems running ResNet152 with a 64 batch size, you can't even do this at 32-bit precision. At 16-bit precision, RTX3090 is about twice as fast as RTX3080. Training even 5-year-old models, like ResNet152, in reasonable time needs at least 18GB of GPU memory (see below). For this workstation to have a 3-5-year useful life, two graphics cards each with 24GB does not seem overkill.
+- 4TB Seagate IronWolf Pro 3.5
 
-#### GPU memory calculations
+- Ubunutu 20.04 (CUDA 11.4)
 
-Training ResNet50 with a batch size of 32 needs [7.5GB of memory][4]. The heuristic they used to work this out is (in bytes) is
+## Logging on
 
-( N_weights + N_nodes ) * 4 * batch_size * mask_elements
+1. Be on campus, or connect to the campus network via the VPN.
 
-The `4` comes from 32-bit precision (so 4 bytes per number). `mask elements` is the number of elements in the convolution mask (typically 3x3 =9); this comes from the limitations of GPUs - we want them to do convolutions but they are inefficient at these, so they're converted into matrix-matrix multiplications, which are faster but use more memory. 
-
-Using this same heuristic, and noting from `model.summary()` in tensorflow than ResNet152 has 2.3x as many parameters as ResNet50, we get an estimate of **17.25GB to train ResNet152 at a batch size of 32.** 
+2. Log on via SSH: `user@10.224.46.142`. If you want to be able to e.g. view images, you can `ssh -X user@10.224.46.142` and use the `eog` command.
 
 
-[1]: https://www.nvidia.com/content/dam/en-zz/Solutions/design-visualization/documents/Quadro-P2000-US-03Feb17.pdf
-
-[2]: https://www.nvidia.com/en-gb/geforce/graphics-cards/30-series/rtx-3080-3080ti/
-
-[3]: https://www.nvidia.com/en-gb/geforce/graphics-cards/30-series/rtx-3090/
-
-[4]: https://www.graphcore.ai/posts/why-is-so-much-memory-needed-for-deep-neural-networks
-
-[5]: https://bizon-tech.com/blog/best-gpu-for-deep-learning-rtx-3090-vs-rtx-3080-vs-titan-rtx-vs-rtx-2080-ti
-
-### Choice of CPU
-
-| CPU | threads | GHz | Price (GBP) |
-| --- | ------- | --- | ----------- |
-| Ryzen 5 1600X (isaac) | 12 | 2.6 | 180 (Dec 2017) |
-| i7-8700 (willslab-ply) | 12 | 3.2 | 200 (Dec 2017) |
-| Ryzen 9 5900X | 24 | 3.7 | 490 | 
-| Ryzen Threadripper 3970X | 64 | 3.7 | 1900 |
-
-Our CPU loads are mainly Parameter Space Partioning. Even today, we're running 96-CPU simulations on HPC systems that take days to run. The current workstations are woefully inadequate (same jobs would take weeks, and memory is inadequate). The last two options are from typical Scan Deep Learning workstations. While there is a cost premium here (2.7x the threads for 3.9x the cost), even the best available within budget is far from overkill.
-
-### Cost of components
-
-| Component | Price (GBP) |
-| --------- | ----------- |
-| RTX3090 x 2 |  3800 |
-| Threadripper 3970X | 1900 |
-| 128 GB RAM | 600 |
-| 2TB SSD | 320 |
-| 4TB HDD | 115 |
-| Case    | 150 |
-| 1200W PSU | 200 |
-| Motherboard | 400 |
 

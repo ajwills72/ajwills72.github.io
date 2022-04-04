@@ -8,7 +8,7 @@ subtitle:
 
 From a base install, we followed [these instructions](https://docs.nvidia.com/datacenter/cloud-native/container-toolkit/install-guide.html#docker) to install _tensorflow-gpu_ , and then [these instructions](https://docs.docker.com/engine/install/linux-postinstall/) to allow normal users to run docker containers. 
 
-Then added: `git`, 
+Then added: `emacs, git, htop, screen, vim` 
 
 ### Adding a user
 
@@ -16,10 +16,11 @@ Then added: `git`,
 
 1. For users we trust to use docker: `sudo usermod -aG docker mynewuser`
 
+1. For users needing somewhere to put large datasets, create a directory in `\mnt\datasets\username` and `chown / chrp` appropriately. 
 
 # RANDOM NOTES
 
-From here, we use `sudo` and follow t
+Don't pay too much attention to the below, these are rough notes, and don't represent (necessarily) how the system currently works.
 
 1. Create a docker volume to keep your files in: `docker volume create tensorflow-vol`
 

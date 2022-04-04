@@ -4,11 +4,12 @@ title: willslab-ply
 subtitle: Lab compute workstation
 ---
 
-Installed in Feb 2019 as part of the University fleet refresh.
+Willslab-Ply is a 12-thread multiuser workstation for moderately CPU-intensive simulations; it was installed in Feb 2019 as part of the University fleet refresh.
+
 
 ## Specifications
 
-- i7-8700 @ 3.2GHz, 64GB 
+- i7-8700 @ 3.2GHz, 64GB (12 threads)
 
 - Nvidia Quadro P2000 5GB 
 

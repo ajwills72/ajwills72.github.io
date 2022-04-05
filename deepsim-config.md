@@ -8,7 +8,7 @@ subtitle:
 
 From a base install, we followed [these instructions](https://docs.nvidia.com/datacenter/cloud-native/container-toolkit/install-guide.html#docker) to install _tensorflow-gpu_ , and then [these instructions](https://docs.docker.com/engine/install/linux-postinstall/) to allow normal users to run docker containers. 
 
-Then added: `emacs, git, htop, screen, vim` 
+Then added: `emacs, git, htop, screen, vim, neovim` 
 
 ### Adding a user
 
@@ -21,6 +21,17 @@ Then added: `emacs, git, htop, screen, vim`
 # RANDOM NOTES
 
 Don't pay too much attention to the below, these are rough notes, and don't represent (necessarily) how the system currently works.
+
+## Some R notes
+
+Some links on using R with docker:
+
+- [Reproducible work in R](https://towardsdatascience.com/reproducible-work-in-r-e7d160d5d198)
+
+- [rocker](https://github.com/rocker-org/rocker)
+
+
+## Some Jupyter notebooks notes
 
 1. Create a docker volume to keep your files in: `docker volume create tensorflow-vol`
 
@@ -36,7 +47,7 @@ Don't pay too much attention to the below, these are rough notes, and don't repr
 
 - You can get a command into the container like this: `docker exec -i -t 91 /bin/bash`
 
-## Remote access
+### Remote access
 
 - You can remotely access a jupyter notebook using an SSH tunnel from your local machine, e.g.:
 

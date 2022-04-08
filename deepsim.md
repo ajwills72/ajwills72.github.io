@@ -23,6 +23,10 @@ DeepSim was first requested in Jun 2021, with funding agreed in January 2022, an
 
 - Ubunutu 20.04 (CUDA 11.4)
 
+## Performance benchmarks
+
+- **Training ResNet50 on Imagenet**: 25 minutes / epoch (both GPUs, all GPU memory used, batch = 256, tensorflow/keras). This is a _45X speedup_ relative to willslab_ply (batch = 16).
+
 
 ## Logging on
 

@@ -2,7 +2,7 @@
 date: 2022-04-25
 pdf: https://www.ojepn.com/images/2022/2022-0404.pdf
 osr: https://www.ojepn.com/images/2022/2022-0404.pdf
-tag: misc
+tag: attlearn
 alcs: NA
 IR: NA
 accepted: NA

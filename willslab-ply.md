@@ -39,11 +39,9 @@ _Note:_ Configuring CUDA/cuDNN/Tensorflow is fiddly; this [Medium](https://mediu
 
 ## Logging on
 
-1. Be on campus, or connect to the campus network via the VPN.
+Request access to [private github repo](https://github.com/ajwills72/deepsim) with log-in instructions from Andy Wills.
 
-2. Log on via SSH: `user@10.224.46.144`. If you want to be able to e.g. view images, you can `ssh -X user@10.224.46.144` and use the `eog` command.
-
-## Using tensorflow
+### Using tensorflow
 
 In order to use Tensforflow, you must edit your `.bashrc` file. Each user must do this once. Specifically, add this to the end of your file:
 
@@ -54,15 +52,6 @@ export LD_LIBRARY_PATH=/usr/local/cuda/lib64:$LD_LIBRARY_PATH
 
 save, exit, and then `source ~/.bashrc`
 
-## Remote reboot
+### Remote reboot
 
-Remote reboot via SSH was set up following [these instructions](https://freundschafter.com/research/how-to-create-and-open-an-encrypted-ubuntu-linux-18-04-server-with-dropbear-through-ssh/) concerning `dropbear-initramfs`. Currently, only AW has the SSH key required to gain access to this functionality, and only AW knows the password to decrypt the drive once access is granted. Send an SMS to AW in case of emergency. 
-
-There are three steps
-
-1. Reboot: `sudo reboot`
-
-2. Unlock drive: `ssh root@10.224.46.144 -p 8022 -i ~/.ssh/id_rsa`, wait until you see the "please unlock" dialog including the final colon, type in the password that was used to encrypt the drive. 
-
-3. Now you can log in normally, as per above.
-
+Only AW has the SSH key required to gain access to this functionality, and only AW knows the password to decrypt the drive once access is granted. Send an SMS to AW in case of emergency. 

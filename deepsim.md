@@ -31,9 +31,6 @@ DeepSim was first requested in Jun 2021, with funding agreed in January 2022, an
 
 ## Logging on
 
-1. Be on campus, or connect to the campus network via the VPN.
-
-2. Log on via SSH: `user@10.224.46.142`. If you want to be able to e.g. view images, you can `ssh -X user@10.224.46.142` and use the `eog` command.
-
+Request access to [private github repo](https://github.com/ajwills72/deepsim) with log-in instructions from Andy Wills.
 
 

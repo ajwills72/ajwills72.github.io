@@ -10,7 +10,7 @@ This section is mainly for the benefit of current lab members, but feel free to 
 
 - [willslab-ply](willslab-ply.md): Lab compute workstation (Feb 2019)
 
-- [Deep Sim](deepsim.md): School of Psychology workstation for Deep Learning (_coming 2022_)
+- [Deep Sim](deepsim.md): School of Psychology workstation for Deep Learning (April 2022)
 
 - [BRIC Azure](bric-azure.md): Virtual Machines for HPC, via MS Azure at the [Brain Research and Imaging Centre](https://www.plymouth.ac.uk/research/psychology/brain-research-and-imaging-centre).
 

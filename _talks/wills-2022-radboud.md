@@ -1,7 +1,7 @@
 ---
 date: 2022-04-26
 video: /no-video
-slides: /no-slides
+slides: https://www.andywills.info/hbab/perception.pdf
 poster: /no-poster
 osr: /no-osr
 tag: objrec

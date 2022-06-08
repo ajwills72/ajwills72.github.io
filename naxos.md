@@ -1,4 +1,3 @@
-
 # Greece
 
 - [Self-made map of historical sites and accommodation](http://umap.openstreetmap.fr/en/map/ancient-greece_717624#7/38.638/23.401)

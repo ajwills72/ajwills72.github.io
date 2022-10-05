@@ -31,7 +31,7 @@ Things to note:
 - **eduroam** - WiFi for students, researchers, and educators at 10,000s of hotspots in over 70 countries (including PU campus).
   - [Instructions](/assets/pdf/pu-eduroam.pdf) for Linux at Plymouth University. 
     
-- **Virtual Private Network** - Connect to the university's private network from outside campus (useful for remote desktop) using these [instructions](vpn-setup.html). 
+- **Virtual Private Network** - Connect to the university's private network from outside campus (useful for remote desktop) using these [instructions](/vpn-setup.html). 
 
 ## Two-factor authentication
 

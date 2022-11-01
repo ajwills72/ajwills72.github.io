@@ -24,3 +24,4 @@ I started keeping a record here in November 2021:
 | 2022-06 | journal | JEP: ABC |
 | 2022-06 | grant   | ESRC |
 | 2022-09 | journal | APP |
+| 2022-11 | journal | Royal Society Open |

@@ -20,3 +20,4 @@ In 2012, I moved to Plymouth to take up a full professor role there. Since then,
 
 - Blog: [current](https://www.andywills.info/), [2012-2021](http://willslabblog.blogspot.com/).
 
+- [Personal library](/library)

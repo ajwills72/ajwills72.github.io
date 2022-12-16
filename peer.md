@@ -9,7 +9,9 @@ I started keeping a record here in November 2021. On 30th November 2022, I decid
 ## Scorecard
 
 **Usage Units** : 0
-**Non-charged reviews**: 1
+
+**Non-charged reviews**: 2
+
 **POSITION**: Not currently accepting new unpaid review requests (reviewing exceeds usage of reviews)
 
 ## List
@@ -35,4 +37,4 @@ I started keeping a record here in November 2021. On 30th November 2022, I decid
 | 2022-11 | journal | Royal Society Open |   |
 | ------- | ------- | ------------------ | --- |
 | 2022-12 | journal | Neurobio. L + M | 1 |
-
+| 2022-12 | journal | Cognitive Science | 1 |

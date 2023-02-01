@@ -8,13 +8,15 @@ I started keeping a record here in November 2021. On 30th November 2022, I decid
 
 ## Scorecard
 
-**Usage Units** : 0
+**Usage Units** : 2
 
-**Non-charged reviews**: 2
+**Non-charged reviews owed**: 6
 
-**POSITION**: Not currently accepting new unpaid review requests (reviewing exceeds usage of reviews)
+**Non-charged reviews conducted**: 2
 
-## List
+**POSITION**: Currently accepting new unpaid review requests (usage of reviews exceeds contribution)
+
+## Review list
 
 | Date | Type | Notes | Non-charged reviews |
 | ---- | ---- | ----- | ------------------- |
@@ -38,3 +40,10 @@ I started keeping a record here in November 2021. On 30th November 2022, I decid
 | ------- | ------- | ------------------ | --- |
 | 2022-12 | journal | Neurobio. L + M | 1 |
 | 2022-12 | journal | Cognitive Science | 1 |
+
+## Usage list
+
+| Date    | Type        | Notes            | Usage units |
+| ------- | ----------- | ---------------- | ----------- |
+| 2023-01 | proceedings | CogSciProc: Dome | 1           |
+| 2023-01 | proceedings | CogSciProc: Kul  | 1           |

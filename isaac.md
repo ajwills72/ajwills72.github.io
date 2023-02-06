@@ -8,7 +8,7 @@ Andy has self-built two "Philosopher's Desktops" (an allusion the the philosophe
 
 PD1 (unnamed), built inside an aluminum case bought in 2003 and initially using a Pentium 4 processor, ended up as a Core 2 Quad machine. It had a least a couple of different graphics cards, too, and hard drive upgrades. It was repurposed as a Linux server in 2012, and was finally scrapped in 2020.
 
-PD2 was built in December 2017, and named "isaac". 
+PD2 was built in December 2017, and named "isaac". It was decomissioned in February 2023, when I decided to switch to reduce my home setup (at peak - laptop, desktop, 2 x NAS) to just a laptop, and a large USB hard drive. Compute and further storage now cloud based (combination of commercial services and two servers at work). If I do any gaming, it'll either be on the laptop or a console (e.g. Nintendo Switch). 
 
 ## Specifications for isaac
 
@@ -30,8 +30,4 @@ PD2 was built in December 2017, and named "isaac".
 
 - White, LED-lit windowed case from maplin.co.uk 
 
-## Logging on
-
-1. You'll need an OpenVPN client. plus a bunch of info about Andy's OpenVPN server to be able to log on(request via email). Once you have that...
-
-2. Log on via SSH: `user@192.168.1.172`. If you want to be able to e.g. view images, you can `ssh -X` and use the `eog` command.
+Note: Due to the gaming motherboard, isaac won't boot without a monitor connected. This makes it pretty much useless as a server.

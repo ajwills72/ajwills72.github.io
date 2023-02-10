@@ -13,9 +13,10 @@ subtitle: Cheat sheet for networks under Linux (tested on Ubuntu)
 
 ## SSH
 
-| option | Explanation |
+| command | Explanation |
 | ------ | ----------- |
-| -vT    | Get a bunch of diagnostics for a connection that isn't working |
+| ssh -vT    | Get a bunch of diagnostics for a connection that isn't working |
+| ssh-add    | Add SSH passphrase, so you are not repeatedly asked for it. |
 
 **Renabling RSA** Some old servers require this deprecated protocol. Re-enable it on a host-by-host basis by adding this to `~/.ssh/config`
 

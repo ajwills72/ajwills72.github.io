@@ -12,9 +12,9 @@ I started keeping a record here in November 2021. On 30th November 2022, I decid
 
 **Non-charged reviews owed**: 6
 
-**Non-charged reviews conducted/ committed to**: 6
+**Non-charged reviews conducted/ committed to**: 5
 
-**POSITION**: Currently NOT accepting new unpaid review requests (requests match usage).
+**POSITION**: Currently accepting new unpaid review requests (usage exceeds contribution).
 
 ## Review list
 
@@ -39,8 +39,8 @@ I started keeping a record here in November 2021. On 30th November 2022, I decid
 | 2022-11 | journal | Royal Society Open |   |
 | ------- | ------- | ------------------ | --- |
 | 2022-12 | journal | Cognitive Science | 1 |
-| 2023-01 | journal | CD Psy Sci - committed to 1 | 1 |
-| 2023-02 | journal | CogSci proc - committed to 3 | 3 |
+| 2023-01 | journal | CD Psy Sci | 1 |
+| 2023-02 | journal | CogSci proc | 2 |
 | 2023-02 | journal | QJEP - committed to 1 | 1 |
 
 ## Usage list

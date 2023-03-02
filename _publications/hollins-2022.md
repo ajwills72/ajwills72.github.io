@@ -9,7 +9,7 @@ accepted: 2022-11-24
 DOI: /no-doi
 ---
 
-Hollins, T.J., Seabrooke, T., Inkster, A., Wills, A. & Mitchell, C.J. (2022). Pre-testing effects are target-specific and are not driven by a generalised state of curiosity. _Memory_ (accepted).
+Hollins, T.J., Seabrooke, T., Inkster, A., Wills, A. & Mitchell, C.J. (2023). Pre-testing effects are target-specific and are not driven by a generalised state of curiosity. _Memory, 31,_ 282-296.
 
 
 

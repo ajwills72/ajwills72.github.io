@@ -23,3 +23,5 @@ In 2012, I moved to Plymouth to take up a full professor role there. Since then,
 - [Personal library](/library)
 
 - [Paper pile](https://photos.app.goo.gl/ePLHRH2gnvfwB9wD8) In 2022, I started clearing out my collection of photocopied journal articles. Although hard to believe now, this is what we all used to do - go to the library and stick things under a photocopier. As I slowly recycle them, I take a photo of the front page and post it here.
+
+- [Undergraduate dissertatation (1993)](/assets/pdf/1993wills.pdf), plus [appendix](/assets/pdf/1993willsAppendix.pdf).

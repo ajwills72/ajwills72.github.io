@@ -20,8 +20,8 @@ In 2012, I moved to Plymouth to take up a full professor role there. Since then,
 
 - Blog: [current](https://www.andywills.info/), [2012-2021](http://willslabblog.blogspot.com/).
 
-- [Personal library](/library)
-
 - [Paper pile](https://photos.app.goo.gl/ePLHRH2gnvfwB9wD8) Although hard to believe now, this is what we all used to do - go to the library and stick journal articles under a photocopier. By March 2023, I had finally recycled all my photocopies of published journal articles, posting a photo of the front page of each of them here. 
 
 - [Undergraduate dissertatation (1993)](/assets/pdf/1993wills.pdf), plus [appendix](/assets/pdf/1993willsAppendix.pdf).
+
+- **Ghost writing**. Back in around 2002, I did some ghost writing for Brown PartWorks, which ended up in a six-volume psychology textbook published by Grolier. They ended up mashing up text from various anonymous authors into chapters, and weren't that responsive to feedback that some of the information was wrong. The [Representing Information](/assets/pdf/representing-information.pdf) chapter is somewhat close to what I wrote, and about 30% of the [Behaviorism](/assets/pdf/behaviorisms.pdf) chapter is related to what I wrote. 

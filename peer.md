@@ -41,7 +41,7 @@ I started keeping a record here in November 2021. On 30th November 2022, I decid
 | 2022-12 | journal | Cognitive Science | 1 |
 | 2023-01 | journal | CD Psy Sci | 1 |
 | 2023-02 | journal | CogSci proc | 2 |
-| 2023-02 | journal | QJEP - committed to 1 | 1 |
+| 2023-02 | journal | QJEP | 1 |
 | 2023-02 | journal | CogSci - committed to 1 | 1 |
 
 ## Usage list

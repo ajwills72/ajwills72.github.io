@@ -4,7 +4,9 @@ title: Prof. Andy J. Wills
 subtitle: C.V. (Peer review)
 ---
 
-I started keeping a record here in November 2021. On 30th November 2022, I decided to only undertake non-charged review work at a rate commensurate with my use of the peer review system.
+I started keeping a record here in November 2021. On 30th November 2022, I decided to only undertake non-charged review work at a rate commensurate with my use of the peer review system, as assessed by the following algorithm:
+
+Each paper or grant I submit (or resubmit) counts as one unit. That unit is divided by the number of senior authors (defined as people who would be asked to do peer reviews themselves). So, if I submit an article with four senior authors, that’s 0.25 units. For each unit I accrue through my submissions, I undertake three uncharged peer reviews (because two reviewers per document is now typical, plus the work of the editor or panel).
 
 ## Scorecard
 

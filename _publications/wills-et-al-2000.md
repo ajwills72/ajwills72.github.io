@@ -1,7 +1,7 @@
 ---
 date: 2000-11-01
 pdf: /assets/pdf/2000Wills.pdf
-osr: http://www.willslab.org.uk/cam1/index.html
+osr: https://www.andywills.info/willslab-dau/cam1/
 tag: compcat
 alcs: ineligible
 ---

@@ -1,0 +1,187 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta content="text/html" http-equiv="content-type">
+<title>willslab.co.uk: EXE10</title>
+<style type="text/css">
+#maxmin { max-width: 800px; min-width: 400px; margin: 0 auto; border:
+none; padding: 0; }
+</style> 
+</head>
+<body>
+<div id="maxmin">
+<h1><img src="logo.png" alt="DAU-specific logo" width= 50 height = 50>
+Data and Analysis Unit: EXE10</h1>
+
+<h2>Description</h2> fMRI contingency learning experiment, based on
+the Shanks-Darby procedure.  This DAU contains raw data, and an
+analysis script, in open cross-platform formats (see the <a href =
+"../formats.html">file format notes</a>).
+
+<h2>Citation</h2> <p> The APA-format citation for this resource is:
+Wills, A.J. and Milton, F. (2016). <i>Data and Analysis Unit:
+EXE10</i>.  Retrieved from http://www.willslab.co.uk/exe10
+
+<p><b>If you make use of these resources, please drop me an email</b>:
+andy@willslab.co.uk.
+
+<h2>Resources</h2>
+<ul>
+<li><a href = "scans/index.html">scans</a> - Sub-page
+containing MR raw data.
+<li><a href = "exe10sots.zip">exe10sots.zip</a> - <b>Updated
+  2016-09-26</b>, now matches published paper. Archive
+containing stimulus onset time files required for fMRI analysis; one
+per participant. The files are in <i>.mat</i> format.  Each file
+contains the vectors listed below. Each vector contains a set of
+stimulus onset times, expressed in seconds from the beginning of the
+run. Where a vector would otherwise be empty (e.g. for a participant
+who had no timeout trials), the vector contains a single onset time,
+set to a value after the end of the run (equal to, or greater than,
+770 seconds).
+<ul>
+<li><i>training.1.correct</i>:
+  Trials during training phase, run 1, on which the participant
+  made the correct response.
+<li><i>training.1.incorrect</i>: 
+  Trials during training phase, run 1, on which the participant
+  made the incorrect response.
+<li><i>training_1_timeout</i>: Trials during training phase, run 1, on
+    which the participant made no response.
+<li><i>training.2.correct</i>: 
+  Trials during training phase, run 2, on which the participant
+  made the correct response.
+<li><i>training.2.incorrect</i>: Trials during training phase, run 2,
+  on which the participant made the incorrect response.
+<li><i>training_2_timeout</i>: Trials during training phase, run 2, on
+    which the participant made no response.
+<li><i>old.test.correct</i>: 
+  Trials during the test phase, on which a familiar stimulus
+  was presented, and the participant made the correct response. 
+<li><i>old.test.incorrect</i>: 
+  Trials during the test phase, on which a familiar stimulus
+  was presented, and the participant made the incorrect response. 
+<li><i>critical.correct</i>: 
+  Trials for critical test items in which the response is consistent with
+  rule-based generalization (see Milton et al., submitted). 
+<li><i>critical.incorrect</i>: 
+  Trials for critical test items in which the response is consistent with
+  similarity-based generalization (see Milton et al., submitted). 
+<li>Compound_rule</i>: Trials for the critical test compound items in
+which the response is consistent with rule-based generalization.
+<li>Compound_similarity</i>: Trials for the critical test items in
+which the response is consistent with similarity-based generalization.
+<li>Element_rule</i>: Trials for the critical test elements in which
+the response is consistent with rule-based generalization.
+<li>Element_similarity</i>: Trials for the critical test element items
+in which the response is consistent with similarity-based generalization.
+<li><i>timeout</i>: 
+  Trials during the test phase in which the participant made no response.
+</ul>
+<li><a href = "exe10data.txt">exe10data.txt</a>  - 
+Trial-level behavioural raw data. Column headings are as follows:
+<ul>
+<li>date: Date paricipant was tested (in MM-DD-YYYY format)
+<li>cond: Experimental condition ( "rule" - rule instructions;
+ "sim" - similarity instructions).
+<li>cb: Counterbalance condition (see exe10code.csv).
+<li>subj: Participant ID (unique within EXE10).
+<li>phase: Experiment phase (1 = training, 2 = test)
+<li>blk: Block (Range 1-10; does not reset between phases).
+<li>trial: Trial number (resets for each block)
+<li>stim: Presented stimulus (e.g. 'cheese and garlic')
+<li>resp: Participant's response to presented meal 
+( 0 = No reaction , 1 = Reaction, -1 = timed out )
+<li>cresp: Correct response.
+<li>rt: Participant's reaction time to presented meal in millisecond
+ ( 0 = timed out)
+<li>stim2: Stimulus ID number (see exe10code.csv, 'stim' column).
+</ul>
+		
+<li><a href = "exe10code.csv">exe10code.csv</a>  - 
+Shows mapping from food stimulus
+ID ('stim2' in exe10data.txt), physical food names,
+ and logical food labels (A,B, etc). The last
+of these is contingent on counter-blance condition. Column headings
+are as follows:
+<ul>
+<li>stim: Stimulus ID number (used in exe10data.txt)
+<li>Food: Physical food name(s) presented
+<li> CB1code: Logical food labels (A,B,...) where in first 
+counterbalance condition (cb=1 in exe10data.txt)
+<li> CB1type: Logical food category where in first counterbalance
+ condition. Categories are as follows:
+<ul>
+<li> famP: 'familiar positive' i.e. item present during training 
+that is followed by an allergic reaction.
+<li> famN: 'familiar negative'
+<li> MN, OP, K/L, O/P: As described in Wills et al. (2011).
+</ul>
+<li> CB1corr: Correct response where cb=1 (0 = No reaction, 
+1 = Reaction). For novel test items,
+correct = the rule-based response (e.j. 0 for IJ)
+<li> CB2code: As CB1code for cb = 2
+<li> CB2type: As CB1type for cb = 2
+<li> CB2corr: As CB1corr for cb = 2
+</ul>
+
+<li><a href = "exe10analysis.R">exe10analysis.R</a> - R script
+for behavioural analyses reported in Milton et al.
+(submitted). Requires R (R Core team, 2016), and the following
+scripts:
+<ul> 
+<li><a href = "exe10prepocess.R">exe10preprocess.R</a> - R
+script for behavioural data pre-processing.
+<li><a href = "exe10graphs.R">exe10graphs.R</a> - R script for
+graph production. Includes <i>add_label</i> function, written by
+Anderson (2013).
+<li><a href = "http://www.willslab.co.uk/plym10/bsci.R">bsci.R</a>
+ - R function for calculation of difference-adjusted
+between-subject confidence intervals. Implements same calculation
+as <i>bs.ci()</i> from Baguley (2012). Written by Thom Baguley.
+<li><a href = "dienes2008.R">dienes2008.R</a> - R script for
+Bayes Factor calculations as per Dienes (2011). Ported to R by Baugely
+and Kaye (2010).
+</ul>			
+</ul>
+<h2>Further resources</h2> The following resources are not formally
+part of the archive, either because they do not use open formats, or
+because they have not been thoroughly bug-checked, or both.  They are
+provided in case others find them useful, with absolutely no warranty!
+<ul>
+<li><a href="exe10eprime.tbz">exe10eprime.tbz</a>  - 
+Eprime 1.x scripts. The archive contains two .es2 scripts; 
+one for each of the two conditions.  Both are for 
+counterblance condition 1.
+<li><a href="eprime_convert_exe10.R">eprime_convert_exe010.R</a> -
+  Script to convert multiple E-prime .edat files to exe10data.txt.
+<li><b>rawdata</b> - Directory (local copy only, available on
+  request). Contains .edat files for this experiment, plus combination
+  of them into a single .XLS file, and some notes on the file
+  structure (file_struct.txt).
+</ul>
+<h2>References</h2>
+<ul>
+<li>Anderson, S. C. (2013). <i>Labelling panels in
+R</i>. <a href="http://seananderson.ca/2013/10/21/panel-letters.html">
+http://seananderson.ca/2013/10/21/panel-letters.html</a>
+<li>Baguley, T. (2012). Calculating and graphing within-subject
+confidence intervals for ANOVA. <i>Behavior Research Methods, 44</i>,
+158-175.
+<li>Baguley, T. & Kaye, D. (2010). Book review: Understanding
+psychology as a science: An introduction to scientific and statistical
+inference. <i>British Journal of Mathematical and Statistical
+Psychology, 63</i>, 695-698. (Despite the title, this paper also
+discusses between-subject confidence intervals, which is what bsci.R
+uses).
+<li>Dienes, Z.  (2011).  Bayesian versus orthodox statistics: Which
+side are you on? <i>Perspectives on Psychological Science, 6</i>,
+274-290.
+<li>R Core Team (2016) <i>R: A Language and Environment for
+Statistical Computing</i>. <a href=
+"http://www.R-project.org">http://www.R-project.org/</a>, R Foundation
+for Statistical Computing Vienna, Austria.
+</ul>
+</div>
+</body>
+</html>

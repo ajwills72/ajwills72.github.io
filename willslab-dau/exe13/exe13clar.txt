@@ -1,0 +1,96 @@
+Wills et al. (2009), Exp. 1A - clarifications
+=============================================
+
+During the compilation of this DAU in 2016, I discovered a
+number of places in Wills et al. (2009, JCP) where the description of
+the Methods and Results of Experiment 1A was poor. This document fills
+in the gaps and corrects the errors.
+
+Method
+------
+
+1. The observing response is on a FT 10s schedule.
+
+2. The schedule on the response keys is "tand FT 2s VI 0.5s".  VI 0.5s
+   is implemented as a random selection, on each trial, of 0 seconds
+   and 1 second.
+
+3. Phase 1 training started with a session length of 80 trials. Birds
+   were subsequently moved to a 64-trial session length for phase 1
+   later on.
+
+4. In some Phase 1 sessions, a forced-choice procedure was used on
+   most or all trials. This is where the pigeon cannot proceed to the
+   next trial until it pecks the correct key. Forced-choice trials are
+   indicated in the raw data file in column 'fc' by the presence of an 'F'.
+
+5. References in Wills et al. (2009) to number of sessions completed
+   in phase 1 do not count 80-trial sessions, forced-choice sessions,
+   or some other sessions. For archival purposes, the session
+   numbering as used in the original paper is in column 'lsess'. The
+   column 'sess' provides  a simple incremental count of sessions
+   started. Column 'sess' is used in the current analyses.
+
+5. In rare cases, there was up to three weeks between one session and
+   the next. 
+
+Technical / experimenter errors
+-------------------------------
+
+6. There was a technical error that led to two birds being passed to
+   phase 2 without meeting the stated criterion (details in Results
+   below). The technical error can be reproduced by using column
+   'snum' in the data file. 
+
+7. Three birds (At, Io, Ly) had an additional test session. These are
+   included the raw data file.
+
+8. In some sessions, one or both of the food delivery hoppers
+   malfunctioned. These sessions are included in the raw data file.
+
+9. For one session (As, 2006-07-03), the data did not record. This
+   session is indicated in the raw data file.
+
+Results
+-------
+
+Phase 1 - Although every bird had an accuracy of at least 75% on their
+final phase 1 session, two birds (At, Ly) did not pass the criterion
+of being at least 75% accurate on both levels of at least three
+dimensions (they both passed it on two dimensions). This was due to a
+technical error. One can reproduce this error by using column 'snum'
+in your analysis. For all other purposes, use column 'stim'. 
+
+Phase 2 - The criterion is 87.5%. All birds reach the criterion,
+taking between 1 and 9 sessions to do so.
+
+Test sessions - The excess test sessions (see Experimenter errors,
+above) were removed prior to analysis (session numbers - At: 76, Io:
+63, Ly: 67). Table 1 of Wills et al. (2009) contains some arithmetic
+errors, a corrected version is shown below. In all but one case, the
+identified strategy is unchanged. For bird Pn, the reported Overall
+Similarity strategy ties with a Unidimensional (Donut) strategy. This
+change does not affect the conclusions reported in the paper. In
+particular, the birds in Experiment 1A and the humans in Experiment 1B
+do not differ significantly in the proportion of OS sorters
+observed. The trend remains for OS to be more prevalent in humans than
+in pigeons, contrary to predictions of Differentiation Theory.
+
+Table 1 (replacement): Percentage of one-away test trials.
+
+ subj bar chk loz don os    win
+   As  39  61      58 58    chk
+   At  39  72      50 61    chk
+   Ba  54  51      46 51    bar
+   Io  65  46      58 71     os
+   Le      44  47  72 64    don
+   Ly  53  64      50 67     os
+   Pn  49  51      62 62 os/don
+   Sf  62  49      54 65     os
+
+
+Andy Wills
+2016-02-22
+
+
+

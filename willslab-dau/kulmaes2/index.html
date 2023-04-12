@@ -1,0 +1,75 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<meta content="text/html" http-equiv="content-type">
+		<title>willslab.co.uk: KULMAES2</title>
+	</head>
+	<body>
+		<h1>
+		Data and Analysis Unit: KULMAES2</h1>
+		<i>Last update: 2015-05-15 by Andy Wills</i><p>
+
+		<h2>Description</h2>
+		Human discrimination task, reported as Experiment 1B in Maes et al.
+
+		This DAU contains stimuli, trial-level raw data, and an analysis script, all  in open
+		cross-platform formats (see the <a href = "../formats.html">file format notes</a>).
+		It also provides some informal resources for running experiments like this within
+		the experiment generator Affect 4.0.
+
+		<p><b>UPDATE:</b> The sex, age, course,
+		and year columns of kulmaes2data.txt have had all their data replaced with the word 'deleted'.
+		This is in response to concerns about the potential non-anonymity of biographical data when pooled.
+		All queries regarding these columns should be directed to Elisa Maes or Tom Beckers.
+
+	<h2>Citation</h2>
+		<p> The APA-format citation for this resource is:
+		Maes, E. and Wills, A.J. (2015). <i>Data and Analysis Unit: KULMAES2</i>. Retrieved from http://www.willslab.co.uk/kulmaes2
+
+		<p><b>If you make use of these resources, please drop me an email</b>: andy@willslab.co.uk.
+
+		<h2>Resources</h2>
+		<ul>
+		<li><a href = "kulmaes2stim.tbz">kulmaes2stim.tbz</a> (1.8 MB) - Auditory and visual stimuli used in the experiment.
+		<li><a href = "kulmaes2data.txt">kulmaes2data.txt</a> (798 KB) - Trial-level raw data
+		Column headings are as follows:
+			<ul>
+					<li>cond: Experimental condition (NP = "NP transfer", PP = "PP transfer")
+					<li>subj: Participant ID (unique within KULMAES2)
+					<li>cbal: Stimulus counterbalance condition, as described in kulmaes2cbal.txt
+					<li>sex, age, course, year: Deleted for confidentiality
+					<li>phase: Experiment phase.
+					<li>block: Experimental block (Does *not* reset between phases)
+					<li>trial: Experimental trial (*DOES* reset between blocks)
+					<li>stim: presented stimulus, coded in terms of the abstract design.
+					<li>rein: Reinforcement (1 = reinforced, 0 = nonreinforced)
+					<li>score: Total number of points scored (resets after practice phase, but nowhere else)
+					<li>totresp: Total number of responses made (resets after practice phase, but nowhere else)
+					<li>numlost: Total number of points lost  (resets after practice phase, but nowhere else)
+					<li>itiresp: Number of responses during the ITI prior to this trial.
+					<li>resp: Number of responses during the trial.
+			</ul>
+			<li><a href = "kulmaes2cbal.txt">kulmaes2cbal.txt</a> (1 KB) -
+			Stimulus counterbalancing. Column heading as as follows:
+			<ul>
+				<li>cbal: Counterbalance condition, see above.
+				<li> A-F: The abstract stimulus type, see above. For each combination of
+				abstract stimulus and counterbalance condition, the table specifies the physical
+				stimulus employed. The six physical stimulus types are provided in this DAU.
+			</ul>
+			<li><a href = "kulmaes2analysis.R">kulmaes2analysis.R</a> (6 KB)		- R script for all analyses
+			reported in Maes et al.
+		</ul>
+	<h2>Further resources</h2>
+	<ul>
+		<li><a href = "kulmaes2affect.tbz">kulmaes2affect.tbz</a> (94 KB) - Files required to run counterbalance
+		condition 1 using the experiment generator <a href = "http://fac.ppw.kuleuven.be/clep/affect4/">Affect 4.0</a>.
+		 <b>Note: </b>Affect 4.0 is "free as in beer", it is not "free as in speech" (
+		 <a href ="http://www.howtogeek.com/howto/31717/what-do-the-phrases-free-speech-vs.-free-beer-really-mean/">
+		 what does this mean?</a>), and thus materials related to it are not formally part of this archive.  They
+		 are provided in case others find them useful; they
+		 come with absolutely no warranty.
+
+	</ul>
+</body>
+</html>

@@ -1,0 +1,22 @@
+{
+    "contents" : "",
+    "created" : 1414487865908.000,
+    "dirty" : false,
+    "encoding" : "",
+    "folds" : "",
+    "hash" : "0",
+    "id" : "CEAC146F",
+    "lastKnownWriteTime" : 0,
+    "path" : null,
+    "project_path" : null,
+    "properties" : {
+        "caption" : "kd",
+        "contentUrl" : "content?title=kd&file=d745ebece0e94d01a5e5c3eba09d4ddc.htm",
+        "displayedObservations" : 28,
+        "displayedVariables" : 5,
+        "totalObservations" : 28,
+        "variables" : 5
+    },
+    "source_on_save" : false,
+    "type" : "r_dataframe"
+}

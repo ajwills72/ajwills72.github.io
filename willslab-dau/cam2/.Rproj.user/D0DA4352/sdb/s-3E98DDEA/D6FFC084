@@ -1,0 +1,22 @@
+{
+    "contents" : "",
+    "created" : 1409245182126.000,
+    "dirty" : false,
+    "encoding" : "",
+    "folds" : "",
+    "hash" : "0",
+    "id" : "D6FFC084",
+    "lastKnownWriteTime" : 1409244880,
+    "path" : null,
+    "project_path" : null,
+    "properties" : {
+        "caption" : "skewag",
+        "contentUrl" : "content?title=skewag&file=b0f7d8d87d7744db9388093b76448c9f.htm",
+        "displayedObservations" : 192,
+        "displayedVariables" : 4,
+        "totalObservations" : 192,
+        "variables" : 4
+    },
+    "source_on_save" : false,
+    "type" : "r_dataframe"
+}

@@ -1,0 +1,22 @@
+{
+    "contents" : "",
+    "created" : 1417709873898.000,
+    "dirty" : false,
+    "encoding" : "",
+    "folds" : "",
+    "hash" : "0",
+    "id" : "D86EF736",
+    "lastKnownWriteTime" : 8070450532247928832,
+    "path" : null,
+    "project_path" : null,
+    "properties" : {
+        "caption" : "tstdta",
+        "contentUrl" : "content?title=tstdta&file=54710966ad3a4d6b8f79a38c83d34594.htm",
+        "displayedObservations" : "1000",
+        "displayedVariables" : 16,
+        "totalObservations" : "10496",
+        "variables" : "15"
+    },
+    "source_on_save" : false,
+    "type" : "r_dataframe"
+}

@@ -1,0 +1,28 @@
+print('DAU: EXE11 (supplemental)')
+print('2015-12-04')
+print('Andy Wills')
+print('')
+print('DAU: EXE11 by Andy Wills is licensed under a Creative Commons')
+print('Attribution-ShareAlike 4.0 International License.')
+print('http://creativecommons.org/licenses/by-sa/4.0/')
+print('')
+
+print('Wills et al. (2009) report a n.s. Fischer exact test, indicating')
+print('absence of evidence for a species difference. However, for evidence')
+print('of absence, one needs e.g. a Bayes test.')
+print('')
+print('Using a Bayesian contigency test, there is evidence for the null:')
+
+library(conting)
+
+y <- c(4,4,7,5)
+strat <- c('OS','Other','OS','Other')
+cond <- c('pigeon','pigeon','human','human')
+mb <- data.frame(y,strat,cond)
+print(mb)
+print("MC methods, 10k iterations (not stable with fewer)")
+test2 <- bcct(formula=y~(strat+cond)^2,data=mb,n.sample=10000,prior="UIP")
+summary(test2)
+print("Bayes Factor")
+print(.19/.81) # Done manually for simplicity (could read test2 structure directly)
+

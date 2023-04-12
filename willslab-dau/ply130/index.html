@@ -1,0 +1,96 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta content="text/html" http-equiv="content-type">
+    <title>willslab: PLY130</title>
+  </head>
+  <body>
+    <h1>Data and Analysis Unit: PLY130</h1>
+
+      <p><b>These resources have not yet been published. If you access
+      them, you are agreeing to treat the information you receive in
+      confidence (e.g. as part of a peer review process)</b>. Once the
+      manuscript is accepted, these same resources will be made
+      publicly available.<p>
+    
+    <h2>Description</h2> Test-potentiated learning experiment
+    examining associative recognition performance, reported in <a href
+    = "">Seabrooke, Hollins, Wills, Mitchell (submitted)</a>,
+    Experiment 3.  This DAU contains raw data and analysis scripts, in
+    open cross-platform formats (see the
+      <a href = "../formats.html">file format notes</a>). The raw data
+      file also contains the full set of stimulus items, as the
+      stimuli presented on each trial are recorded (see below).
+      
+     <h2>Resources</h2>
+      
+      <ul>
+        <li><a href = "TPL3_LongData.csv">TPL3_LongData.csv</a>
+          (1.1 MB) - Trial-level raw data.Column headings are as
+          follows:</li>
+	<ul>
+	  <li>Subject - Participant number, unique to ply130</li>
+	  <li>Experiment - Experiment name</li>
+	  <li>Sex - Gender of participant (female, male)</li>
+	  <li>Age - Age of participant (in years)</li>
+	  <li>Pool - method of recruiting participants (Plymouth
+	  University paid pool)</li>
+	  <li>Group - Counterbalancing condition for order of encoding
+	    phases (Meaning-Study or Study-Meaning)</li>
+	  <li>Test - Recognition group (Associative or Item [target]
+	    recognition</li>
+	  <li>Running - Combines phase and w/subj condition of
+	    experiment. [Study, Meaning] indicate an encoding trial in
+	    the corresponding condition. [AssociativeRecognition,
+	    ItemRecognition] indicates a recognition trial.</li>
+	  <li>Sample - Within-phase trial number (resets at the
+	    beginning of each new encoding phase, and at the start of the
+	    recognition tests).</li>
+	  <li>Cue - The presented cue word. Set to NA in the
+	    ItemRecognition (target recognition) test.</li>
+	  <li>Target - The presented target word.</li>
+	  <li>Acc - Whether the participant's response is correct (1) or incorrect
+	    (0). In the Study condition of the encoding phase, set to NA.</li>
+	  <li>RT - The time (in ms) from onset of the cue to the participant
+	    repsonse. In the Study condition of encoding phase, set to NA.</li>
+	  <li>Resp - The participant's response. In the associative
+	    recognition test, 'Yes' means that the participant thought that the
+	    cue and target were presented together during the encoding phase. 'No'
+	    means that the participant thought the cue and target were not
+	    presented together during the encoding phase.</li>
+	  <li>Condition - Combines congruency and encoding
+	    condition. In [Meaning, Study] encoding condition, [1, 2]
+	    indicate whether that cue/target word pair will later
+	    serve as a paired or re-paired trial (if the participant
+	    is allocated to the associative recognition group). 1 =
+	    Paired, 2 = Re-paired.  [Meaning, Study] in the
+	    Associative Recognition/Item Recognition test phases refer
+	    to the encoding condition that the items wer allocated
+	    to. [Foil] refers to items that were not presented during
+	    the encoding phase for the Item (target) recognition
+	    group.</li>
+	  <li>Congruency - The congruency of the cue and target (for
+	    the associative recognition group). 'Matched' = 'Paired', 'Unmatched'
+	    = 'Re-paired'. Set to NA in the item recognition test.</li>
+	</ul>
+
+	  <li>R scripts for analysis of PL130. You will
+	  need <a href="https://www.r-project.org/">R</a>. You will
+	  also need to have installed the following packages that are
+	  available on <a href="https://cran.r-project.org/">CRAN</a>:
+	  cowplot, dplyr, ez, ggplot2, pastecs, plyr, pwr, Rmsic.
+
+	  <ul>
+
+	    <li><a href="TPL3Functions.R">TPL3Functions.R</a> -
+	    functions required by the other script, below.</li>
+	
+            <li><a href = "tpl3-analysis.R">tpl3-analysis.R</a> - All
+            statistical analysis reported in the mansucript.</li>
+
+	</ul>
+	
+      </ul>
+      
+</body>
+</html>

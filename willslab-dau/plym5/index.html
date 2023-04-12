@@ -1,0 +1,105 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<meta content="text/html" http-equiv="content-type">
+		<title>willslab.co.uk: PLYM5</title>
+	</head>
+	<body>
+		<h1>	<img src="logo.png" alt="DAU-specific logo" width= 50 height = 50>
+		Data and Analysis Unit: PLYM5</h1>
+		<i>Last update: 2014-12-04 by Andy Wills</i><p>
+
+		<h2>Description</h2>	
+		Category learning task, reported in Experiment 4A of Wills, Inkster, and Milton (submitted).		
+		
+		This DAU contains stimulus files, raw data, and an analysis script, all in open 
+		cross-platform formats (see the <a href = "../formats.html">file format notes</a>).
+		
+	<h2>Citation</h2>
+		<p> The APA-format citation for this resource is:
+		Wills, A.J. (2014). <i>Data and Analysis Unit: PLYM5</i>. Retrieved from http://www.willslab.co.uk/plym5
+		
+		<p><b>If you make use of these resources, please drop me an email</b>: andy@willslab.co.uk.		
+		
+		<h2>Resources</h2>
+		<ul>
+		<li><a href = "plym5stim.tbz">plym5stim.tbz</a> (218 KB) - Stimulus image files 
+		<li><a href = "plym5instruct.txt">plym5instruct.txt</a> (3 KB) - Instructions presented to participants.
+		<li><a href = "plym5data.txt">plym5data.txt</a> (498 KB) - Trial-level raw data. 
+		Column headings are as follows:
+			<ul>
+					<li>subj: Participant ID (unique within PLYM5)
+					<li>cond: Experimental condition (1 = intentional, 2 = incidental)
+					<li>cb: Stimulus randomization condition (1-8, see plym5cb.txt)
+					<li>keyb: Response key randomization condition (1 = Policeman on left,  2 = Doctor on left )  
+					<li>phase: Experiment phase (1 = training, 2 = test)
+					<li>blk: Block (Ranges from 1 to 3 in phase 1, and 1 to 8 in phase 2)
+					<li>trial: Trial number (resets for each block)
+					<li>stim: Stimulus ID (see plym5code.txt)
+					<li>resp: Phase-specific response code
+					<ul>
+						<li>Training phase, Intentional condition:  	Accuracy ( 1 = right, 0 = wrong )
+						<li>Training phase, Incidental condition: Choice ( 1 = seen before, 0 = not seen )
+						<li>Test phase (either condition): Choice ( 1 = the 1111 category, 0 = the 0000 category	)			
+					</ul>
+					<li>rt: Reaction time in milliseconds
+					<li>conf: 	Confidence rating (1-3: 1 = 'not confident', 2 = 'neither confident nor unconfident', 
+					3 = 'confident'). Only used in the training phase of the incidental condition. Set to zero otherwise.
+					<li>confrt: Reaction time in milliseconds for the confidence rating. 
+					Only used in the training phase of the incidental condition. Set to zero otherwise.
+			</ul>
+			<li><a href = "plym5analysis.R">plym5analysis.R</a>  (1 KB) -  R script for analyses 
+	reported in Wills, Inkster, Milton (submitted). This script can be run by the command 
+	source('plym5analysis.R'), or can be run interactively. Requires plym5cap.R
+		
+		<li><a href = "plym5cap.R">plym5cap.R</a>  (6 KB) -  R script containing a single function that
+		performs all analyses required in PLYM5. This allows variant analyses (e.g. with 
+		or without participant exclusions) to be run without code duplication. This is
+		NOT a portable function, it makes use of global variables and will only work unmodified in the context of these
+		specific experiments. 
+		
+		<li><a href= "plym5logistic.R">plym5logistic.R</a> (3 KB) - R script for logistic regression analyses 
+		reported in the Supplementary Materials of Wills, Inkster, Milton (submitted).  This script can be run by the command 
+	source('plym5analysis.R'), or can be run interactively. 
+		
+		<li><a href = "plym5code.txt">plym5code.txt</a> (1 KB) - The main purpose of this file is to facilitate
+		automated analysis of plym5data.txt by plym5analysis.R. Column headings 
+		are as follows:
+		<ul>
+			<li>stim.number: Stimulus ID (as used in plym5data.txt)
+
+			<li>stim.type: Logical stimulus code. The four digits are the values of the four stimulus dimensions 
+			(left to right, D1-D4). The final 's' has no meaning, it's there to ensure the four digits are parsed by R scripts as
+			a string rather than as a number.  In all stimulus randomization conditions, 
+			the stim.type code (and thus also the stimulus ID) represents the stimulus
+			in canonical form (i.e. with D1 as criterial, D2-D4 as noncriterial, and with 1111 and 0000 as
+			the category prototypes).  Thus stimulus ID 1-4 are category 1111 training stimuli, ID 5-8 are
+			category 0000 training stimuli, ID 9-10 are the 'critical' test stimuli, and ID 11-16 are the other
+			test stimuli.
+			
+			<li>fr: The response predicted by an Overall Similarity response model (1 = category 1111, 
+			0 = category 0000, 0.5 = no prediction).	
+			<li>ca: The response predicted by a Critierial Attribute response model.
+			<li>nca1: The response predicted by a Noncriterial Attribute response model acting on D2
+			<li>nca2: The response predicted by a Noncriterial Attribute response model acting on D3		
+			<li>nca3: The response predicted by a Noncriterial Attribute response model acting on D4
+			<li>lk: The response predicted by an 'alway press the left key' response model.
+			<li>rk: The response predicted by an 'alway press the right key' response model.		
+		</ul>	
+		
+		<li><a href = "plym5cb.txt">plym5cb.txt</a> (1 KB) - Specification of stimulus randomization
+		conditions. Each column represents one of the eight conditions (cb in plym5data.txt). Each
+		row represents a stimulus ID (stim in plym5data.txt). Each cell gives the filename of the 
+		physical stimulus presented	for a particular cb condition and stimulus ID. For example, 
+		1010 indicates stimulus file 1010.png in plym5stim.tbz.
+		
+		<i>Note: </i> The column
+		titles (e.g. "cb5:R2D34") give the value of cb (5 in this example) and then describe the operation
+		required to get from the canonical structure (cb = 1) to this structure. "R" means rotate. Specifically,
+		R1 means rotate left once i.e. all four digits in the stimulus code move one place to the left, with the leftmost digit
+		becoming the rightmost digit. R2 means two left-rotate operations. After the rotations one or
+		more of the dimensions are flipped (all 1s become 0s and all 0s become 1s). For example, D3D4 means 
+		flip D3 and D4, after rotation. 
+		</ul>
+</body>
+</html>

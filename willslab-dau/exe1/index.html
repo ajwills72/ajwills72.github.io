@@ -1,0 +1,72 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<meta content="text/html" http-equiv="content-type">
+		<title>willslab.co.uk: EXE1</title>
+	</head>
+	<body>
+		<h1>Data and Analysis Unit: EXE1</h1>
+		<i>Last update: 2014-10-07 by Andy Wills</i><p>
+	
+		<h2>Description</h2>	
+		Triad classification experiment first reported by 
+		<a href = "../../pubs/2008milton.pdf">Milton, Longmore, Wills (2008)</a>, Experiment 5. 
+		Subsequently re-analysed by Wills, Inkster, Milton (2015).
+
+		This DAU contains stimulus image files, raw data, and an analysis script, all in open 
+		cross-platform formats (see the <a href = "../formats.html">file format notes</a>).
+		
+		<h2>Resources</h2>
+		<ul>
+		<li><a href = "exe1stim.tbz">exe1stim.tbz</a> (15 KB) - Stimulus image files.
+		
+		
+		<li><a href = "exe1data.txt">exe1data.txt</a> (134 KB) - Trial-level raw data. Column headings are as follows:
+			<ul>
+					<li>cond: Experimental condition (expressed as stimulus presentation time in milliseconds)
+					<li>subj: Participant ID (unqiue within each condition of EXE1)
+					<li>trial: Trial number
+					<li>triad: ID of presented stimulus triad (see exe1code.txt)
+					<li>resp: Participant's response ( 1 = top , 2 = left, 3 = right )
+					<li>rt: Reaction time in milliseconds
+			</ul>
+		<li><a href = "exe1analysis.R">exe1analysis.R</a> R script for all analyses 
+	reported in Wills, Inkster, Milton (2015). 
+		<li><a href = "exe1code.txt">exe1code.txt</a> (1 KB) - The main purpose of this file is to facilitate
+		automated analysis of exe1data.txt by exe1analysis.R. Column headings 
+		are as follows:
+		<ul>
+			<li>triad: Triad ID (as used in exe1data.txt)
+
+			<li>triplet: Triplet ID. Any given stimulus triplet can be presented in six different ways 
+(three stimuli can be placed in three physical locations in six different ways). Hence,
+there are six different stimulus triad IDs for each triplet ID.
+
+			<li>type: Type 1 or Type 2 triad (not used).
+
+			<li>ident.dim: The stimulus dimension on which two members of the triplet match identically
+(1 = hull, 2 = sail)
+
+			<li>top1: Stimulus ID for stimulus presented at the top of the triad. 
+			Stimulus ID is a two-digit co-ordinate code in arbitrary units. For example 
+			Stimulus ID 25 indicates a value of 2 on the hull dimension and a value of 5 
+			on the sail dimension.  Larger values on the hull dimension are associated 
+			with increasing width of the bottom of the hull. Larger values on the sail 
+			dimension are associated with increasing width of the bottom of the sail. 
+			The mapping between these stimulus IDs and the stimulus numbers in 
+			Figure 5 of Milton, Longmore, Wills (2008), and the numbering of the
+			graphic files in this archive, are as follows:
+			1 = 16, 2 = 66, 3 = 25, 4 = 55, 5 = 22, 6 = 52, 7 = 11, 8 = 16
+
+		<li> left2: Stimulus ID for stimulus presented at the left of the triad. 
+		<li> right3: Stimulus ID for stimulus presented at the right of the triad. 
+		<li> hull: Response expected if classifying on the basis of hull width
+				( 1 = top , 2 = left, 3 = right )
+		<li> sail: Response expected if classifying on the basis of sail width
+		<li> os: Response expected if classifying on the basis of overall similarity
+		<li> ident: Response expected if classifying on the basis of the identical attribute.		
+		</ul>
+
+	
+</body>
+</html>

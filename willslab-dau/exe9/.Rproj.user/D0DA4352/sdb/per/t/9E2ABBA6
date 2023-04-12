@@ -1,0 +1,22 @@
+{
+    "contents" : "",
+    "created" : 1414486642533.000,
+    "dirty" : false,
+    "encoding" : "",
+    "folds" : "",
+    "hash" : "0",
+    "id" : "9E2ABBA6",
+    "lastKnownWriteTime" : 4315007840,
+    "path" : null,
+    "project_path" : null,
+    "properties" : {
+        "caption" : "cdta",
+        "contentUrl" : "content?title=cdta&file=b50593abf6bf4a008869f53089a84265.htm",
+        "displayedObservations" : "28",
+        "displayedVariables" : 5,
+        "totalObservations" : "28",
+        "variables" : "5"
+    },
+    "source_on_save" : false,
+    "type" : "r_dataframe"
+}

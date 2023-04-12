@@ -1,0 +1,22 @@
+{
+    "contents" : "",
+    "created" : 1409244992142.000,
+    "dirty" : false,
+    "encoding" : "",
+    "folds" : "",
+    "hash" : "0",
+    "id" : "AD986C95",
+    "lastKnownWriteTime" : 450971566080,
+    "path" : null,
+    "project_path" : null,
+    "properties" : {
+        "caption" : "skewagt",
+        "contentUrl" : "content?title=skewagt&file=3b17d67752ed408ab03b4f5dd9177097.htm",
+        "displayedObservations" : "32",
+        "displayedVariables" : 3,
+        "totalObservations" : "32",
+        "variables" : "3"
+    },
+    "source_on_save" : false,
+    "type" : "r_dataframe"
+}

@@ -1,0 +1,90 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta content="text/html" http-equiv="content-type">
+    <title>willslab: PLY129</title>
+  </head>
+  <body>
+    <h1>Data and Analysis Unit: PLY129</h1>
+
+      <p><b>These resources have not yet been published. If you access
+      them, you are agreeing to treat the information you receive in
+      confidence (e.g. as part of a peer review process)</b>. Once the
+      manuscript is accepted, these same resources will be made
+      publicly available.<p>
+    
+    <h2>Description</h2> Test-potentiated learning experiment
+    examining recall performance, reported
+    in <a href = "">Seabrooke, Hollins, Wills, Mitchell
+    (submitted)</a>, Experiment 2.  This DAU contains raw data and
+    analysis scripts, in open cross-platform formats (see the
+      <a href = "../formats.html">file format notes</a>). The raw data
+      file also contains the full set of stimulus items, as the
+      stimuli presented on each trial are recorded (see below).
+      
+     <h2>Resources</h2>
+      
+      <ul>
+        <li><a href = "TPL2_LongData.csv">TPL2_LongData.csv</a>
+          (445 KB) - Trial-level raw data.Column headings are as
+          follows:</li>
+	  <ul>
+	    <li>Subject - Participant number, unique to ply129</li>
+	    <li>Experiment - Experiment name</li>
+	    <li>Group - Counterbalancing condition for order of
+	      encoding phases (e.g., Study, First Word, Meaning)</li>
+	    <ol>
+	      <li>S,M,F</li>
+	      <li>S,F,M</li>
+	      <li>M,S,F</li>
+	      <li>M,F,S</li>
+	      <li>F,S,M</li>
+	      <li>F,M,S</li>
+	    </ol>
+	    <li>Age - Age of participant (in years) </li>
+	    <li>Gender - Gender of pariticipant (female, male)</li>
+	    <li>Running - Combines phase and w/subj condition of
+	      experiment. [Study, Meaning, First Word] indicate an
+	      encoding trial in the corresponding
+	      condition. [Recall] indicates a cued recall trial.</li>
+	    <li>Condition - In the recall phase, the encoding
+	      condition under which the word was presented. In the
+	      encoding phase, set to NA.</li>
+	    <li>Cycle - Recall test number. Always set to one in the
+	    encoding phase.</li>
+	    <li>Sample - Within-phase trial number (resets at the
+	      beginning of each new encoding phase, continues from previous cued
+	      recall phase).</li>
+	    <li>Cue - In the encoding phase, the presented cue word. In the recall phase,
+	      the presented retrieval cue.</li>
+	    <li>Target - The presented target word.</li>
+	    <li>Acc - Whether the participant's response is correct
+	      (1) or incorrect (0). In the Study condition of the encoding phase,
+	      set to NA. In cued recall, the word must match letter-for-letter in
+	      order to be coded as 1.</li>
+	    <li>Resp - The participant's response.</li>
+	    <li>RT - The time (in ms) from onset of the cue to the
+	      participant pressing the last key. In the Study condition of encoding
+	      phase, set to NA.</li>
+	  </ul>
+
+	  <li>R scripts for analysis of PL129. You will
+	  need <a href="https://www.r-project.org/">R</a>. You will
+	  also need to have installed the following packages that are
+	  available on <a href="https://cran.r-project.org/">CRAN</a>:
+	  ez, ggplot2, pastecs, plyr.
+
+	  <ul>
+
+	    <li><a href="TPL2Functions.R">TPL2Functions.R</a> -
+	    functions required by the other script, below.</li>
+	
+            <li><a href = "tpl2-analysis.R">tpl2-analysis.R</a> - All
+            statistical analysis reported in the mansucript.</li>
+
+	</ul>
+	
+      </ul>
+      
+</body>
+</html>

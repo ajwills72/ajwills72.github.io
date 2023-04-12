@@ -1,0 +1,22 @@
+{
+    "contents" : "",
+    "created" : 1416517291536.000,
+    "dirty" : false,
+    "encoding" : "",
+    "folds" : "",
+    "hash" : "0",
+    "id" : "204BA297",
+    "lastKnownWriteTime" : 3692426600332132358,
+    "path" : null,
+    "project_path" : null,
+    "properties" : {
+        "caption" : "cde",
+        "contentUrl" : "content?title=cde&file=64c2acfcd15b48fa8c2d311de7b130e8.htm",
+        "displayedObservations" : 48,
+        "displayedVariables" : 11,
+        "totalObservations" : 48,
+        "variables" : 11
+    },
+    "source_on_save" : false,
+    "type" : "r_dataframe"
+}

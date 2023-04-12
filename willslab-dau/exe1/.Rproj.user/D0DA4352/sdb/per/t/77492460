@@ -1,0 +1,22 @@
+{
+    "contents" : "",
+    "created" : 1416517322207.000,
+    "dirty" : false,
+    "encoding" : "",
+    "folds" : "",
+    "hash" : "0",
+    "id" : "77492460",
+    "lastKnownWriteTime" : 2305843009483516160,
+    "path" : null,
+    "project_path" : null,
+    "properties" : {
+        "caption" : "bigm",
+        "contentUrl" : "content?title=bigm&file=0370f3cc9bcc4dd1bf0a40eb42fc590a.htm",
+        "displayedObservations" : 145,
+        "displayedVariables" : 12,
+        "totalObservations" : 145,
+        "variables" : 12
+    },
+    "source_on_save" : false,
+    "type" : "r_dataframe"
+}

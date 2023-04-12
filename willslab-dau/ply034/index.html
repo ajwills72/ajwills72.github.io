@@ -1,0 +1,184 @@
+<!DOCTYPE html>
+<html>
+  
+  <head>
+    <meta content="text/html" http-equiv="content-type">
+    <title>willslab: PLY034</title>
+  </head>
+  
+  <body>
+    
+    <h1>Data and Analysis Unit: PLY034 (aka. PU012)</h1>
+    
+       <h2>Description</h2>
+
+      Simulations investigating the
+      decision-boundary strategy analyses conducted in the COVIS
+      literature as reported in
+      <a href = "">Edmunds, Milton, Wills (accepted)</a>.
+
+      This DAU contains simulation files, functions, simulation output
+      and scripts to construct the tables, all in open cross-platform
+      formats (see the
+      <a href = "../formats.html">file format notes</a>).
+
+      <h2>Issues</h2>
+
+      <i>2019-02-20</i>: (open). Simulation 1, UD strategy, at
+      zero noise, sometimes returns an incorrect answer if run on more than 8
+      cores (the published simulations used 4-8 cores).
+
+      
+      <h2>Resources</h2>
+      
+      <ul>
+
+	  <li>R scripts for simulations and presentation of PLY34. You
+	  will need <a href="https://www.r-project.org/">R</a>, plus
+	  the following packages that are available on
+	    <a href="https://cran.r-project.org/">CRAN</a>:
+	    ez, grt, mvtnorm, foreach, doParallel, parallel, mnormt,
+	    ggplot2 </li>
+	  
+	  <ul>
+
+	    <li><a href="PLY34functions.R">PLY34functions.R</a> -
+              functions required by the other scripts, below.</li>
+	    
+	    <li><a href = "PLY34Results.R">PLY34Results.R</a> -
+	    Calculate results reported in the Tables and Figure of
+	      the paper, using stored results of the simulations.</li>
+
+	    <li><a href = "Simulation1.R">Simulation3.1</a> - Code to
+              re-run Simulation 1. </li>
+
+	    <li><a href = "Simulation2.R">Simulation2.R</a> - Code to
+        re-run Simulation 2. </li>
+
+	     <li><a href = "Simulation3.R">Simulation3.R</a> -
+        Code to re-run Simulation 3. </li>
+      
+	  </ul>
+	
+	       <li><a href = "Simulation1stored.csv">Simulation1stored.csv</a> 
+	      - The output from Simulation 1. Column headings
+	          are as follows:
+            <ul>
+              <li> categoryStructure: Category structure simulation is
+		conducted on. II=Information-integration</li>
+	      
+              <li> strategyType: The strategy type of the simulated responses.
+                UD=Unidimensional, CJ=Conjunction,
+                GLC=Diagonal (General linear classifier)</li>
+	      
+              <li> perceptualNoise: The amount of perceptual noise
+		added to the participants' responses </li>
+	      
+              <li> boundaryNoise: The amount of boundary noise added
+		to the participants' responses </li>
+	      
+              <li> no_ppts: The number of stimulated participants that
+		were averaged on that row </li>
+	      
+              <li> prop_UD: The proportion of participants that were
+              found to be best described by a unidimensional
+		strategy </li>
+	      
+              <li> prop_GLC: The propotion of participants that were
+              found to be best described by a diagonal (GLC)
+		strategy </li>
+	      
+              <li> prop_CJ: The proportion of participants that were
+              found to be best described by a conjunction
+		strategy  </li>
+	      
+              <li> prop_RND: The proportion of participants that were
+		found to be best described by a random strategy </li>
+	      
+              <li> wBIC_UD: The averaged wBIC for participants who
+		were best described by a unidimensional strategy </li>
+	      
+              <li> wBIC_GLC: The averaged wBIC for participants who
+		were best described by a diagonal (GLC) strategy </li>
+	      
+              <li> wBIC_CJ: The averaged wBIC for participants who
+		were best described by a conjucntion strategy </li>
+	      
+              <li> wBIC_RND: The averaged wBIC for participnats who
+		were best described by a random strategy </li>
+	      
+            </ul>
+	    
+         </li>
+
+         <li><a href = "Simulation2stored.csv">Simulation2stored.csv</a> -
+  	        The output from Simulation 2. The column headings are
+  	        identical to those in Simulation 1 above. The only
+  	        change is that categoryStructure is equal to
+  	        UD=Unidimensional </li>
+
+        <li><a href = "Simulation3stored.csv">Simulation3stored.csv</a> -
+     	        The output from Simulation 3. Each row is a single
+     	        simulated participant.  Column headings are as
+     	        follows:
+	  
+          <ul>
+	    
+                <li> categoryStructure: Category structure simulation
+                is conducted on. II=Information-integration,
+                UD=unidimensional</li>
+		
+                <li> strategyType: The strategy type of the simulated
+                  responses.  UD=Unidimensional, CJ=Conjunction,
+                  GLC=Diagonal(General linear classifier)</li>
+		
+                <li> perceptualNoise: The amount of perceptual noise
+                  added to the participant's responses </li>
+		
+                <li> boundaryNoise: The amount of boundary noise added
+                  to the participant's responses </li>
+		
+                <li> Accuracy: The proportion accuracy of that
+                  participant </li>
+		
+                <li> UDX: Whether the participant was recovered as
+                  using a unidimensional strategy on the x-axis: 0=no,
+                  1=yes </li>
+
+                <li> UDY: Whether the participant was recovered as
+                  using a unidimensional strategy on the y-axis: 0=no,
+                  1=yes </li>
+		
+                <li> GLC: Whether the participant was recovered as
+                  using a diagonal (GLC) strategy: 0=no, 1=yes</li>
+		
+                <li> CJ: Whether the participant was recovered as
+                  using a conjunction strategy: 0=no, 1=yes </li>
+		
+                <li> RND: Whether the participant was recovered as
+                  using a random strategy: 0=no, 1=yes </li>
+		
+                <li> wBIC_UDX: The wBIC for the unidimensional
+                  strategy on the x-axis</li>
+
+                <li> wBIC_UDY: The wBIC for the unidimensional
+                  strategy on the y-axis</li>
+		
+                <li> wBIC_GLC: The wBIC for the diagonal (GLC)
+                  strategy </li>
+		
+                <li> wBIC_CJ: The wBIC for the conjucntion
+                  strategy </li>
+		
+                <li> wBIC_RND: The wBIC for the random strategy </li>
+		
+          </ul>
+	  
+        </li>
+	  
+      </ul>
+      
+  </body>
+  
+</html>
+

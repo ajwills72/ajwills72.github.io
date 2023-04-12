@@ -1,0 +1,153 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta content="text/html" http-equiv="content-type">
+    <title>willslab: PLY75</title>
+  </head>
+  <body>
+    <h1>Data and Analysis Unit: PLY75</h1>
+    <i>Last update: 2017-05-08 by Andy Wills</i><p>
+      
+      <h2>Description</h2>
+      Experiment investigating the effect of training order on
+      category learning performance reported in
+      <a href = "">Edmunds, Wills, Milton (2017)</a>, Experiment 4.
+      This DAU contains stimulus image files, raw data, and analysis
+      scripts, all in open cross-platform formats (see the
+      <a href = "../formats.html">file format notes</a>).
+      
+      <h2>Resources</h2>
+      <ul>
+	<li><a href = "PLY75stimuli.zip">PLY75stimuli.zip</a> (3.9 MB)
+	  - Stimulus image files. </li>
+	
+        <li><a href = "PLY75longData.csv">PLY75longData.csv</a> (1.9
+          MB) - Trial-level raw data. Column headings are as follows:
+
+	  <ul>
+	    <li>DAU: Experiment name </li>
+
+	    <li>Participant: Participant ID (unique across entire
+	      experiment)</li>
+
+	    <li>Condition: Experimental condition (either EasyHard or
+	    HardEasy)</li>
+	    
+            <li>Block: Block number</li>
+	    
+            <li>Trial: Trial number</li>
+	    
+            <li>StimulusNo: Unique ID for each stimulus (number
+            corresponds to numbered PNG files in PLY22stimuli.zip)</li>
+	 
+            <li>Xvalue: The value of each stimulus on the spatial
+            frequency dimension (in arbitrary units)</li>
+	    
+            <li>Yvalue: The value of each stimulus on the
+            orientation dimension (in arbitrary units)</li>
+          
+            <li>Difficulty: The difficulty of that stimulus (Easy,
+            Med, Hard)</li>
+	    
+            <li>Category: The category assignment for each stimulus
+            (Category A=A and Category B=B)</li>
+          
+            <li>CorrectButton: The button associated with each category
+            (Category A=c, Category B=m)</li>
+
+            <li>Response: The response the participant gave (Category
+            A=c, Category B=m)</li>
+	    
+            <li>Correct: Whether the participant was correct or not
+            (0 = incorrect, 1 = correct)</li>
+	    
+            <li>RT: Reaction time in milliseconds</li>
+	    
+	  </ul> 
+	</li>
+	
+	<li><a href="PLY75verbalReports.pdf">PLY75verbalReports.pdf</a>
+	(2.8 MB) - Scanned copies of the strategy reports produced by
+	each participant. </li>
+
+	<li><a href="PLY75verbalReports.csv">PLY75verbalReports.csv</a>
+	(2 KB) - Participant level strategy information from verbal
+	reports given by participants. Column headings are as follows:
+
+	  <ul>
+            <li>Participant: Participant ID</li>
+	    
+            <li>Condition: Experimental condition (1 =
+              Easy-to-hard, 2 = Hard-to-all)</li>
+	    
+            <li>CERE: Classification of participant's strategy by
+            Charlotte E.R. Edmunds.</li>
+	    
+            <li>GW: Classification of participant's strategy by Gemma
+            Williams</li>
+	    
+            <li>Agreed: Classification of participant's strategy
+            agreed by CERE and GW after discussion. For this and the
+            previous two columns the codes are:
+	      
+	      <ul>
+
+		<li>2D = Generic two-dimensional rule</li>
+
+		<li>CJ=Conjunction rule</li>
+
+		<li>CJ2 = A double conjunction</li>
+
+		<li>NA = No relevant strategy information</li>
+
+		<li>RuleX = Rule plus exception</li>
+
+		<li>SUR = Sequential unidimensional rules</li>
+
+		<li>Udexp = Unidimensional rule plus exception</li>
+		
+		<li>UDF = Unidimensional rule based on frequency</li>
+
+		<li>UDO = Unidimensional rule based on
+		orientation</li>
+
+	      </ul>
+		
+            <li>CEREyes: Whether CERE thought the participant reported
+            a strategy or not (1 = yes, 0 = no)</li>
+	    
+            <li>GWyes: Whether GW thought participants reported a
+            strategy or not (1 = yes, 0 = no)</li>
+	    
+            <li>simpStrat: Simplified strategies. All complex
+            rule-based strategies are given the label "Complex", and
+            both unidimensional strategies are defined as "UD"</li>
+
+	  </ul>
+
+	  <li>R scripts for analysis of PLY75. You will
+	  need <a href="https://www.r-project.org/">R</a>, plus the
+	  following packages that are available on
+	    <a href="https://cran.r-project.org/">CRAN</a>:
+	    effsize, ggplot2, irr, rmisc, grt </li>
+
+	  <ul>
+
+	    <li><a href="PLY75 Functions.R">PLY75 Functions.R</a> (7
+            KB) - functions required by the other scripts, below.</li>
+	
+            <li><a href = "PLY75_Analysis.R">PLY75_Analysis.R</a> (11)
+            KB) - Core statistical analysis</li>
+	
+            <li><a href="PLY75_GRT.R">PLY75_GRT.R</a> (4 KB) -
+            Model-based analysis</li>
+	
+            <li><a href ="PLY75_Verbals.R">PLY75_Verbals.R</a> (1 KB)
+            - strategy report analysis</li>
+
+	</ul>
+	
+      </ul>
+      
+</body>
+</html>

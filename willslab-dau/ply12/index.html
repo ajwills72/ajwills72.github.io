@@ -1,0 +1,93 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta content="text/html" http-equiv="content-type">
+    <title>willslab: PLY12</title>
+  </head>
+  <body>
+    <h1>Data and Analysis Unit: PLY12</h1>
+      
+      <h2>Description</h2>
+      Experiment investigating the effect of training order on
+      category learning performance reported in
+      <a href = "">Edmunds, Wills, Milton (2017)</a>, Experiment 2.
+      This DAU contains stimulus image files, raw data, and analysis
+      scripts, all in open cross-platform formats (see the
+      <a href = "../formats.html">file format notes</a>).
+      
+      <h2>Resources</h2>
+      <ul>
+	   <li><a href = "PLY12stimuli.zip">PLY12stimuli.zip</a> (82 KB)
+	  - Stimulus image files. </li>
+	
+        <li><a href = "PLY12longData.csv">PLY12longData.csv</a> (1.1
+            MB) - Trial-level raw data. Column headings are as follows:
+
+	  <ul>
+	    <li>DAU: Experiment name </li>
+
+	    <li>Participant: Participant ID (unique across entire
+	      experiment)</li>
+
+	    <li>Condition: Experimental condition (either EasyMed,
+	    HardMed, or MedMed. MedMed is an incomplete condition
+	    , N=10, not reported in the paper).)</li>
+	    
+        <li>Block: Block number</li>
+	    
+        <li>SubBlock: Values from 1 to 5 that change every 30
+        trials to aid with learning curve graphs</li>
+	    
+        <li>Trial: Trial number</li>
+	    
+        <li>StimulusNo: Unique ID for each stimulus (number
+        corresponds to numbered PNG files in PLY22stimuli.zip)</li>
+	 
+        <li>Length: The value of each stimulus on the line length
+        dimension (in arbitrary units)</li>
+	    
+        <li>Orientation: The value of each stimulus on the
+        orientation dimension (in arbitrary units)</li>
+	    
+        <li>Category: The category assignment for each stimulus
+        (Category A=0 and Category B=1)</li>
+	    
+        <li>Difficulty: The difficulty of that stimulus (Easy,
+        Med, Hard)</li>
+
+        <li>Response: The response the participant gave (Category
+        A=68, Category B=76; numbers refer to ASCII code of
+        response letters on keyboard i.e. 68 = key 'D', 76 = key
+        'K')</li>
+	    
+        <li>Correct: Whether the participant was correct or not
+        (0 = incorrect, 1 = correct)</li>
+	    
+        <li>RT: Reaction time in seconds</li>
+	    
+	  </ul>
+	  
+
+	  <li>R scripts for analysis of PLY12. You will
+	  need <a href="https://www.r-project.org/">R</a>, plus the
+	  following packages that are available on
+	    <a href="https://cran.r-project.org/">CRAN</a>:
+	    effsize, ggplot2, irr, rmisc</li>
+
+	  <ul>
+
+          <li><a href="PLY12 Functions.R">PLY12 Functions.R</a> (6
+            KB) - functions required by the other scripts, below.</li>
+	
+          <li><a href = "PLY12_Analysis.R">PLY12_Analysis.R</a> (8
+            KB) - Core statistical analysis</li>
+          
+          <li><a href="PLY12_GRT.R">PLY12_GRT.R</a> (3 KB) -
+            Model-based analysis</li>
+          
+	</ul>
+	
+    </ul>
+      
+</body>
+</html>

@@ -1,0 +1,91 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<meta content="text/html" http-equiv="content-type">
+		<title>willslab.co.uk: KULMAES1</title>
+	</head>
+	<body>
+		<h1>
+		Data and Analysis Unit: KULMAES1</h1>
+		<i>Last update: 2015-05-13 by Andy Wills</i><p>
+
+		<h2>Description</h2>
+		Rat discrimination task, reported as Experiment 1A in Maes et al. (in prep.)
+
+		This DAU contains raw data  in open
+		cross-platform formats (see the <a href = "../formats.html">file format notes</a>). It also contains
+		analysis scripts that are mainly in a cross-platform open format (R script), but there are also two
+		short SPSS syntax files. SPSS syntax files are plain text, so can be opened by any text editor. However,
+		you will need SPSS to run these files, and this program is not open source.
+		<b>If anyone knows how to replicate the analysis in these SPSS syntax files within R,
+		please get in touch.</b>
+
+	<h2>Citation</h2>
+		<p> The APA-format citation for this resource is:
+		Maes, E. and Wills, A.J. (2015). <i>Data and Analysis Unit: KULMAES1</i>. Retrieved from http://www.willslab.co.uk/kulmaes1
+
+		<p><b>If you make use of these resources, please drop me an email</b>: andy@willslab.co.uk.
+
+		<h2>Resources</h2>
+		<ul>
+		<li><a href = "kulmaes1data.txt">kulmaes1data.txt</a> (449 KB) - Raw data,
+		mostly at session level. Where the reported analysis make use of sub-session analysis, this
+		data is included.  This is the finest grain of data we currently have available in an easily
+		machine-readable format. Column headings are as follows:
+			<ul>
+					<li>group: Experimental condition (NP = "NP transfer", PP = "PP transfer")
+					<li>subj: Participant ID (unique within KULMAES1)
+					<li>rgrp: Rats were run in groups; rgrp = the group in which the rat was run.
+					<li>box: Multiple Skinner boxes were used; box = box identifier, unique within KULMAES1.
+					<li>cbal: Stimulus counterbalance condition, as described in kulmaes1cbal.txt
+					<li>phase: Experiment phase (1-3)
+					<li>part: Phase-specific variable:
+					<ul>
+						<li>Phase 1: part = 1 - lever retracted during ITI; part 2 - lever not retracted
+						<li>Phase 2: always set to 1
+						<li>Phase 3: part = 1-3; phase 3 has three sub-phases, see paper.
+					</ul>
+					<li>sess: Consecutively numbered days of testing.
+					<li>subsess: Phase-specifc:
+					<ul>
+					<li> phase = 1: Set to zero (session level data)
+					<li> (phase = 2) AND (sess = 28) AND (stim = 'E' OR stim =  'F') : Takes values of 1-8, for 1st to 8th presentation in session
+					(sub-session data)
+					<li> Rest of phase 2 data: Set to zero (session level data)
+					<li> phase = 3: Takes values 1 to N, for Nth presentation of 'stim' within current 'part' of phase 3 (sub-session data)
+					</ul>
+					<li>period: pre = 30-second pre-stimulus period, stim = 30-second stimulus
+					presentation period (note: phase 1, part 1 is always set to 'stim', as lever is only
+					present during the stimulus and hence pre-stimulus responding is, by definition,
+					zero).
+					<li>stim: presented stimulus, coded in terms of the abstract design.
+					<li>resp: Where subsess=0, resp = mean number of times lever is pressed (mean is taken over all
+					presentations of stim within a sesssion). Where subsess > 0, resp = total number of times lever
+					is pressed.
+			</ul>
+			<li><a href = "kulmaes1cbal.txt">kulmaes1cbal.txt</a> (1 KB) -
+			Stimulus counterbalancing. Column heading as as follows:
+			<ul>
+				<li>cbal: Counterbalance condition, see above.
+				<li> A-F: The abstract stimulus type, see above. For each combination of
+				abstract stimulus and counterbalance condition, the table specifies the physical
+				stimulus employed. The six physical stimulus types are described in Maes et al.
+			</ul>
+			<li><a href = "kulmaes1analysis.R">kulmaes1analysis.R</a> (13 KB)		- R script to support analyses
+			reported in Maes et al. This script takes in the raw data (above). For phases 1 and 2, the script produces
+			a table of means for the Figures and	also plots the Figures (without error bars).
+			It does not compute the ANOVAs. Instead, it produces a TXT file for each phase that can be imported
+			into SPSS and analysed using the syntax files provided below. For phase 3, the R script presents the Figure
+			means, does the t-test, and peforms the individual subject SD-based analyses.
+				<li><a href = "kulmaes1phase1.sps">kulmaes1phase1.sps</a> (1 KB) - SPSS syntax script to
+				support analysis of Phase 1. Requires import of text file produced by kulmaes1analysis.R.
+				<li><a href = "kulmaes1phase1ppnp.sps">kulmaes1phase1ppnp.sps</a> (1 KB) - SPSS syntax script to
+				support analysis of Phase 1 (NP vs. PP). Requires import of text file produced by kulmaes1analysis.R.
+				<li><a href = "kulmaes1phase2.sps">kulmaes1phase2.sps</a> (1 KB) - SPSS syntax script to
+				support analysis of Phase 2. Requires import of text file produced by kulmaes1analysis.R.
+		</ul>
+
+
+
+</body>
+</html>

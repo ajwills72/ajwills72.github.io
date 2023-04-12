@@ -1,0 +1,22 @@
+{
+    "contents" : "",
+    "created" : 1417519310835.000,
+    "dirty" : false,
+    "encoding" : "",
+    "folds" : "",
+    "hash" : "0",
+    "id" : "DD2353C8",
+    "lastKnownWriteTime" : 2147483648,
+    "path" : null,
+    "project_path" : null,
+    "properties" : {
+        "caption" : "corr",
+        "contentUrl" : "content?title=corr&file=59c180169ea84ffcae322bd4db3f85dc.htm",
+        "displayedObservations" : 106,
+        "displayedVariables" : 5,
+        "totalObservations" : 106,
+        "variables" : 5
+    },
+    "source_on_save" : false,
+    "type" : "r_dataframe"
+}

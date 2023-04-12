@@ -1,0 +1,132 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<meta content="text/html" http-equiv="content-type">
+		<title>willslab.co.uk: SYD2</title>
+	</head>
+	<body>
+		<h1>	<img src="logo.png" alt="DAU-specific logo" width= 50 height = 50>
+		Data and Analysis Unit: SYD2</h1>
+		<i>Last update: 2014-11-27 by Andy Wills</i><p>
+
+		<h2>Description</h2>	
+		Contingency learning experiment with concurrent load, reported by Lee et al. (in prep.)
+
+		This DAU contains raw data, and an analysis script, in open 
+		cross-platform formats (see the <a href = "../formats.html">file format notes</a>).
+		
+	<h2>Citation</h2>
+		<p> The APA-format citation for this resource is:
+		Lee, J. (2014). <i>Data and Analysis Unit: SYD2</i>. Retrieved from http://www.willslab.co.uk/syd2
+		
+		<p><b>If you make use of these resources, please drop me an email</b>: andy@willslab.co.uk.		
+		
+		<h2>Resources</h2>
+		<ul>
+		<li><a href = "syd2dataTRAIN.txt">syd2dataTRAIN.txt</a> (424 KB) - Trial-level raw data for training phase of
+		contingency learning task. 
+		Column headings are as follows:
+			<ul>
+					<li>subj: Participant ID (unqiue within SYD2)
+					<li>group: Experimental condition (2 = No hint, 3 = Hint)
+					<li>cb: Order of test phases (1 = contingency tests then SRT tests, 2 = vice versa ) ???
+					<li>age: Age of participant in years.
+					<li>gender: Gender of participant ('m' or 'M' =male, 'f' or 'F'=female)
+					<li>hand: Handedness of participant ('l' or 'L'=lefthanded, 'r' or 'R' or 'right'=righthanded)
+					<li>block: Training block (ranges from 1 to 6)
+					<li>trial: Trial number (does NOT reset for each block)
+					<li>stimtype: ID for abstract stimulus type 
+					(1=A, 2=B, 3=AB; 
+					 4=C, 5=D, 6=CD; 
+					 7=E, 8=F, 9=EF; 
+					 10=G, 11=H, 12=GH;
+					 13=I, 14=J; 
+					 15 = KL;
+					 16 = M, 17 = N;
+					 18 = OP;
+					 19 = IJ:
+					 20 = K, 21 = L;
+					 22 = MN;
+					 23 = O, 24 = P)
+					 <li>stim1: ID for abstract stimulus type presented on the left (or the only stimulus presented
+					 on element trials e.g. A). Coding is DIFFERENT to coding of stimtype. It is:
+					 1=A,2=B,3=C,4=D,5=E,6=F,7=G,8=H,9=I,10=J
+					 ,11=K,12=L,13=M,14=N,15=O,16=P).
+										 
+					 <li>stim2: ID for abstract stimulus type presented on the right (set to zero on 
+					 element trials e.g. A). Uses the same coding scheme as stim1.
+					 <li>outcome: Outcome of the trial (1=win, 2=no win)
+					 <li>resp: Participant's response (1= 'bet 1 Australian Dollar', 2 = 'bet AUS 20', 3 = 'best AUS 100')
+					 <li>rt: Participant's reaction time in seconds.
+					 <li>acc: How much the participant lost or won on this trial, in Australian dollars.
+			</ul>
+			
+<li><a href = "syd2dataRATS.txt">syd2dataRATS.txt</a> (35 KB) - Trial-level raw data for ratings phase of
+		contingency learning task. 
+		Column headings are as follows:
+			<ul>
+					<li>subj, group, cb, age, gender, hand, trial, stimtype,stim1,stim2: See syd2dataTRAIN (above).
+					<li>rating: Participant's response on the visual analog scale (range 0 to 600)
+			</ul>			
+
+<li><a href = "syd2dataSRT.txt">syd2dataSRT.txt</a> (1.8 MB) - Trial-level raw data for serial reaction time 
+(SRT) task training phase.  
+		Column headings are as follows:
+			<ul>
+					<li>subj, group, cb, age, gender, hand, trial: See syd2dataTRAIN (above).
+					<li>trialtype: Code that combines position of the current stimulus with whether the current 
+					stimulus follows the sequence or not. 	
+					1=Left (follows sequence);
+					2=Top (follows sequence);
+					3=Right (follows sequence);
+					11=Left (does not follow sequence);
+					22=Top (does not follow sequence);
+					33=Right (does not follow sequence)
+					<li>pos: Position of current stimulus (1=left, 2=top, 3=right)
+					<li>resp: Participant's response (1=left, 2=top, 3=right)
+					<li>rt: Participant's reaction time in seconds.
+					<li>acc: Accuracy of participant's response (1=correct,0=incorrect)					
+			</ul>	
+
+<li><a href = "syd2dataPREDICT.txt">syd2dataPREDICT.txt</a> (5 KB) - Trial-level raw data 
+for prediction test phase of SRT task.
+		Column headings are as follows:
+			<ul>
+					<li>subj, group, cb, age, gender, hand, trial: See syd2dataTRAIN (above).
+					<li>stim: Position of stimulus (1=left, 2=top, 3=right) 
+					<li>resp: Participant's prediction response (1=left, 2=top, 3=right)
+					<li>acc: Accuracy of participant's response (1=correct,0=incorrect)		
+					<li>confrat: Participant's rating of confidence in their response on a 
+					visual analog scale (range 0 to 600)
+					<li>probrat: Participant's rating of how frequently the next target would appear in 
+					that location, given a range of 50% to 100% of the time. Rating is made on a visual
+					analog scale (0= 50%, 600 = 100%).
+			</ul>	
+
+<li><a href = "syd2dataFCHOICE.txt">syd2dataFCHOICE.txt</a> (1 KB) - 
+Trial-level raw data for final forced-choice question in SRT test phase. 
+		Column headings are as follows:
+			<ul>
+					<li>subj, group, cb, age, gender, hand: See syd2dataTRAIN (above).
+					<li>fchoice: Participant's response (1=clockwise, 2=anticlockwise) ???
+			</ul>		
+			
+<li><a href = "syd2dataRECtxt">syd2dataREC.txt</a> (14 KB) - 
+Trial-level raw data for sequence recognition task in SRT test phase. 
+		Column headings are as follows:
+			<ul>
+					<li>subj, group, cb, age, gender, hand: See syd2dataTRAIN (above).
+					<li>ans: Sequence that best matched trained sequence  (1=1st sequence, 2=2nd sequence)
+					<li>resp: Sequence that particiapnts thought best matched trained sequence
+					1=1st sequence, 2=2nd sequence) 
+					<li>acc: Accuracy of participant's response (1=correct, 0=incorrect)
+					<li>confrat: Participant's rating of confidence in their response on a 
+					visual analog scale (range 0 to 600)
+			</ul>		
+
+		<li><a href = "syd2analysis.R">syd2analysis.R (6 KB)</a> - Partial analysis script (work in progress)
+	</ul>
+
+	
+</body>
+</html>

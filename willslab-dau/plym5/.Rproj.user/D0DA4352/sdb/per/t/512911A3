@@ -1,0 +1,22 @@
+{
+    "contents" : "",
+    "created" : 1417519377213.000,
+    "dirty" : false,
+    "encoding" : "",
+    "folds" : "",
+    "hash" : "0",
+    "id" : "512911A3",
+    "lastKnownWriteTime" : 1,
+    "path" : null,
+    "project_path" : null,
+    "properties" : {
+        "caption" : "critstim",
+        "contentUrl" : "content?title=critstim&file=808fcb6730294ab89a034d78c80ed507.htm",
+        "displayedObservations" : 944,
+        "displayedVariables" : 13,
+        "totalObservations" : 944,
+        "variables" : 12
+    },
+    "source_on_save" : false,
+    "type" : "r_dataframe"
+}

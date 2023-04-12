@@ -1,0 +1,31 @@
+Wills et al. (2009), Exp. 1B - clarifications
+=============================================
+
+During the compilation of this DAU in December 2015, I discovered a number of places in Wills et al. (2009, JCP) where the description of the Methods and Results of Experiment 1B was poor. This document fills in the gaps and corrects the errors.
+
+Method
+------
+* The observing response is on a FT 5s schedule.
+
+* The schedule on the response keys is "tand FT 1s VI 1s".  VI 1s is implemented as a random selection, on each trial, of 0 seconds and 1 second.
+
+* Phase 1: The criterion is 75%+ correct, on at least 3 of the 4 dimensions, calculated separately for each block. Participants pass to phase 2 at the end of a block if they reach the criterion on that block (or at the end of the 3rd block if they don't reach criterion).
+
+* Phase 2: If all dimensions are above criterion on the last block of Phase 1, then the lozenge dimension is dropped in Phase 2. Otherwise, the dimension on which the participant was least accurate is dropped.
+
+* Phase 2 is a single, 32-trial block. All participants met criterion within this block.
+
+* Phase 3 has two blocks. Block 1 contains 20 prototype training trials. Block 2 contains 40 trials - 16 test trials, and 24 prototype training trials, intermixed.
+
+Results
+-------
+* Wills et al. (2009), Table 1, contains clerical errors. Those errors are corrected in the analysis script provided in this DAU. The conclusions are unaffected.
+
+* Participants 1-12 are numbered as per Wills et al. (2009). Participants 14-15 are the two excluded participants. Participant 13, not reported in Wills et al. (2009), experienced a technical fault in that the program quite at the end of Phase 1. Participant 13 has been included in this archive in case their Phase 1 data is useful in further analyses. 
+
+
+Andy Wills
+2015-12-04
+
+
+

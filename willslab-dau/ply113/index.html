@@ -1,0 +1,87 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta content="text/html" http-equiv="content-type">
+    <title>willslab: PLY113</title>
+  </head>
+  <body>
+    <h1>Data and Analysis Unit: PLY113</h1>
+
+      <p><b>These resources have not yet been published. If you access
+      them, you are agreeing to treat the information you receive in
+      confidence (e.g. as part of a peer review process)</b>. Once the
+      manuscript is accepted, these same resources will be made
+      publicly available.<p>
+    
+    <h2>Description</h2> Test-potentiated learning experiment
+    examining both recognition and recall performance, reported
+    in <a href = "">Seabrooke, Hollins, Wills, Mitchell
+    (submitted)</a>, Experiment 1.  This DAU contains raw data and
+    analysis scripts, in open cross-platform formats (see the
+      <a href = "../formats.html">file format notes</a>). The raw data
+      file also contains the full set of stimulus items, as the
+      stimuli presented on each trial are recorded (see below).
+      
+     <h2>Resources</h2>
+      
+      <ul>
+        <li><a href = "PLY113longData.csv">PLY113longData.csv</a>
+          (1.3MB) - Trial-level raw data.Column headings are as
+          follows:</li>
+	  <ul>
+	    <li>Subject - Participant number, unique to ply113</li>
+	    <li>Sex - Gender of pariticipant (female, male)</li>
+	    <li>Age - Age of participant (in years) </li>
+	    <li>Group - b/subj condition of experiment (Recognition,
+	      Recall)</li>
+	    <li>Running - Combines phase and w/subj condition of
+	      experiment. [Study, Meaning, First Word] indicate an
+	      encoding trial in the corresponding
+	      condition. [Recognition, Recall] indicates a retrieval
+	      trial of the corresponding type.</li>
+	    <li>Sample - Within-phase trial number (resets at the
+	      beginning of each new encoding phase, and at beginning
+	      of retrieval phase).</li>
+	    <li>Cue - In the encoding phase, the presented cue
+	      word. In the recognition phase, the presented word
+	      (which could be either a cue or a target). In the recall
+	      phase, the presented retrieval cue.</li>
+	    <li>Target - In the encoding phase, the presented target
+	      word. In the retrieval phase, set to NA.</li>
+	    <li>Acc - Whether the participant's response is correct
+	      (1) or incorrect (0). In the Study condition of the encoding phase,
+	      set to NA. In cued recall, the word must match letter-for-letter in
+	      order to be coded as 1.</li>
+	    <li>RT - The time (in ms) from onset of the cue to the
+	      participant pressing the key (the last key in the cued recall test).
+	      In the Sudy condition of encoding phase, set to NA.</li>
+	    <li>Resp - The participant's response.</li>
+	    <li>Condition - In the retrieval phase, the encoding
+	      condition under which the word was presented. Words not in the
+	      encoding condition are described as 'Foil'. In the encoding phase, set
+	      to NA</li>
+	    <li>WordType - Whether the word presented in the retrieval
+	      phase was a cue (rare word) or a target (definition) in the encoding
+	      phase. In the encoding phase, set to NA.</li>
+	  </ul>
+
+	  <li>R scripts for analysis of PL113. You will
+	  need <a href="https://www.r-project.org/">R</a>. You will
+	  also need to have installed the following packages that are
+	  available on <a href="https://cran.r-project.org/">CRAN</a>:
+	  cowplot, ez, ggplot2, pastecs, plyr, pwr, psych, Rmisc</li>
+
+	  <ul>
+
+	    <li><a href="tpl1functions.R">tpl1functions.R</a> -
+	    functions required by the other scripts, below.</li>
+	
+            <li><a href = "tpl1-analysis.R">tpl1-analysis.R</a> - All
+            statistical analysis reported in the mansucript.</li>
+
+	</ul>
+	
+      </ul>
+      
+</body>
+</html>

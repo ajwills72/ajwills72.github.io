@@ -1,0 +1,22 @@
+{
+    "contents" : "",
+    "created" : 1416561828406.000,
+    "dirty" : false,
+    "encoding" : "",
+    "folds" : "",
+    "hash" : "0",
+    "id" : "A74D1C54",
+    "lastKnownWriteTime" : 0,
+    "path" : null,
+    "project_path" : null,
+    "properties" : {
+        "caption" : "bigmfnoid",
+        "contentUrl" : "content?title=bigmfnoid&file=872b47c1c8184e1da5c1a7ee20052815.htm",
+        "displayedObservations" : 93,
+        "displayedVariables" : 20,
+        "totalObservations" : 93,
+        "variables" : 19
+    },
+    "source_on_save" : false,
+    "type" : "r_dataframe"
+}

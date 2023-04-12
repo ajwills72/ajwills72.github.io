@@ -1,0 +1,22 @@
+{
+    "contents" : "",
+    "created" : 1417709586318.000,
+    "dirty" : false,
+    "encoding" : "",
+    "folds" : "",
+    "hash" : "0",
+    "id" : "67C5AA4C",
+    "lastKnownWriteTime" : 4316273920,
+    "path" : null,
+    "project_path" : null,
+    "properties" : {
+        "caption" : "code",
+        "contentUrl" : "content?title=code&file=462eea729f3d4dcabd48223b5d2f874d.htm",
+        "displayedObservations" : 16,
+        "displayedVariables" : 9,
+        "totalObservations" : 16,
+        "variables" : 9
+    },
+    "source_on_save" : false,
+    "type" : "r_dataframe"
+}

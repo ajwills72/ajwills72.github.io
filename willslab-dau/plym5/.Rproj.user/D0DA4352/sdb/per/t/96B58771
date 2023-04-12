@@ -1,0 +1,22 @@
+{
+    "contents" : "",
+    "created" : 1417621086092.000,
+    "dirty" : false,
+    "encoding" : "",
+    "folds" : "",
+    "hash" : "0",
+    "id" : "96B58771",
+    "lastKnownWriteTime" : 4294901760,
+    "path" : null,
+    "project_path" : null,
+    "properties" : {
+        "caption" : "bigmf",
+        "contentUrl" : "content?title=bigmf&file=ac0d3003e5a44c9e82a934ef3e1cdbe7.htm",
+        "displayedObservations" : 75,
+        "displayedVariables" : 15,
+        "totalObservations" : 75,
+        "variables" : 15
+    },
+    "source_on_save" : false,
+    "type" : "r_dataframe"
+}

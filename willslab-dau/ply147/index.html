@@ -1,0 +1,90 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta content="text/html" http-equiv="content-type">
+    <title>willslab: PLY147</title>
+  </head>
+  <body>
+    <h1>Data and Analysis Unit: PLY147</h1>
+
+      <p><b>These resources have not yet been published. If you access
+      them, you are agreeing to treat the information you receive in
+      confidence (e.g. as part of a peer review process)</b>. Once the
+      manuscript is accepted, these same resources will be made
+      publicly available.<p>
+    
+    <h2>Description</h2> Test-potentiated learning experiment
+    examining 2AFC test performance with familiar versus unfamiliar
+    foils, reported in <a href = "">Seabrooke, Hollins, Wills,
+    Mitchell (submitted)</a>, Experiment 4.  This DAU contains raw
+    data and analysis scripts, in open cross-platform formats (see the
+      <a href = "../formats.html">file format notes</a>). The raw data
+      file also contains the full set of stimulus items, as the
+      stimuli presented on each trial are recorded (see below).
+      
+     <h2>Resources</h2>
+      
+      <ul>
+        <li><a href = "TPL4_LongData.csv">TPL4_LongData.csv</a>
+          (1.7 MB) - Trial-level raw data.Column headings are as
+          follows:</li>
+	<ul>
+	  <li>Subject - Participant number, unique to ply147.</li>
+	  <li>Experiment - Experiment name.</li>
+	  <li>Sex - Gender of participant (female, male)</li>
+	  <li>Age - Age of participant (in years)</li>
+	  <li>Pool - method of recruiting participants (Plymouth
+	  University points pool)</li>
+	  <li>Group - Counterbalancing condition for order of encoding
+	    phases (Meaning-Study or Study-Meaning)</li>
+	  <li>Test - Foil familiarity group (Familiar or Unfamiliar)</li>
+	  <li>Running - Combines phase and w/subj condition of
+	    experiment. [Study, Meaning] indicate an encoding trial in
+	    the corresponding condition. [Test] refers to the
+	    two-alternative forced choice test, with either familiar
+	    or unfamiliar foils.</li>
+	  <li>Condition - Combines test-list variable with encoding
+	    condition.  [Test-Cue, Non-Test Cue] in the [Meaning,
+	    Study] encoding conditions refers to whether the item was
+	    allocated the to test list or not. Cues (and targets)that
+	    were allocated to the test list were scheduled to be
+	    presented in the final recognition test. Targets that were
+	    allocated to the non-test list were scheduled to be
+	    presented as foils in the final recognition test for the
+	    Familiar Foils group. [Meaning, Study] in the Test phase
+	    refers to the encoding condition that the cue was
+	    allocated to.</li>
+	  <li>Cue - The presented cue word.</li>
+	  <li>Target - The presented target word.</li>
+	  <li>Foil target - The presented foil word. Set to blank in
+	    the [Meaning, Study] encoding phases.</li>
+	  <li>Resp - The participant's response. Set to blank in the
+	  Study phase.</li>
+	  <li>Acc - Whether the participant's response is correct (1)
+	    or incorrect (0). In the Study condition of the encoding
+	    phase, set to NA.</li>
+	  <li>RT - The time (in ms) from onset of the cue to the
+	    participant repsonse. In the Study condition of encoding
+	    phase, set to NA.</li>
+	</ul>
+
+	  <li>R scripts for analysis of PL147. You will
+	  need <a href="https://www.r-project.org/">R</a>. You will
+	  also need to have installed the following packages that are
+	  available on <a href="https://cran.r-project.org/">CRAN</a>:
+	  ez, ggplot2, pastecs, plyr, pwr, Rmisc
+
+	  <ul>
+
+	    <li><a href="TPL4Functions.R">TPL4Functions.R</a> -
+	    functions required by the other script, below.</li>
+	
+            <li><a href = "tpl4-analysis.R">tpl4-analysis.R</a> - All
+            statistical analysis reported in the mansucript.</li>
+
+	</ul>
+	
+      </ul>
+      
+</body>
+</html>

@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<meta content="text/html" http-equiv="content-type">
+		<title>willslab.co.uk: EXE3</title>
+	</head>
+	<body>
+		<h1>	<img src="logo.png" alt="DAU-specific logo" width= 50 height = 50>
+		Data and Analysis Unit: EXE3</h1>
+		<i>Last update: 2015-03-19 by Andy Wills</i><p>
+
+		<h2>Description</h2>	
+		Pigeon go-left, go-right, visual discrimination task, reported in Maes et al. (in prep.)
+		
+		This DAU contains stimulus files, raw data, and an analysis script, in open 
+		cross-platform formats (see the <a href = "../formats.html">file format notes</a>). 
+		
+	<h2>Citation</h2>
+		<p> The APA-format citation for this resource is:
+		Wills, A.J. (2014). <i>Data and Analysis Unit: EXE3</i>. Retrieved from http://www.willslab.co.uk/exe3
+		
+		<p><b>If you make use of these resources, please drop me an email</b>: andy@willslab.co.uk.		
+		
+		<h2>Resources</h2>
+		<ul>
+		<li><a href = "exe3stim.tbz">exe3stim.tbz</a> (50 KB) - Stimulus image files 
+		<li><a href = "exe3data.txt">exe3data.txt</a> (2.7 MB) - Trial-level raw data. 
+		Column headings are as follows:
+			<ul>
+				<li>subj: Bird ID number (unique within EXE3). 1 = "At", 2 = "Ax", 3 = "Bw", 
+				4 = "Fe", 5 = "He", 6 = "Mo", 7 = "Ta"
+				<li>phase.name: Experiment phase ("T1", "T2", "T3", "T4", "T5"). Note 1: In one session
+				for Bird 2, and one session for Bird 4, the T3 procedure was accidentally run 
+				during another phase - phase.name is set to 'ErrorT3' for these sessions. 
+				<li>date: Date of session (in YYYY-MM-DD format)
+				<li>time: 1 = first session on that date, 2 = second session on that date.
+				<li>sess: Session number (resets for each phase)
+				<li>trial: Trial number (resets for each session). Note 2: A few sessions have fewer trials than
+				expected - this is due to birds occasionally ceasing to peck before session end. Note 3: A few 
+				sessions have more trials than expected - this is due to experimenter error. These sessions
+				contain the appropriate trial types for the phase, just slightly too many of them.
+				<li>stimtype: Logical stimulus type, as referred to in Maes et al. (in prep.)
+				<li>stim: Filename of physical stimulus presented, as in exe3stim.tbz
+				<li> trialtype: L+ = go-left trial. R+ = go-right trial. 
+				<li> acc: 1 = First peck is correct; 0 = First peck is incorrect.
+			</ul>
+			<li><a href = "exe3analysis.R">exe3analysis.R</a>  (3 KB) -  R script for analyses 
+	reported in Maes et al. (in prep.). This script can be run by the command 
+	source('exe3analysis.R'), or can be run interactively. 			
+</body>
+</html>

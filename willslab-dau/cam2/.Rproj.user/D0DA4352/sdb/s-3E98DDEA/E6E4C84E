@@ -1,0 +1,22 @@
+{
+    "contents" : "",
+    "created" : 1409244483936.000,
+    "dirty" : false,
+    "encoding" : "",
+    "folds" : "",
+    "hash" : "0",
+    "id" : "E6E4C84E",
+    "lastKnownWriteTime" : 493921239040,
+    "path" : null,
+    "project_path" : null,
+    "properties" : {
+        "caption" : "skewsum",
+        "contentUrl" : "content?title=skewsum&file=87c58ce3ebfb4dc4950da203c5512438.htm",
+        "displayedObservations" : "2",
+        "displayedVariables" : 3,
+        "totalObservations" : "2",
+        "variables" : "2"
+    },
+    "source_on_save" : false,
+    "type" : "r_dataframe"
+}

@@ -1,0 +1,1 @@
+cbal	A	B	C	D	E	F1	buzzer	flashing light	low tone	light off	high tone	clicker2	buzzer	flashing light	high tone	clicker	low tone	light off3	high tone	clicker	buzzer	flashing light	low tone	light off4	high tone	clicker	low tone	light off	buzzer	flashing light5	low tone	light off	buzzer	flashing light	high tone	clicker6	low tone	light off	high tone	clicker	buzzer	flashing light

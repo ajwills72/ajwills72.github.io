@@ -1,0 +1,22 @@
+{
+    "contents" : "",
+    "created" : 1417709602649.000,
+    "dirty" : false,
+    "encoding" : "",
+    "folds" : "",
+    "hash" : "0",
+    "id" : "5FB91BFD",
+    "lastKnownWriteTime" : 4316269056,
+    "path" : null,
+    "project_path" : null,
+    "properties" : {
+        "caption" : "decode",
+        "contentUrl" : "content?title=decode&file=e8be35172d6b4979b20ddf00c2517d05.htm",
+        "displayedObservations" : 1000,
+        "displayedVariables" : 5,
+        "totalObservations" : 12464,
+        "variables" : 4
+    },
+    "source_on_save" : false,
+    "type" : "r_dataframe"
+}

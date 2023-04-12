@@ -1,0 +1,138 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta content="text/html" http-equiv="content-type">
+<title>willslab.co.uk: EXE11</title>
+<style type="text/css">
+#maxmin { max-width: 800px; min-width: 400px; margin: 0 auto; border: none; padding: 0; }
+</style> 
+</head>
+<body>
+<div id="maxmin">
+<h1>Data and Analysis Unit: EXE11</h1>
+<i>Last update: 2016-02-22 by Andy Wills</i><p>
+
+<h2>Description</h2>
+Categorization experiment, reported as Experiment 1B in Wills et al. (2009)
+This DAU contains raw data, and an analysis script, in open
+cross-platform formats 
+(see the <a href = "../formats.html">file format notes</a>)
+
+<h2>Citation and License</h2>
+<p> The APA-format citation for this resource is:
+<p>Wills, A.J. (2015). <i>Data and Analysis Unit: EXE11</i>.
+Retrieved from http://www.willslab.co.uk/exe11
+
+<p><span xmlns:dct="http://purl.org/dc/terms/" property="dct:title">DAU: EXE11</span> by <a xmlns:cc="http://creativecommons.org/ns#" href="www.willslab.co.uk/exe11" property="cc:attributionName" rel="cc:attributionURL">Andy J. Wills</a> is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Attribution-ShareAlike 4.0 International License</a>. This licence covers all materials listed and hyperlinked on this page (data, stimuli, analysis scripts, source code, etc.).
+
+<br><a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-sa/4.0/88x31.png" /></a>
+
+<p><b>If you make use of these resources, please drop me an email</b>: andy@willslab.co.uk.
+
+<h2>Resources</h2>
+<ul>
+  <li><a href='exe11clar.txt'>exe11clar.txt</a> (2 KB) - Some clarifications of the Method and Results of this experiment.
+  <li><a href='exe11stims.tar.bz2'>exe11stims.tar.bz2</a> (705 KB) - Stimulus image files. Filenames are of the form 'A8----x.png', where '----' is the four-digit code used in the raw data file (see below). 'A8' is an irrelevant prefix, 'x' is an irrelevant single-digit suffix.
+  <li><a href='exe11analysis.R'>exe11analysis.R</a> (6 KB) - R script that confirms the central conclusions (sort strategy of each participant) of Experiment 1B as reported in Wills et al. (2009). This script can be run by the command source('exe11analysis.R'), or can be run interactively. </li>
+<li><a href='exe11suppl.R'>exe11suppl.R</a> (1 KB) - R script extending analysis beyond that reported in Wills et al. (2009). Specifically, the cross-species comparison reported in the Results section of Experiment 1B of that paper reports a non-significant Fisher exact-test. The current script uses a Bayesian contingency table test to provide substantial evidence for the null. The script requires the <i>conting</i> package for R (Overstall and King, 2014).
+<li><a href = "exe11data.csv">exe11data.csv</a> (172 KB) - 
+Trial-level behavioural raw data. Column headings are as follows:
+<ul>
+<li><b>date</b>: Date paricipant was tested (in YYYY-MM-DD format)
+<li><b>subj</b>: Participant ID (unique within EXE11).
+<li><b>cbal</b>: Stimulus counterbalance condition. There are six conditions, reflecting 
+the six different ways the three physical dimensions of the prototype
+(three picked from checks, lozenge, bar, doughnut)
+can be allocated to the three physical locations of the prototype (top,
+left, right).
+<li><b>keyb</b>: Response counterbalance condition. There are two conditions,
+'left' and 'right'. 
+<li><b>phase</b>: Experiment phase (1 = single-attribute training, 2 = prototype training, 3 = test)
+<li><b>block</b>: Block number. Phase-specific:
+<ul>
+  <li>Phase 1: Ranges from 1 to a maximum of 3 (criterion-based training)</li>
+  <li>Phase 2: Always 1 </li>
+  <li>Phase 3: Block 1 is further prototype training. Block 2 contains a mix of test
+  and prototype training trials.</li>
+</ul>
+<li><b>trial:</b> Trial number. Phase-specific:</li>
+<ul>
+  <li>Phase 1: 1-64</li>
+  <li>Phase 2: 1-32</li>
+  <li>Phase 3, Block 1: 1-20</li>
+  <li>Phase 3, Block 2: 1-40</li>
+</ul>
+<li><b>stim</b>: Four-digit code for physically-presented stimulus. Phase-specific:
+<ul>
+  <li>Phase 1: Single-attribute stimuli. Counting from the left: </li>
+  <ul>
+    <li>1st digit: bar: 0 = absent, 1 = long, 2 = short </li> 
+    <li>2nd digit: checks: 0 = absent, 1 = coarse, 2 = fine </li> 
+    <li>3rd digit: doughnut: 0 = absent, 1 = large, 2 = small </li> 
+    <li>4th digit: lozenge: 0 = absent, 1 = convex, 2 = concave </li>
+  </ul>
+  <li>Phases 2-3: Three-attribute stimuli. Counting from the left,
+  the digits refer to physical locations within this stimulus: </li>
+  <ul>
+    <li>1st digit: top stimulus attribute</li>
+    <li>2nd digit: left stimulus attribute</li>
+    <li>3rd digit: right stimulus attribute</li>
+    <li>4th digit: Always zero</li>
+  </ul>
+  The numbers at each location mean the following:
+  <ul>
+    <li>1: lozenge: convex</li>
+    <li>2: doughnut: large</li>
+    <li>3: bar: long</li>
+    <li>4: checks: coarse</li>
+    <li>5: lozenge: concave</li>
+    <li>6: doughnut: small</li>
+    <li>7: bar: short</li>
+    <li>8: checks: fine</li>
+  </ul>
+</ul>
+<li><b>vtft: </b> The time interval (in seconds) between onset of the response stimuli
+and the time at which the participant's responses have a scheduled consequence (i.e. are not ignored).</li>
+ <li><b>ftpks: </b> The number of responses made by the participant
+during the vtft interval. </li>
+<li><b>pk1acc:</b> The status of the first response made by the participant to the response stimulus 
+after the vtft interval (see above) had expired. Depends on stimulus type:</li>
+<ul>
+<li>Training stimuli: </li>  
+<ul>
+  <li>* : correct response</li>
+  <li>+ : Incorrect response</li>
+</ul>
+<li>Test stimuli: </li>
+<ul>
+  <li>L : response on left key</li>
+  <li>R : response on right key</li>
+</ul>
+</ul>
+<li><b>totpks: </b> The total number of responses made by the participant to the response stimulus
+after the vtft interval (see above) had expired.
+<li><b>pos1rt: </b>The latency of the first left-key response
+to the response stimulus, measured from response stimulus onset (i.e. includes ignored responses). -1 indicates no responses of this type on this trial. </li>
+<li><b>neg1rt: </b>The latency of the first right-key response
+to the response stimulus, measured from response stimulus onset (i.e. includes ignored responses). -1 indicates no responses of this type on this trial. </li>
+
+</ul>
+
+</ul>
+		
+
+<h2>Further resources</h2>
+The following resources are not formally part of the archive because they do not use open formats. They are provided in case others find them useful, with absolutely no warranty!
+<ul>
+<li><a href = 'exe11script.tar.bz2'>exe11script.tar.bz2</a> (34 KB) - Source code for the experiment program (VB6).
+</ul>
+
+<h2>References</h2>
+<ul>
+<li>Overstall, A.M. and King, R. (2014). conting: An R package for Bayesian analysis of complete and incomplete contingency tables. <i>Journal of Statistical Software, 58</i>,e1-27.
+<li> Wills, A.J., Lea, S.E.G., Leaver, L.A., Osthaus, B., Ryan, C.M.E., Suret, M.B., Bryant, C.M.L., Chapman, S.J., & Millar, L. (2009). A comparative analysis of the categorization of multidimensional stimuli: I. Unidimensional classification does not necessarily imply analytic processing; evidence from pigeons (Columba livia), squirrels (Sciurus carolinensis), and humans (Homo sapiens). <i>Journal of Comparative Psychology, 123</i>, 391-405.
+</ul>
+
+</div>
+</body>
+</html>

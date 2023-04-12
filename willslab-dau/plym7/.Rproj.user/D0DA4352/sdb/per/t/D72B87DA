@@ -1,0 +1,22 @@
+{
+    "contents" : "",
+    "created" : 1417709575011.000,
+    "dirty" : false,
+    "encoding" : "",
+    "folds" : "",
+    "hash" : "0",
+    "id" : "D72B87DA",
+    "lastKnownWriteTime" : 7305455852748629504,
+    "path" : null,
+    "project_path" : null,
+    "properties" : {
+        "caption" : "dta",
+        "contentUrl" : "content?title=dta&file=63a09228cc244387bfaad1be3c4aea49.htm",
+        "displayedObservations" : 1000,
+        "displayedVariables" : 11,
+        "totalObservations" : 12784,
+        "variables" : 11
+    },
+    "source_on_save" : false,
+    "type" : "r_dataframe"
+}

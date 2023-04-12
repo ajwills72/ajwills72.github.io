@@ -1,0 +1,72 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<meta content="text/html" http-equiv="content-type">
+		<title>willslab.co.uk: EXE5</title>
+	</head>
+	<body>
+		<h1>	<img src="logo.png" alt="DAU-specific logo" width= 50 height = 50>
+		Data and Analysis Unit: EXE5</h1>
+		<i>Last update: 2014-10-24 by Andy Wills</i><p>
+
+		<h2>Description</h2>	
+		Match-to-standards classification task with digit-counting concurrent load task,
+		 reported in Wills et al. (2013, QJEP, Experiment 1A).
+		This DAU contains stimulus files, raw data,
+		and an analysis script, in open 
+		cross-platform formats (see the <a href = "../formats.html">file format notes</a>) 
+		
+	<h2>Citation</h2>
+		<p> The APA-format citation for this resource is:
+		Wills, A.J. (2014). <i>Data and Analysis Unit: EXE5</i>. Retrieved from http://www.willslab.co.uk/exe5
+		
+		<p><b>If you make use of these resources, please drop me an email</b>: andy@willslab.co.uk.		
+		
+		<h2>Resources</h2>
+		<ul>
+		<li><a href = "exe5stim.tbz">exe5stim.tbz</a> (69 KB) - Stimulus image files.
+		<li><a href = "exe5stimAudio.tbz">exe5stimAudio.tbz</a> (2.2 MB) - Audio files for concurrent load task.
+		<li><a href = "exe5data.csv">exe5data.csv</a> (239 KB) - Trial-level raw data. Reaction time for
+		 observing the prototypes (prior to presentation of to-be-classified stimulus) 
+		was not recorded. Column headings are as follows:
+			<ul>
+				<li>cond: Experimental condition. "load" = Concurrent load, "noload" = No current load. 				
+				<li>subj: Participant number (unique within EXE5)
+				<li>phase: Experiment phase. "prac" = practice phase, "exp" = main phase.
+				<li>block: Experiment block (starts at zero for practice block)
+				<li>trial: Trial number (resets between blocks)
+				<li>stim: The to-be-classified stimulus presented, numbers refer to stimulus file names in exe5stim.tbz (in the 
+				practice phase, 98 = picture of left-hand response key, 99 = picture of right-hand response key )
+				<li>resp: Participant's classification response (A = category A, B = category B) 
+				<li>rt: Participant's reaction time for classification response (in milliseconds)
+				<li>rtiti: Time between participants classification response and them pressing SPACE to begin the next trial 
+				(in milliseconds)
+			</ul>
+			
+		<li><a href = "exe5classic.csv">exe5classic.csv</a> (1  KB) - Subject-level raw data for the classic "combined"
+		analysis used in match-to-standard tasks. This is where each block is classified as UD, OS, or Other, on the basis of
+		both the objective sort produced, and the participant's description of that sort (see paper for details). Participants' 
+		descriptions were not archived for this study. 
+						
+		<li><a href = "exe5analysis.R">exe5analysis.R</a>  (4 KB) -  R script for the analyses of Wills et al. (2013, QJEP).
+		
+		
+		</ul>
+		<h2>Further resources</h2>
+					The following resources are not formally part of the archive, either because they do not use open formats, 
+					or because they have not been thoroughly bug-checked, or both. They are provided in case others
+					find them useful, with absolutely no warranty! 
+		<ul>
+			<li> <a href = "exe5eprimeMTS.tbz">exe5eprimeMTS.tbz</a> (38 KB) - Code for running the Experiment 1A 
+			match-to-standards task under
+			E-prime 2.0. Developed from original code used in experiment, which was E-Prime 1. This E-prime 2 version has not
+			been thoroughly bug-checked. 
+			<li><a href = "exe5eprimeLoad.tbz">exe5eprimeLoad.tbz</a> (9 KB) - Code for running the 
+			Experiment 1A concurrent load task under
+			E-prime 2.0. Developed from original code used in experiment, which was E-Prime 1. This E-prime 2 version has not
+			been thoroughly bug-checked.  Requires audio files in exe5stimAudio.tbz to be extracted from that archive and
+			placed in same directory as ES2 file. Must be run on a different computer to exe5eprimeMTS.tbz, with a parallel port
+			connection between the two computers (MTS program starts and stops digit stream through this link).
+		</ul>
+</body>
+</html>

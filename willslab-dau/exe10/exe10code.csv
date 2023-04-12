@@ -1,0 +1,25 @@
+stim,Food,CB1code,CB1type,CB1corr,CB2code,CB2type,CB2corr
+1,cheese,A,famP,1,C,famN,0
+2,garlic,B,famP,1,D,famN,0
+3,cheese and garlic,AB,famN,0,CD,famP,1
+4,milk,C,famN,0,A,famP,1
+5,mushrooms,D,famN,0,B,famP,1
+6,milk and mushrooms,CD,famP,1,AB,famN,0
+7,seafood,E,famP,1,G,famN,0
+8,red meat,F,famP,1,H,famN,0
+9,seafood and red meat,EF,famN,0,GH,famP,1
+10,olive oil,G,famN,0,E,famP,1
+11,coffee,H,famN,0,F,famP,1
+12,olive oil and coffee,GH,famP,1,EF,famN,0
+13,banana,I,famP,1,K,K/L,1
+14,eggs,J,famP,1,L,K/L,1
+15,banana and eggs,IJ,IJ,0,KL,famN,0
+16,orange squash,K,K/L,1,I,famP,1
+17,bread,L,K/L,1,J,famP,1
+18,orange squash and bread,KL,famN,0,IJ,IJ,0
+19,avocado,M,famN,0,O,O/P,0
+20,peanuts,N,famN,0,P,O/P,0
+21,avocado and peanuts,MN,MN,1,OP,famP,1
+22,pasta,O,O/P,0,M,famN,0
+23,chocolate,P,O/P,0,N,famN,0
+24,pasta and chocolate,OP,famP,1,MN,MN,1

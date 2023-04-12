@@ -1,0 +1,202 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta content="text/html" http-equiv="content-type">
+<title>willslab.co.uk: PLYM10</title>
+<style type="text/css">
+#maxmin { max-width: 800px; min-width: 400px; margin: 0 auto; border: none; padding: 0; }
+</style> 
+</head>
+<body>
+<div id="maxmin">
+<h1>Data and Analysis Unit: PLYM10</h1>
+<i>Last update: 2015-04-04 by Andy Wills</i><p>
+
+<h2>Simulation</h2>
+
+This section contains a description of, and source code for, the
+simulation reported in Figure 1 of O'Connell et al. (submitted).
+
+<h3>Description</h3>
+
+<!-- NULL, blocks to run network on all zeros input and category,
+INIT_BLOCKS = 500, include.h
+
+NULL, hipp initial weights, -3 to +3 uniform, hipp.c: init_hipp
+alpha, hippocampal momentum, 0.9, include.h
+beta, hippocampal learning rate, HI_LR=.05, hipp.c:init_hipp
+
+NULL, cort initial weights, -3 to +3 uniform, cort.c: init_cort
+NULL, cort hidden->output learning rate, COR_LR_UP*US_BOOST = 0.05 * 10 = .5,cort.c:train_cort and include.h
+NULL, cort input->hidden learning rate, COR_LR_DN*US_BOOST =  0.01 * 10 = .1,cort.c:train_cort and include.h
+-->
+
+The model architecture and parameters were as specified in Gluck and
+Myers (1993, Appendix), with the following exceptions: (a) in the
+current experiment, there was an outcome on every training trial
+(category A or category B), thus the US-present learning rate was used
+on all training trials, (b) input-to-hidden connections in the
+cortical model had a learning rate of 0.1, (c) weights were intialized
+to a [-3,+3] random uniform distribution.
+
+<p>The model had 24 units representing the stimuli (one for each
+icon), 12 hidden units, and 2 units representing the outcome (one for
+each category label). Activation from the outcome units was converted
+to a response probability using a standard exponential ratio decision
+mechanism (see e.g. Wills et al., 2000). This decision mechanism's
+single parameter (k) was arbitrarily set to 3; the conclusions of this
+simulation are robust to a wide range of values for k.
+
+<p>The model was trained and tested on the same number of trials as
+were the participants, with the stimuli generated using the same
+algorithms as the program which ran the experiment. As is standard in
+applications of the Gluck-Myers model, training was preceded by 500
+blank trials (ie. no stimuli and no category label), in order to
+initialize the network.
+
+<p>Figure 1 of O'Connell et al. (submitted) is an average across 2000
+simulated participants, each with a different set of randomly-selected
+initial weights.The simulation was conducted largely in C, for speed
+of execution, with non-time-critical collation and graphing performed
+in R. The source code for this simulation is provided below.
+
+<h3>Source code</h3>
+
+<ul>
+<li><a href =
+"http://www.willslab.co.uk/plym10/plym10sim.zip">plym10sim.zip</a>
+(10K) - A ZIP archive containing the following files:
+<ul>
+<li><u>analysis.R</u> - <b>Run this one</b> - R script that compiles
+the simulation from C source code, performs 2000 runs of the
+simulation, calculates the average ouput from these runs, and presents
+outputs results as a graph in a PDF file ('bigsum.pdf')
+<li><u>plotfunc.R</u> - Custom graphing functions used
+by <i>analysis.R</i>
+<li><u>main.c</u> - Top-level source code file for Gluck-Myers
+simulation.
+<li><u>include.h</u> - Sets most model parameters for Gluck-Myers
+simulation.
+<li><u>run.c</u> - Source code for functions to initialize, train, and
+test Gluck-Myers model.
+<li><u>cort.c</u> - Source code for the cortical network of the
+Gluck-Myers model.
+<li><u>hipp.c</u> - Source code for the hippocampal network of the
+Gluck-Myers model.
+<li><u>utilities.c</u> - Source code for a set of utility functions
+used by other C files in this archive.
+
+</ul>
+</ul>
+
+<p>In order to run this simulation, you will need to install the
+following:
+<ul>
+<li><a href = "http://www.r-project.org/about.html">R</a> - a free
+software environment for statistical computing and graphics.
+<li><a href = "http://gcc.gnu.org//">gcc</a> - a free compiler. If you
+did a full install of R, you probably have this already.
+</ul>
+<p>This simulation was conducted on a Linux machine. It should work
+with little or no modification on any UNIX-based system (including
+Apple's OS X). For MS Windows, you may have to modify
+the <i>system()</i> calls in <i>analysis.R</i> - happy to help you do
+this, on request.
+
+<h2>Empirical data and analysis</h2>
+
+<h3>Description</h3>
+
+This section publishes such participant data files as are permitted
+under the ethical and regulatory approvals governing the research
+reported in O'Connell et al. (submitted).  Analysis scripts and
+stimulus image files are also provided.
+
+<h3>Resources</h3>
+
+<ul>
+<li><u>plym10pat.csv</u> (6K) - Participant-level raw data for patient
+group and matched control group. Legal/ethical issues mean this raw
+data cannot be published. It may be possible to provide a confidential
+copy for research purposes on request - contact me. Column headings
+are as follows:
+<ul>
+<li>subj: Participant number (unique within PLYM10)
+<li>grp: Experiment condition (exp = patient group, ctrl = match
+controls)
+<li>datum: Specifies type of data presented in the current row:
+<ul>
+<li>ph1error: Training phase error score.
+<li>a12 ... a0: Number of category A elements in the test stimulus.
+<li>age: Participant's age.
+</ul>
+<li>value: Dependent on value of 'datum':
+<ul>
+<li> where datum = 'ph1error': Number incorrect responses in training phase
+<li> where datum = 'age': Participant's age at time of testing, in years.
+<li> otherwise: Number of 'category A' responses during test phase.
+</ul> 
+</ul>
+
+<li><a href =
+"http://www.willslab.co.uk/plym10/plym10umctrl.csv">plym10umctrl.csv</a>
+(145K) - Trial-level raw data for <b>unmatched control
+group</b>. Column headings are as follows:
+<ul>
+<li>date: Date of testing.
+<li>subj: Participant number (unique within PLYM10).
+<li>phase: Experiment phase. 1 = training, 2 = test.
+<li>trial: Trial number (resets between phases).
+<li>stim: Phase specific:
+<ul>
+<li>Phase 1: The category from which the training item was generated.
+<li>Phase 2: Number of category B elements (0-12).
+</ul>
+<li>resp: Participant's response.
+<li>rt: Participant's reaction time (in milliseconds).
+</ul>
+
+<li><a href =
+"http://www.willslab.co.uk/plym10/plym10analysis.R">plym10analysis.R</a>
+(6K) - R script for analyses reported in O'Connell et
+al. (submitted). This script can be run by the command
+source('plym10analysis.R'), or can be run interactively. It also
+produces Figure 2C as a PDF. In addition to the two following files,
+you will need to have installed the R packages <i>ez</i>
+and <i>perm</i>. Both are available on CRAN.
+<ul>
+<li><a href =
+"http://www.willslab.co.uk/plym10/plym10plot.R">plym10plot.R</a> (1K)
+- R function to produce Figure 2C of O'Connell et al. (submitted).
+<li><a href = "http://www.willslab.co.uk/plym10/bsci.R">bsci.R</a>
+(2K) - R function for calculation of difference-adjusted
+between-subject confidence intervals. Implements same calculation
+as <i>bs.ci()</i> from Baguley (2012). Written by Thom Baguley.
+</ul>
+<li><a href =
+"http://www.willslab.co.uk/cam1/cam1stim.tbz">cam1stim.tbz</a> (11K) -
+The individual icons making up the stimuli in this experiment. For
+each participant, 24 icons are randomly selected from the set 1.png to
+36.png (37.png to 40.png are not used).
+
+</ul>
+
+<h2>References</h2>
+
+<ul>
+<li>Baguley, T. (2012). Calculating and graphing within-subject
+confidence intervals for ANOVA. <i>Behavior Research Methods, 44</i>,
+158-175.
+<li>Gluck, M.A. and Myers, C.E. (1993). Hippocampal mediation of
+stimulus representation: A computational theory. <i>Hippocampus,
+3</i>,491-516.
+<li>O'Connell, G., Myers, C.E., Hopkins, R.O., McLaren, R.P., Gluck,
+M.A. and Wills, A.J. (submitted). Amnesic patients show superior
+generalization in category learning.
+<li>Wills, A.J., Reimers, S., Stewart, N., Suret, M. and McLaren,
+I.P.L. (2000). Tests of the ratio rule in categorization. <i>Quarterly
+Journal of Experimental Psychology, 53A</i>,983-1011.
+</ul>
+</div>
+</body>
+</html>

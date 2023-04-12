@@ -1,0 +1,76 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<meta content="text/html" http-equiv="content-type">
+		<title>willslab.co.uk: EXE2</title>
+	</head>
+	<body>
+		<h1>	<img src="logo.png" alt="DAU-specific logo" width= 50 height = 50>
+		Data and Analysis Unit: EXE2</h1>
+		<i>Last update: 2014-05-06 by Andy Wills</i><p>
+
+		<h2>Description</h2>	
+		Contingency learning experiment with concurrent load, reported by 
+		<a href = "../../pubs/2011wills.pdf">Wills et al. (2011)</a>, Experiment 1. 
+		DAU created after publication in response to request for raw data.
+
+		This DAU contains stimulus audio files, raw data, and an analysis script, all in open 
+		cross-platform formats (see the <a href = "../formats.html">file format notes</a>).
+		
+	<h2>Citation</h2>
+		<p> The APA-format citation for this resource is:
+		Wills, A.J. (2014). <i>Data and Analysis Unit: EXE2</i>. Retrieved from http://www.willslab.co.uk/exe2
+		
+		<p><b>If you make use of these resources, please drop me an email</b>: andy@willslab.co.uk.		
+		
+		<h2>Resources</h2>
+		<ul>
+		<li><a href = "exe2stim.tbz">exe2stim.tbz</a> (15 KB) - Stimulus audio files.		
+		<li><a href = "exe2data.txt">exe2data.txt</a> (529 KB) - Trial-level raw data. 
+		Column headings are as follows:
+			<ul>
+					<li>date: Date paricipant was tested (in YYYY-MM-DD format)					
+					<li>cond: Experimental condition (1 = Load, 2 = No load)
+					<li>cb: Counterbalance condition (see exe2code.txt. Note that cb = -1 where phase = 1, 
+					as counterbalance condition is irrelevant in the practice phase)
+					<li>subj: Participant ID (unqiue within EXE2)
+					<li>phase: Experiment phase (1 = practice, 2 = training, 3 = test)
+					<li>blk: Block (Always = 1 in phases 1 and 3. Ranges from 1 to a maximum
+					of 8 for phase 2. Critertion-based training, so max. blk varies by participant)
+					<li>trial: Trial number (resets for each block)
+					<li>stim: ID of presented meal (see exe2code.txt)
+					<li>resp: Participant's response to presented meal ( 0 = No reaction , 1 = Reaction )
+					<li>rt: Participant's reaction time to presented meal in milliseconds
+					<li>d1: First digit presented in six-digit load task (-1 where no digit presented)
+					<li>d2...d6: as per d1.
+					<li>probestim: Probe digit presented.
+					<li>proberesp: Participant's response to probe digit
+					<li>probert: Participants' reaction time to probe digit in milliseconds.
+			</ul>
+		<li><a href = "exe2code.txt">exe2code.txt</a> (1 KB) - Shows mapping from food stimulus
+		ID ('stim' in exe2data.txt), physical food names, and logical food labels (A,B, etc). The last
+		of these is contingent on counter-blance condition. Column headings 
+		are as follows:
+		<ul>
+			<li>stim: Stimulus ID number (used in exe2data.txt)
+			<li>Food: Physical food name(s) presented
+			<li> CB1code: Logical food labels (A,B,...) where in first counterbalance condition (cb=1 in exe2data.txt)
+			<li> CB1type: Logical food category where in first counterbalance condition. Categories are as follows:
+				<ul>
+					<li> famP: 'familiar positive' i.e. item present during training that is followed by an allergic reaction.
+					<li> famN: 'familiar negative'
+					<li> MN, OP, K/L, O/P: As described in Wills et al. (2011)				
+				</ul>
+			<li> CB1corr: Correct response where cb=1 (0 = No reaction, 1 = Reaction). For novel test items, 
+			correct = the rule-based response (e.j. 0 for IJ)
+			<li> CB2code: As CB1code for cb = 2
+			<li> CB2type: As CB1type for cb = 2
+			<li> CB2corr: As CB1corr for cb = 2
+		</ul>
+		<li><a href = "exe2analysis.R">exe2analysis.R (8 KB)</a> - R script for all analyses 
+	reported in Wills et al. (2011, Experiment 1). In addition, analyses of relative performance of +ve and
+	-ve patterning problems during training phase (requested by E.Maes, April 2014). 
+
+	
+</body>
+</html>

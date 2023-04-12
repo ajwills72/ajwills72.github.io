@@ -1,0 +1,164 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta content="text/html" http-equiv="content-type">
+    <title>willslab: PLY22</title>
+  </head>
+  <body>
+    <h1>Data and Analysis Unit: PLY22</h1>
+    <i>Last update: 2017-05-08 by Andy Wills</i><p>
+      
+      <h2>Description</h2>
+      Experiment investigating the effect of training order on
+      category learning performance reported in
+      <a href = "">Edmunds, Wills, Milton (2017)</a>, Experiment 1.
+      This DAU contains stimulus image files, raw data, and analysis
+      scripts, all in open cross-platform formats (see the
+      <a href = "../formats.html">file format notes</a>).
+      
+      <h2>Resources</h2>
+      <ul>
+	<li><a href = "PLY22stimuli.zip">PLY22stimuli.zip</a> (3.9 MB)
+	  - Stimulus image files. </li>
+	
+        <li><a href = "PLY22longData.csv">PLY22longData.csv</a> (845
+          KB) - Trial-level raw data. This is the file against which
+          the md5 checksum reported in the journal article is
+          calculated. Column headings are as follows:
+
+	  <ul>
+	    <li>DAU: Experiment name </li>
+
+	    <li>Participant: Participant ID (unique across entire
+	      experiment)</li>
+
+	    <li>Condition: Experimental condition (either EasyMed or
+	    HardMed)</li>
+	    
+            <li>Block: Block number</li>
+	    
+            <li>SubBlock: Values from 1 to 5 that change every 30
+            trials to aid with learning curve graphs</li>
+	    
+            <li>Trial: Trial number</li>
+	    
+            <li>StimulusNo: Unique ID for each stimulus (number
+            corresponds to numbered PNG files in PLY22stimuli.zip)</li>
+	 
+            <li>Frequency: The value of each stimulus on the spatial
+            frequency dimension (in arbitrary units)</li>
+	    
+            <li>Orientation: The value of each stimulus on the
+            orientation dimension (in arbitrary units)</li>
+	    
+            <li>Category: The category assignment for each stimulus
+            (Category A=0 and Category B=1)</li>
+	    
+            <li>Difficulty: The difficulty of that stimulus (Easy,
+            Med, Hard)</li>
+
+            <li>Response: The response the participant gave (Category
+            A=68, Category B=75; numbers refer to ASCII code of
+            response letters on keyboard i.e. 68 = key 'D', 75 = key
+            'K')</li>
+	    
+            <li>Correct: Whether the participant was correct or not
+            (0 = incorrect, 1 = correct)</li>
+	    
+            <li>RT: Reaction time in seconds</li>
+	    
+	  </ul>
+	  
+	</li>
+	
+	<li><a href="PLY22verbalReports.pdf">PLY22verbalReports.pdf</a>
+	(1.7 MB) - Scanned copies of the strategy reports produced by
+	each participant. Prefix participant numbers with '22' to
+	match up to the other files in this repository
+	(e.g. participant 103 in this file is participant 22103 in the
+	other files). </li>
+
+	<li><a href="PLY22verbalReports.csv">PLY22verbalReports.csv</a>
+	(1 KB) - Participant level strategy information from verbal
+	reports given by participants. Column headings are as follows:
+
+	  <ul>
+            <li>Participant: Participant ID</li>
+	    
+            <li>Condition: Experimental condition (1 =
+              Easy-to-medium, 2 = Hard-to-medium)</li>
+	    
+            <li>CERE: Classification of participant's strategy by
+            Charlotte E.R. Edmunds.</li>
+	    
+            <li>GW: Classification of participant's strategy by Gemma
+            Williams</li>
+	    
+            <li>Agreed: Classification of participant's strategy
+            agreed by CERE and GW after discussion. For this and the
+            previous two columns the codes are:
+	      
+	      <ul>
+
+		<li>2D = Generic two-dimensional rule</li>
+
+		<li>CJ=Conjunction rule</li>
+
+		<li>CJ2 = A double conjunction</li>
+
+		<li>NA = No relevant strategy information</li>
+
+		<li>RuleX = Rule plus exception</li>
+
+		<li>SUR = Sequential unidimensional rules</li>
+
+		<li>Udexp = Unidimensional rule plus exception</li>
+		
+		<li>UDF = Unidimensional rule based on frequency</li>
+
+		<li>UDO = Unidimensional rule based on
+		orientation</li>
+
+	      </ul>
+		
+            <li>CEREyes: Whether CERE thought the participant reported
+            a strategy or not (1 = yes, 0 = no)</li>
+	    
+            <li>GWyes: Whether GW thought participants reported a
+              strategy or not (1 = yes, 0 = no)</li>
+
+	    <li>AgreedYes: Presence of straetgy agreed by CERE and GW
+	    after discussion (1 = yes, 0 - no)</li>
+	    
+            <li>simpStrat: Simplified strategies. All complex
+            rule-based strategies are given the label "Complex", and
+            both unidimensional strategies are defined as "UD"</li>
+
+	  </ul>
+
+	  <li>R scripts for analysis of PLY22. You will
+	  need <a href="https://www.r-project.org/">R</a>, plus the
+	  following packages that are available on
+	    <a href="https://cran.r-project.org/">CRAN</a>:
+	    effsize, ggplot2, irr, rmisc</li>
+
+	  <ul>
+
+	    <li><a href="PLY22 Functions.R">PLY22 Functions.R</a> (6
+            KB) - functions required by the other scripts, below.</li>
+	
+            <li><a href = "PLY22_Analysis.R">PLY22_Analysis.R</a> (8
+            KB) - Core statistical analysis</li>
+	
+            <li><a href="PLY22_GRT.R">PLY22_GRT.R</a> (3 KB) -
+            Model-based analysis</li>
+	
+            <li><a href ="PLY22_Verbals.R">PLY22_Verbals.R</a> (2 KB)
+            - strategy report analysis</li>
+
+	</ul>
+	
+      </ul>
+      
+</body>
+</html>

@@ -1,0 +1,69 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<meta content="text/html" http-equiv="content-type">
+		<title>willslab.co.uk: EXE7</title>
+	</head>
+	<body>
+		<h1>	<img src="logo.png" alt="DAU-specific logo" width= 100 height = 100>
+		Data and Analysis Unit: EXE7</h1>
+		<i>Last update: 2014-10-27 by Andy Wills</i><p>
+
+		<h2>Description</h2>	
+		Match-to-standards classification task with digit-counting concurrent load task,
+		 reported in Wills et al. (2013, QJEP, Experiment 2).
+		This DAU contains stimulus files, raw data,
+		and an analysis script, in open 
+		cross-platform formats (see the <a href = "../formats.html">file format notes</a>) 
+		
+	<h2>Citation</h2>
+		<p> The APA-format citation for this resource is:
+		Wills, A.J. (2014). <i>Data and Analysis Unit: EXE7</i>. Retrieved from http://www.willslab.co.uk/exe7
+		
+		<p><b>If you make use of these resources, please drop me an email</b>: andy@willslab.co.uk.		
+		
+		<h2>Resources</h2>
+		<ul>
+		<li><a href = "exe7stim.tbz">exe7stim.tbz</a> (30 KB) - Stimulus image files.
+		<li><a href = "../exe5/exe5stimAudio.tbz">exe5stimAudio.tbz</a> (2.2 MB) - Audio files for concurrent load task (from EXE5 archive).
+		<li><a href = "exe7data.csv">exe7data.csv</a> (181 KB) - Trial-level raw data. Column headings are as follows:
+			<ul>
+				<li>cond: Experimental condition. "load" = Concurrent load, "noload" = No current load. 				
+				<li>subj: Participant number (unique within EXE7)
+				<li>phase: Experiment phase. "prac" = practice phase, "exp" = main phase.
+				<li>block: Experiment block (starts at zero for practice block)
+				<li>trial: Trial number (resets between blocks)
+				<li>stim: The to-be-classified stimulus presented, numbers refer to stimulus file names in exe7stim.tbz (in the 
+				practice phase, this is set to zero).
+				<li>resp: Participant's classification response (A = category A, B = category B) 
+				<li>rt: Participant's reaction time for classification response (in milliseconds)
+			</ul>
+			
+		<li><a href = "exe7report.csv">exe7report.csv</a> (1  KB) - Summary of written report made by each participant at
+		end of experiment.  In column 'report', 'ud' = unidimensional sort reported, 'os' = overall similarity sort reported,
+		'other' = other sort reported, 'changesort' = participant reported changing sort strategy during task, 'lost' = questionnaire
+		for this participant was lost. In column 'reportdim', for participants who reported a UD sort, this is the dimension(s) they
+		reported using. 
+						
+		<li><a href = "exe7analysis.R">exe7analysis.R</a>  (3 KB) -  R script for the analyses of Wills et al. (2013, QJEP).
+		
+		
+		</ul>
+		<h2>Further resources</h2>
+					The following resources are not formally part of the archive, either because they do not use open formats, 
+					or because they have not been thoroughly bug-checked, or both. They are provided in case others
+					find them useful, with absolutely no warranty! 
+		<ul> 
+			<li> <a href = "exe7eprimeMTS.tbz">exe7eprimeMTS.tbz</a> (18 KB) - Code for running the Experiment 2 
+			match-to-standards task under
+			E-prime 2.0. Developed from original code used in experiment, which was E-Prime 1. This E-prime 2 version has not
+			been thoroughly bug-checked. 		
+			<li><a href = "../exe5/exe5eprimeLoad.tbz">exe5eprimeLoad.tbz</a> (9 KB) - Code for running the 
+			Experiment 1B concurrent load task under
+			E-prime 2.0 (from EXE5 archive). Developed from original code used in experiment, which was E-Prime 1. This E-prime 2 version has not
+			been thoroughly bug-checked.  Requires audio files in exe5stimAudio.tbz to be extracted from that archive and
+			placed in same directory as ES2 file. Must be run on a different computer to exe5eprimeMTS.tbz, with a parallel port
+			connection between the two computers (MTS program starts and stops digit stream through this link).
+		</ul>
+</body>
+</html>

@@ -1,0 +1,16 @@
+{
+    "contents" : "print(\"DAU: PLYM5\")\nprint(\"Author: Andy Wills\")\nprint(\"Credits: Developed from script by Angus Inkster\")\nprint(\"Date: 2014-12-03\")\nsource(\"plym5cap.R\")\nbigdta <- read.table(\"plym5data.txt\", header = TRUE, sep = \"\\t\")\ncode <- read.table(\"plym5code.txt\", header = TRUE, sep = \"\\t\",stringsAsFactors = FALSE)\nppts <- 106\nblktype <- 3\n\nprint(\"PRIMARY ANALYSIS - Nonlearners excluded, all stimuli analysed\")\nplym5cap(crittype = 2, antype = 0, msave = FALSE)\nprint(\"ANALYSIS 2 - All participants, all stimuli analysed\")\nplym5cap(crittype = 0, antype = 0, msave = FALSE)\nprint(\"ANALYSIS 3 - All participants, OS-ambiguous test stimuli excluded\")\nplym5cap(crittype = 0, antype = 1, msave = TRUE)\n\n",
+    "created" : 1417519188571.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "3796841129",
+    "id" : "29DDEE21",
+    "lastKnownWriteTime" : 1417621010,
+    "path" : "~/Dropbox/PROJECTS/PROJECTS/DAUs/plym5 PLY_7 (KN84)/plym5willslab/plym5analysis.R",
+    "project_path" : "plym5analysis.R",
+    "properties" : {
+    },
+    "source_on_save" : false,
+    "type" : "r_source"
+}

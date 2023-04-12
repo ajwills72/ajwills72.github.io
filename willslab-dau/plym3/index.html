@@ -1,0 +1,96 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<meta content="text/html" http-equiv="content-type">
+		<title>willslab.co.uk: PLYM3</title>
+	</head>
+	<body>
+		<h1>	<img src="logo.png" alt="DAU-specific logo" width= 50 height = 50>
+		Data and Analysis Unit: PLYM3</h1>
+		<i>Last update: 2014-11-21 by Andy Wills</i><p>
+
+		<h2>Description</h2>	
+		Triad classification task, reported in Experiment 3B of Wills, Inkster, and Milton (submitted).		
+		
+		This DAU contains stimulus files, raw data, and an analysis script, all in open 
+		cross-platform formats (see the <a href = "../formats.html">file format notes</a>).
+		
+	<h2>Citation</h2>
+		<p> The APA-format citation for this resource is:
+		Wills, A.J. (2014). <i>Data and Analysis Unit: PLYM3</i>. Retrieved from http://www.willslab.co.uk/plym3
+		
+		<p><b>If you make use of these resources, please drop me an email</b>: andy@willslab.co.uk.		
+		
+		<h2>Resources</h2>
+		<ul>
+		<li>Stimulus image files - see <a href = "../plym1/index.html">DAU: PLYM1</a> 
+		<li>Statements for Impulsivity questionnaire - see <a href = "../plym1/index.html">DAU: PLYM1</a>
+		<li><a href = "plym3data.txt">plym3data.txt</a> (216 KB) - Trial-level raw data. 
+		Column headings are as follows:
+			<ul>
+					<li>cond: Experimental condition (1 = high time pressure, 2 = low time pressure)
+					<li>subj: Participant ID (unique within PLYM3)
+					<li>phase: Experiment phase (1 = triad classification, 
+					2 = impulsivity questionnaire)
+					<li>blk: Block (always = 1 in phase 2. Ranges from 1 to 12 in phase 1)
+					<li>trial: Trial number (resets for each block)
+					<li>stim: Phase-specific stimulus code:
+					<ul>
+						<li>Phase 1 = ID of presented stimulus triad (see plym3code.txt)
+						<li>Phase 2 = zero (Impulsivity questions set in the fixed order shown in plym1qu.txt)
+					</ul>
+					<li>resp: Phase-specific response code
+					<ul>
+						<li>Phase 1:  	1 = top , 2 = middle, 3 = bottom
+						<li>Phase 2: 1 = rarely/never, 2 = occasionally, 3 = often, 4 = almost always			
+					</ul>
+					<li>rt: Reaction time in milliseconds
+			</ul>
+			<li><a href = "plym3analysis.R">plym3analysis.R</a>  (4 KB) R script for analyses 
+	reported in Wills, Inkster, Milton (submitted). This script can be run by the command 
+	source('plym3analysis.R'), or can be run interactively.
+	
+		<li><a href = "plym3code.txt">plym3code.txt</a> (1 KB) - The main purpose of this file is to facilitate
+		automated analysis of plym3data.txt by plym3analysis.R. Column headings 
+		are as follows:
+		<ul>
+			<li>triad: Triad ID (as used in plym3data.txt)
+
+			<li>triplet: Triplet ID. Any given stimulus triplet can be presented in six different ways 
+(three stimuli can be placed in three physical locations in six different ways). Hence,
+there are six different stimulus triad IDs for each triplet ID.
+
+			<li>top1: Stimulus ID for stimulus presented at the top of the triad. 
+			Stimulus ID is a two-digit co-ordinate code in arbitrary units. For example 
+			Stimulus ID 25 indicates a value of 2 on the dot-density dimension and a value of 5 
+			on the length dimension.  Larger values on the dot-density dimension are associated 
+			with increasing number of dots per inch. Larger values on the length 
+			dimension are associated with increasing length of the line. 
+			The mapping between these stimulus IDs and the numbering of the
+			graphic files in this archive, are as follows:
+			1 = 11, 2 = 51, 3 = 22, 4 = 42, 5 = 24, 6 = 44, 7 = 15, 8 = 55
+
+		<li> mid2: Stimulus ID for stimulus presented in the middle of the triad. 
+		<li> bot3: Stimulus ID for stimulus presented at the bottom of the triad. 
+		<li> dot: Response expected if classifying on the basis of dot density
+				( 1 = top , 2 = middle, 3 = bottom )
+		<li> size: Response expected if classifying on the basis of length
+		<li> os: Response expected if classifying on the basis of overall similarity
+		<li> ident: Response expected if classifying on the basis of the identical attribute.	
+		<li> nbr: Response expected if classifying on the basis of the number of dots 
+		each stimulus contains.	
+		</ul>
+<li><a href = "barrattkey.txt">barrattkey.txt</a> (1 KB) - This file facilitates automated analysis of the
+		impulsivity rating data. Column headings are as follows:
+		<ul>	
+		<li> qu - Question number in the Barrat Impulsivity Questionnaire, see plym1qu.txt
+		<li> att - Attentional subscale (0 = This qu. is not on this subscale, 1 = normal coded qu on this subscale, 
+		-1 = reverse coded qu on this subscale)
+		<li> mot - Motor subscale
+		<li> non - Nonplanning subscale
+		</ul>	
+		</ul>
+
+	
+</body>
+</html>

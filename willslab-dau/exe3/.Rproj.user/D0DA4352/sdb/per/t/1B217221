@@ -1,0 +1,16 @@
+{
+    "contents" : "print(\"DAU: EXE3\")\nprint(\"Author: Andy Wills\")\nprint(\"Date: 2014-06-19\")\ndta <- read.table(\"exe3data.txt\", header = TRUE, stringsAsFactors = FALSE, sep = \"\\t\")\nbnam <- c(\"At\",\"Ax\",\"Bw\",\"Fe\",\"He\",\"Mo\",\"Ta\")\n\nprint(\"Phase 1 - Last two sessions, with accuracy\")\nfor (bird in 1:7) {\n  p <- subset(dta,phase.name == \"T1\" & subj == bird)\n  summary <- tapply(p$acc,list(p$sess),mean)\n  print(bnam[bird])\n  print(summary[(length(summary)-1):length(summary)])\n}\n\nprint(\"Phase 2 - 1st session accuracy\")\nfor (bird in 1:7) {\n  p <- subset(dta,phase.name == \"T2\" & subj == bird & sess == 1)\n  print(paste(bnam[bird],\": \",mean(p$acc)))\n}\n\nprint(\"Phase 2 - Last two sessions, with accuracy\")\nfor (bird in 1:7) {\n  p <- subset(dta,phase.name == \"T2\" & subj == bird)\n  summary <- tapply(p$acc,list(p$sess),mean)\n  print(bnam[bird])\n  print(summary[(length(summary)-1):length(summary)])\n}\n\nprint(\"Phase 3 - Last two sessions, with accuracy\")\nfor (bird in 2:7) {\n  p <- subset(dta,phase.name == \"T3\" & subj == bird)\n  summary <- tapply(p$acc,list(p$sess),mean)\n  print(bnam[bird])\n  print(summary[(length(summary)-1):length(summary)])\n}\n\n\nprint(\"Phase 4 - Last two sessions, with accuracy\")\nfor (bird in 2:7) {\n  p <- subset(dta,phase.name == \"T4\" & subj == bird)\n  summary <- tapply(p$acc,list(p$sess),mean)\n  print(bnam[bird])\n  print(summary[(length(summary)-1):length(summary)])\n}\n\nprint(\"Phase 5 - 1st session, accuracy by trial type (familiar, novel)\")\noutb <- NULL\nfor (bird in 2:7) {\n  p <- subset(dta,phase.name == \"T5\" & subj == bird & sess == 1)\n  summary <- tapply(p$acc,list(p$stimtype),mean)\n  cpat <- (summary['A'] + summary['B'] + summary['AB'] + summary['BA'] +\n             summary['C'] + summary['D'] + summary['CD'] + summary['DC']\n             ) / 8\n  ipat <- (summary['E'] + summary['F'] + summary['GH'] + summary['HG'] +\n             summary['IJ'] + summary['JI'] + summary['K'] + summary['L']) / 8\n  \n  famil <- (cpat + ipat) / 2\n  \n  novel <- ( summary['EF'] + summary['FE'] + summary['I'] + summary['J'] +\n              summary['G'] + summary['H'] + summary['KL'] + summary['LK']) / 8\n  out <- cbind(famil,novel)\n  row.names(out) <- bnam[bird]\n  outb <- rbind(outb,out)\n}\nprint(outb)\n\nprint(\"Phase 5 - Last two sessions, with accuracy\")\nfor (bird in 1:7) {\n  p <- subset(dta,phase.name == \"T5\" & subj == bird)\n  summary <- tapply(p$acc,list(p$sess),mean)\n  print(bnam[bird])\n  print(summary[(length(summary)-1):length(summary)])\n}\n\n\n\n",
+    "created" : 1403173147318.000,
+    "dirty" : true,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "2657496013",
+    "id" : "1B217221",
+    "lastKnownWriteTime" : 1403187224,
+    "path" : "~/Dropbox/PROJECTS/PROJECTS/DAUs/EXE3-2011-02 Pigeon Shanks-Darby/exe3willslab/exe3analysis.R",
+    "project_path" : "exe3analysis.R",
+    "properties" : {
+    },
+    "source_on_save" : false,
+    "type" : "r_source"
+}

@@ -1,0 +1,45 @@
+print("DAU: PLYM9 part 2")
+print("Author: Andy Wills")
+print("Date: 2014-12-03")
+load('plym5models.RData')
+plym5 <- subset(bigmf,select = c('cond','pptno','model','consist','win.margin'))
+exp <- rep('plym5',nrow(plym5))
+plym5  <- cbind(exp,plym5)
+load('plym6models.RData')
+plym6 <- subset(bigmf,select = c('cond','pptno','model','consist','win.margin'))
+exp <- rep('plym6',nrow(plym6))
+plym6  <- cbind(exp,plym6)
+load('plym7models.RData')
+plym7 <- subset(bigmf,select = c('cond','pptno','model','consist','win.margin'))
+exp <- rep('plym7',nrow(plym7))
+plym7  <- cbind(exp,plym7)
+rm(bigmf)
+bigmf <- rbind(plym5,plym6,plym7)
+rm(plym5,plym6,plym7)
+
+print("Mean consistency")
+mean(bigmf$consist)
+print("Mean margin")
+mean(bigmf$win.margin)
+
+print('Table')
+
+print('N (collapse condition)')
+print(aggregate(consist ~ model,data=bigmf,length))
+
+print('Consistency (collapse condition)')
+print(aggregate(consist ~ model,data=bigmf,mean))
+
+print('Margin (collapse condition)')
+print(aggregate(win.margin ~ model,data=bigmf,mean))
+
+print('Response model type effect on consistency')
+a1 <- aov(consist ~ model, data = bigmf)
+print(summary(a1))
+print(TukeyHSD(a1))
+
+print('Response model type effect on margin')
+a1 <- aov(win.margin ~ model, data = bigmf)
+print(summary(a1))
+print(TukeyHSD(a1))
+

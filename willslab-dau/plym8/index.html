@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<meta content="text/html" http-equiv="content-type">
+		<title>willslab.co.uk: PLYM8</title>
+	</head>
+	<body>
+		<h1>	<img src="logo.png" alt="DAU-specific logo" width= 50 height = 50>
+		Data and Analysis Unit: PLYM8</h1>
+		<i>Last update: 2015-05-09 by Andy Wills</i><p>
+
+		<h2>Description</h2>
+		Human go-left, go-right, visual discrimination task with Chinese characters, reported in Maes et al. (in prep.).
+
+		This DAU contains raw data and an analysis script, in open
+		cross-platform formats (see the <a href = "../formats.html">file format notes</a>). It also contains participant
+		instructions.
+
+	<h2>Citation</h2>
+		<p> The APA-format citation for this resource is:
+		Wills, A.J. (2015). <i>Data and Analysis Unit: PLYM8</i>. Retrieved from http://www.willslab.co.uk/plym8
+
+		<p><b>If you make use of these resources, please drop me an email</b>: andy@willslab.co.uk.
+
+		<h2>Resources</h2>
+		<ul>
+		<li><a href = "plym8data.txt">plym8data.txt</a> (926 KB) - Trial-level raw data.
+		Column headings are as follows:
+			<ul>
+				<li>date: Date participant was tested, in MM-DD-YYYY format.
+				<li>subj: Bird ID number (unique within PLYM8).
+				<li>phase: Experiment phase (1-5).
+				<li>blk: Block number (resets for each phase)
+				<li>trial: Trial number (resets for each block).
+				<li>stimtype: Logical stimulus type, as referred to in Maes et al. (in prep.)
+				<li>stim: Filename of physical stimulus presented, as in exe3stim.tbz
+				<li> trialtype: L+ = go-left trial. R+ = go-right trial.
+				<li> acc: 1 = Response is correct; 0 = Response is incorrect.
+				<li> resp: c = go-left response made; m = go-right response made.
+				<li> rt: Response time, in milliseconds.
+			</ul>
+			<li><a href = "plym8analysis.R">plym8analysis.R</a>  (3 KB) -  R script for analyses
+	reported in Maes et al. (in prep.). This script can be run by the command
+	source('plym8analysis.R'), or can be run interactively.
+</body>
+</html>

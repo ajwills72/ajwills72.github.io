@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<meta content="text/html" http-equiv="content-type">
+		<title>willslab.co.uk: PLY49</title>
+	</head>
+	<body>
+		<h1>	<img src="logo.png" alt="DAU-specific logo" width= 50 height = 50>
+		Data and Analysis Unit: PLY49</h1>
+		<i>Last update: 2015-05-19 by Andy Wills</i><p>
+
+		<h2>Description</h2>	
+		ALCOVE simulation of the Nosofsky et al. (1994, Memory and Cognition) replication of
+		Shepard, Hovland and Jenkins (1961). Note that this simulation differs from that
+		reported in Nosofsky et al. (1994) - that simulation was a non-standard version of
+		ALCOVE, not used before or since. Specifically, it uses a background-noise ratio rule
+		rather than an exponential ratio rule. 
+
+		This DAU contains the R and other files needed to run this simulation.
+
+ 
+	<h2>Citation</h2>
+		<p> The APA-format citation for this resource is:
+		Wills, A.J. (2015). <i>Data and Analysis Unit: PLY49</i>. Retrieved from http://www.willslab.co.uk/ply49
+		
+		<p><b>If you make use of these resources, please drop me an email</b>: andy@willslab.co.uk.		
+		
+		<h2>Resources</h2>
+    
+        
+    <p></p><b>R pacakge 'catlearn' is required.</b> 
+    <a href = "http://www.willslab.co.uk/catlearn.html">[download]</a>
+    
+		<ul>
+		<li><a href = "n94alcove.R">n94alcove.R</a> (1 KB) - Calculate model predictions for the
+    best-fitting parameters (found by optimization, see below). Best run as source('n94alcove.R').
+    <li><a href = "n94alcove_optimize.R">n94alcove_optimize.R</a> (5 KB) - Record of parameter
+    search conducted to find best-fitting parameters.     
+    <li><a href = "n94func.R">n94func.R</a> (2 KB) - Functions required by n94alcove.R and n94alcove_optimize.R
+    <li><a href = "n94training">n94training</a> (391 KB) - RData format file containing 100 
+    different training orders. Required by n94alcove.R and n94alcove_optimize.R
+    <li><a href = "n94_make_training.R">n94_make_training.R</a> (391 KB) - Record of how
+    file n94training was generated. NOTE: Running this script will replace the file n94training
+    locally with a new set of 100 training orders.
+     </ul>
+</body>
+</html>

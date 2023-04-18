@@ -1,7 +1,7 @@
 ---
 date: 2023-04-13
 pdf: https://psyarxiv.com/vm9pq/
-osr: /no-osr
+osr: https://psyarxiv.com/vm9pq/
 tag: msic
 alcs: ineligible
 DOI: NA

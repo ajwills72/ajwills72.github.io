@@ -10,13 +10,13 @@ Each paper or grant I submit (or resubmit) counts as one unit. That unit is divi
 
 ## Scorecard
 
-**Usage Units** : 2
+**Usage Units** : 3.25
 
-**Non-charged reviews owed**: 6
+**Non-charged reviews owed**: 9.75
 
 **Non-charged reviews conducted/ committed to**: 6
 
-**POSITION**: Not currently accepting new unpaid review requests (usage equals contribution).
+**POSITION**: Currently accepting new unpaid review requests (usage exceeds contribution).
 
 ## Review list
 
@@ -44,7 +44,7 @@ Each paper or grant I submit (or resubmit) counts as one unit. That unit is divi
 | 2023-01 | journal | CD Psy Sci | 1 |
 | 2023-02 | journal | CogSci proc | 2 |
 | 2023-02 | journal | QJEP | 1 |
-| 2023-02 | journal | CogSci - committed to 1 | 1 |
+| 2023-02 | journal | CogSci | 1 |
 
 ## Usage list
 
@@ -52,3 +52,5 @@ Each paper or grant I submit (or resubmit) counts as one unit. That unit is divi
 | ------- | ----------- | ---------------- | ----------- |
 | 2023-01 | proceedings | CogSciProc: Dome | 1           |
 | 2023-01 | proceedings | CogSciProc: Kul  | 1           |
+| 2023-04 | article     | PsyRev: Dome     | 1           |
+| 2023-04 | grant       | ESRC: Beesley, Kuhn, Schelgelmlich | .25 |

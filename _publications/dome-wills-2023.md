@@ -7,4 +7,4 @@ alcs: ineligible
 DOI: NA
 ---
 
-Wills, A.J. & Dome, L. (2023). g-distance: On the comparison of model and human heterogeneity. _preprint_.
+Dome, L. & Wills, A.J. (2023). g-distance: On the comparison of model and human heterogeneity. _preprint_.

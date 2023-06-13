@@ -7,4 +7,4 @@ alcs: ineligible
 DOI: NA
 ---
 
-Wills, A.J. & Dome, L. (2023). Zebra reduction: Better generalization through distraction. _preprint_.
+Dome, L. & Wills, A.J. (2023). Zebra reduction: Better generalization through distraction. _preprint_.

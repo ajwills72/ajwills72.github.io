@@ -1,6 +1,5 @@
 ---
 date: 2022-06-23
-video: https://www.youtube.com/watch?v=MUX4ZyeH3y0
 slides: /no-slides
 poster: /no-poster
 osr: /no-osr

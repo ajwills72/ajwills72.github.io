@@ -1,7 +1,6 @@
 ---
 date: 2022-11-14
 video: /no-video
-slides: /assets/pdf/spss-to-r-UCL.pdf
 poster: /no-poster
 osr: /no-osr
 tag: open-science

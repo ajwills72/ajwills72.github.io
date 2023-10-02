@@ -12,17 +12,9 @@ subtitle: C.V.
 
 - **B.Sc.** (1993): _Psychology_ (2i). Southampton University, U.K.
 
-## Professional memberships
-
-- **Cognitive Science Society** (1997-): _Member_
-
-- **Experimental Psychology Society** (2001-): _Member_ (nominated)
-
-- **Psychonomic Society** (2010-): _Fellow_ (elected)
-
 ## Employment history
 
-- **University of Plymouth**, U.K. (2012 - present): Professor
+- **University of Plymouth**, U.K. (2012 - 2023): Professor
 
 - **University of Exeter**, U.K. (2000 - 2012) : Lecturer, Senior Lecturer, and Associate Professor
 
@@ -30,11 +22,21 @@ subtitle: C.V.
 
 ## Leadership experience
 
-- **Associate Head of School (Research)** and **Senior Management Group**, then **REF co-ordindator** (2017-present). My REF Environment Statement is used as a model of good practice throughout the university.
+- **Associate Head of School (Research)** and **Senior Management Group**, then **REF co-ordindator** (2017-2023). Against a challenging environment of multiple lay-off rounds, we improved our position in REF2021, including a doubling of research income. 
+
+- **Line management** (2021-2023). Junior staff members in School of Psychology, University of Plymouth (senior staff line managed by Head of School).
 
 - **Chair of Curriculum Review Steering Group** (2016-2017). Largest change to the undergraduate psychology curriculum at Plymouth for a generation.
 
-- **Director of Teaching** and **Senior Management Group** (2006-2012). School of Psychology rose from mid-table to Top 10 during my tenure.
+- **Associate Head of School (Teaching)** and **Senior Management Group** (2006-2012). School of Psychology rose from mid-table to Top 10 during my tenure.
+
+## Professional memberships
+
+- **Cognitive Science Society** (1997-): _Member_
+
+- **Experimental Psychology Society** (2001-): _Member_ (nominated)
+
+- **Psychonomic Society** (2010-): _Fellow_ (elected)
 
 ## Teaching 
 
@@ -58,6 +60,8 @@ I work on the _psychology and neuroscience of learning_. More specifically:
 - **Dual-process theory**. Existing evidence for dual-process theories of learning and categorization is flawed, I aim to develop more adequate procedures. *Recent commentary*: Wills, Edmunds, Le Pelley, Milton, Newell, Dwyer & Shanks (2019). Dissociable learning processes, associative theory, and testimonial reviews _Psychonomic Bulletin & Review, 26_, 1988-1993. 
 
 ## Grants
+
+pending: _Assessing and improving theories of learning_. ESRC. £547,958. (Two Outstanding reviews).
 
 2017-2020: _Learning from total failure_. ESRC. £356,776.
 
@@ -83,23 +87,33 @@ I work on the _psychology and neuroscience of learning_. More specifically:
 
 ## Ph.D. students
 
-Lenard Dome (current), Gokcek Kul (current), Stuart Spicer (2020), Angus Inkster (2019), Charlotte Edmunds (2016), Henrietta Roberts (2014), Fayme Yeates (2014), Fraser Milton (2006), Alice Welham (2005), Kazuhiro Goto (2004).
+ Gokcek Kul (current), _Lenard Dome_ (2023), _Stuart Spicer_ (2020), Angus Inkster (2019), **Charlotte Edmunds** (2016), Henrietta Roberts (2014), **Fayme Yeates** (2014), **Fraser Milton** (2006), **Alice Welham** (2005), **Kazuhiro Goto** (2004).
+
+**bold** = now a faculty member; _italic_ = now a post-doc.
 
 ## Professional activities
 
-- [External peer review](peer.md): Around 50 articles a year, for various high-profile psychology journals, plus around 10 grant applications a year, for ESRC and various national funders worldwide.
+- [External peer review](peer.md): Around 20 articles a year, for various high-profile psychology journals, plus around 5 grant applications a year, for ESRC and various national funders worldwide.
 
 - **External Ph.D. examination**: Around one Ph.D. examination a year, for various Russell Group universities.
 
-- **Professional bodies**: Local lead for UK Reproducibility Network. 
-
-## Professional memberships
-
-- Member of the Experimental Psychology Society
-
-- Member of the University and College Union.
-
 ## Invited lectures and workshops
+
+*2023*: Invited seminar, University of New South Wales, Sydney.
+
+*2023*: Invited seminar and workshop, Rheinland-Pfälzische Technische Universität Kaiserslautern-Landau, Kaiserslautern, Germany.
+
+*2022*: Invited lecture, UCL, London.
+
+*2022*: Invited lecture, Radboud University, Nijmegen, online.
+
+*2022*: Invited lecture, Nottingham Trent University, online.
+
+*2021*: Invited lecture, University of Exeter, UK.
+
+*2021*: Invited lecture, Lancaster University, online. 
+
+*2020*: Invited lecture, Cambridge University, online. 
 
 *2019*: Tagung Experimentell Arbeitender Psychologen (TEAP) conference, London.
 
@@ -172,7 +186,6 @@ Lenard Dome (current), Gokcek Kul (current), Stuart Spicer (2020), Angus Inkster
 *1998*: GluckLab seminar, Rutgers University.
 
 *1997*: Departmental seminar, Southampton University.
-
 
 ## Conference presentations
 

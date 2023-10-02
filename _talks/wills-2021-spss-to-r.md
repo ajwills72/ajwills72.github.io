@@ -1,6 +1,5 @@
 ---
 date: 2021-07-19
-video: https://www.youtube.com/watch?v=VfmisntqcqE
 slides: /no-slides
 poster: /no-poster
 osr: /no-osr

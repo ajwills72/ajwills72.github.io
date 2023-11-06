@@ -1,7 +1,7 @@
 ---
 date: 2023-10-15
 pdf: /assets/pdf/longman2023.pdf
-osr: https://ore.exeter.ac.uk/repository/handle/10871/27115
+osr: /no-osr
 tag: misc
 alcs: not yet entered
 IR: https://pearl.plymouth.ac.uk/handle/10026.1/21577

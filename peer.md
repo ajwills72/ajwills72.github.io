@@ -16,9 +16,9 @@ I also count Ph.D. examination, with a thesis coded as 3 papers.
 
 **Non-charged reviews owed**: 15.75
 
-**Non-charged reviews conducted / committed to**: 11
+**Non-charged reviews conducted / committed to**: 16
 
-**POSITION**: Currently accepting new unpaid review requests (usage exceeds contribution).
+**POSITION**: Currently NOT accepting new unpaid review requests (usage below contribution).
 
 ## Review list
 
@@ -49,7 +49,10 @@ I also count Ph.D. examination, with a thesis coded as 3 papers.
 | 2023-02 | journal | CogSci | 1 |
 | 2023-08 | journal | JEP:LMC | 1 |
 | 2023-08 | journal | OpenMind | 1 |
-| 2023-08 | phd     | Oxford | 3 |
+| 2023-10 | phd     | Oxford | 3 |
+| 2023-11 | phd     | Plymouth | 3 |
+| 2023-11 | grant   | ESRC | 1 |
+| 2023-11 | journal | CogSci | 1 |
 
 
 ## Usage list

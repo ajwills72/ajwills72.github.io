@@ -12,13 +12,13 @@ I also count Ph.D. examination, with a thesis coded as 3 papers.
 
 ## Scorecard
 
-**Usage Units** : 5.25
+**Usage Units** : 5.69
 
-**Non-charged reviews owed**: 15.75
+**Non-charged reviews owed**: 17.07
 
 **Non-charged reviews conducted / committed to**: 16
 
-**POSITION**: Currently NOT accepting new unpaid review requests (usage below contribution).
+**POSITION**: Currently accepting new unpaid review requests (usage above contribution).
 
 ## Review list
 
@@ -67,3 +67,5 @@ I also count Ph.D. examination, with a thesis coded as 3 papers.
 | 2023-08 | article     | PB&R: Dome       | 1           |
 | 2023-08 | article     | Cognition: Edmunds, Wills, Milton | .33 |
 | 2023-08 | article     | QJEP: Longman, Milton, Wills | .33 |
+| 2023-10 | article     | JEP: Gen Schlegelmilch, Lee (Ass Ed reject) | .11 |
+| 2023-10 | article     | JEP: LMC Schlegelmilch, Lee | .33 |

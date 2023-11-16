@@ -95,7 +95,7 @@ pending: _Assessing and improving theories of learning_. ESRC. £547,958. (Two O
 
 - [External peer review](peer.md): Around 20 articles a year, for various high-profile psychology journals, plus around 5 grant applications a year, for ESRC and various national funders worldwide.
 
-- **External Ph.D. examination**: Around one Ph.D. examination a year, for various Russell Group universities.
+- [Ph.D. examination](vivas.md): Around one Ph.D. examination a year, for various Russell Group universities.
 
 ## Invited lectures and workshops
 

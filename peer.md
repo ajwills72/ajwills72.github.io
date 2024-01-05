@@ -8,7 +8,7 @@ I started keeping a record here in November 2021. On 30th November 2022, I decid
 
 Each paper or grant I submit (or resubmit) counts as one unit. That unit is divided by the number of senior authors (defined as people who would be asked to do peer reviews themselves). So, if I submit an article with four senior authors, that’s 0.25 units. For each unit I accrue through my submissions, I undertake three uncharged peer reviews (because two reviewers per document is now typical, plus the work of the editor or panel).
 
-I also count Ph.D. examination, with a thesis coded as 3 papers. 
+I also count Ph.D. examination, with a thesis coded as 3 papers. A non-examining chair role for a viva is coded as 1 paper.
 
 ## Scorecard
 
@@ -16,9 +16,9 @@ I also count Ph.D. examination, with a thesis coded as 3 papers.
 
 **Non-charged reviews owed**: 17.07
 
-**Non-charged reviews conducted / committed to**: 16
+**Non-charged reviews conducted / committed to**: 17
 
-**POSITION**: Currently accepting new unpaid review requests (usage above contribution).
+**POSITION**: Currently NOT accepting new unpaid review requests (usage at contribution).
 
 ## Review list
 
@@ -53,6 +53,7 @@ I also count Ph.D. examination, with a thesis coded as 3 papers.
 | 2023-11 | phd     | Plymouth | 3 |
 | 2023-11 | grant   | ESRC | 1 |
 | 2023-11 | journal | CogSci | 1 |
+| 2024-02 | phd chair | Plymouth | 1 |
 
 
 ## Usage list

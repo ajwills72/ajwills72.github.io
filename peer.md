@@ -12,13 +12,13 @@ I also count Ph.D. examination, with a thesis coded as 3 papers. A non-examining
 
 ## Scorecard
 
-**Usage Units** : 5.69
+**Usage Units** : 6.02
 
-**Non-charged reviews owed**: 17.07
+**Non-charged reviews owed**: 18.06
 
-**Non-charged reviews conducted / committed to**: 17
+**Non-charged reviews conducted / committed to**: 19
 
-**POSITION**: Currently NOT accepting new unpaid review requests (usage at contribution).
+**POSITION**: Currently NOT accepting new unpaid review requests (usage below contribution).
 
 ## Review list
 
@@ -54,6 +54,8 @@ I also count Ph.D. examination, with a thesis coded as 3 papers. A non-examining
 | 2023-11 | grant   | ESRC | 1 |
 | 2023-11 | journal | CogSci | 1 |
 | 2024-02 | phd chair | Plymouth | 1 |
+| 2024-02 | grant | FWO | 1 |
+| 2024-02 | journal | Cognitive Science | 1 |
 
 
 ## Usage list
@@ -70,3 +72,4 @@ I also count Ph.D. examination, with a thesis coded as 3 papers. A non-examining
 | 2023-08 | article     | QJEP: Longman, Milton, Wills | .33 |
 | 2023-10 | article     | JEP: Gen Schlegelmilch, Lee (Ass Ed reject) | .11 |
 | 2023-10 | article     | JEP: LMC Schlegelmilch, Lee | .33 |
+| 2024-01 | article     | CogSciProc: Schlegelmilch | .33 |

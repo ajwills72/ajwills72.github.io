@@ -14,7 +14,7 @@ subtitle: C.V.
 
 ## Employment history
 
-- **University of Plymouth**, U.K. (2012 - 2023): Professor
+- **University of Plymouth**, U.K. (2012 - 2024): Professor
 
 - **University of Exeter**, U.K. (2000 - 2012) : Lecturer, Senior Lecturer, and Associate Professor
 
@@ -22,9 +22,11 @@ subtitle: C.V.
 
 ## Leadership experience
 
-- **Associate Head of School (Research)** and **Senior Management Group**, then **REF co-ordindator** (2017-2023). Against a challenging environment of multiple lay-off rounds, we improved our position in REF2021, including a doubling of research income. 
+- **Associate Head of School (Research)** and **Senior Management Group** (2017, 2024)
 
-- **Line management** (2021-2023). Junior staff members in School of Psychology, University of Plymouth (senior staff line managed by Head of School).
+- **REF coordinator** (2017-2024). Against a challenging environment, we improved our position in REF2021, including a doubling of research income.
+
+- **Line management** (2021-2023). Junior staff members in School of Psychology, University of Plymouth.
 
 - **Chair of Curriculum Review Steering Group** (2016-2017). Largest change to the undergraduate psychology curriculum at Plymouth for a generation.
 
@@ -40,7 +42,7 @@ subtitle: C.V.
 
 ## Teaching 
 
-- **Experience**: Twenty years teaching undergraduate and postgraduate students about: Foundations of Psychology, Research Methods, Critical Thinking, Cognitive Psychology, and Aspects of Consciousness.
+- **Experience**: 25 years teaching undergraduate and postgraduate students about: Foundations of Psychology, Research Methods, Critical Thinking, Cognitive Psychology, and Aspects of Consciousness.
 
 - **Publishing**: I curate, and largely wrote, _Research Methods in R_, a substantial set of freely available online worksheets aimed at undergraduate psychology students.
 
@@ -60,8 +62,6 @@ I work on the _psychology and neuroscience of learning_. More specifically:
 - **Dual-process theory**. Existing evidence for dual-process theories of learning and categorization is flawed, I aim to develop more adequate procedures. *Recent commentary*: Wills, Edmunds, Le Pelley, Milton, Newell, Dwyer & Shanks (2019). Dissociable learning processes, associative theory, and testimonial reviews _Psychonomic Bulletin & Review, 26_, 1988-1993. 
 
 ## Grants
-
-pending: _Assessing and improving theories of learning_. ESRC. £547,958. (Two Outstanding reviews).
 
 2017-2020: _Learning from total failure_. ESRC. £356,776.
 

@@ -1,7 +1,7 @@
 ---
 date: 2024-08-02
-pdf: /no-pdf
-osr: NA
+pdf: NA
+osr: /no-osr
 tag: misc
 alcs: NA
 IR: NA

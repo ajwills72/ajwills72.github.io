@@ -1,7 +1,7 @@
 ---
-date: 2021-02-25
-pdf: https://psyarxiv.com/grfaj/
-osr: https://psyarxiv.com/grfaj/
+date: 2024-08-02
+pdf: /no-pdf
+osr: /no-osr
 tag: objclass
 alcs: NA
 IR: NA
@@ -9,7 +9,7 @@ accepted: NA
 DOI: NA
 ---
 
-Wills, A.J., Edmunds, C.E.R. & Milton, F. (2021). The rapid synthesis of integral stimuli. _preprint_.
+Edmunds, C.E.R., Milton, F. & Wills, A.J. (2024). The rapid synthesis of integral stimuli. _submitted_.
 
 
 

@@ -1,6 +1,6 @@
 ---
 date: 2024-08-02
-pdf: /no-pdf
+pdf: /NA
 osr: /no-osr
 tag: objclass
 alcs: NA

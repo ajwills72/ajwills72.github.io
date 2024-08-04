@@ -12,13 +12,13 @@ I also count Ph.D. examination, with a thesis coded as 3 papers. A non-examining
 
 ## Scorecard
 
-**Usage Units** : 6.35
+**Usage Units** : 7.34
 
-**Non-charged reviews owed**: 19.05
+**Non-charged reviews owed**: 22.02
 
 **Non-charged reviews conducted / committed to**: 20
 
-**POSITION**: Currently NOT accepting new unpaid review requests (usage below contribution).
+**POSITION**: Currently accepting new unpaid review requests (contribution below usage).
 
 ## Review list
 
@@ -75,3 +75,7 @@ I also count Ph.D. examination, with a thesis coded as 3 papers. A non-examining
 | 2023-10 | article     | JEP: LMC Schlegelmilch, Lee | .33 |
 | 2024-01 | article     | CogSciProc: Schlegelmilch | .33 |
 | 2024-04 | article     | Cognition: Edmunds, Wills, Milton | .33 |
+
+| 2024-08 | article     | Open Mind: Edmunds, Milton, Wills | .33 |
+| 2024-08 | article     | Appetite: Sambrook, Goslin, Wills | .33 |
+| 2024-08 | article     | PsyRev: Schlegelmilch, von Helversen, Wills | .33 |

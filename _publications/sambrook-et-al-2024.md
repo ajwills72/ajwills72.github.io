@@ -1,6 +1,6 @@
 ---
 date: 2024-08-01
-pdf: NA
+pdf: /no-text
 osr: /no-osr
 tag: misc
 alcs: NA

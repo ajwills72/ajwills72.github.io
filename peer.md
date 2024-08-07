@@ -16,7 +16,7 @@ I also count Ph.D. examination, with a thesis coded as 3 papers. A non-examining
 
 **Non-charged reviews owed**: 22.02
 
-**Non-charged reviews conducted / committed to**: 20
+**Non-charged reviews conducted / committed to**: 21
 
 **POSITION**: Currently accepting new unpaid review requests (contribution below usage).
 
@@ -57,6 +57,7 @@ I also count Ph.D. examination, with a thesis coded as 3 papers. A non-examining
 | 2024-02 | grant | FWO | 1 |
 | 2024-02 | journal | Cognitive Science | 1 |
 | 2024-04 | journal | Entropy | 1 |
+| 2024-08 | journal | PB & R | 1 (agreed) |
 
 
 ## Usage list
@@ -75,7 +76,6 @@ I also count Ph.D. examination, with a thesis coded as 3 papers. A non-examining
 | 2023-10 | article     | JEP: LMC Schlegelmilch, Lee | .33 |
 | 2024-01 | article     | CogSciProc: Schlegelmilch | .33 |
 | 2024-04 | article     | Cognition: Edmunds, Wills, Milton | .33 |
-
 | 2024-08 | article     | Open Mind: Edmunds, Milton, Wills | .33 |
 | 2024-08 | article     | Appetite: Sambrook, Goslin, Wills | .33 |
 | 2024-08 | article     | PsyRev: Schlegelmilch, von Helversen, Wills | .33 |

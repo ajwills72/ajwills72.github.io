@@ -9,5 +9,5 @@ accepted: NA
 DOI: NA
 ---
 
-Vidya, S., Gupta, K., Aly, A., Wills, A., Ifeachor, E. & Shankar, R. (submitted). _Explainable AI for autism diagnosis: Identifying critical brain regions using fMRI data_.
- 
+Vidya, S., Gupta, K., Aly, A., Wills, A., Ifeachor, E. & Shankar, R. (2024). Explainable AI for autism diagnosis: Identifying critical brain regions using fMRI data, _submitted_.
+

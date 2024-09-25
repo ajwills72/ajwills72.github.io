@@ -57,7 +57,7 @@ I also count Ph.D. examination, with a thesis coded as 3 papers. A non-examining
 | 2024-02 | grant | FWO | 1 |
 | 2024-02 | journal | Cognitive Science | 1 |
 | 2024-04 | journal | Entropy | 1 |
-| 2024-08 | journal | PB & R | 1 (agreed) |
+| 2024-08 | journal | PB & R | 1 |
 | 2024-09 | journal | AP&P | 1 (agreed) |
 
 

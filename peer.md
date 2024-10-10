@@ -12,9 +12,9 @@ I also count Ph.D. examination, with a thesis coded as 3 papers. A non-examining
 
 ## Scorecard
 
-**Usage Units** : 8.09
+**Usage Units** : 8.42
 
-**Non-charged reviews owed**: 24.27
+**Non-charged reviews owed**: 25.26
 
 **Non-charged reviews conducted / committed to**: 23
 

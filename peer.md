@@ -83,3 +83,4 @@ I also count Ph.D. examination, with a thesis coded as 3 papers. A non-examining
 | 2024-08 | article     | PsyRev: Schlegelmilch, von Helversen, Wills | .33 |
 | 2024-09 | article     | IEEE: Cog Dev | .25 |
 | 2024-09 | article     | PsyRev: Dome     | .5           |
+| 2024-10 | article     | NatRevPsy: Edmunds | .33 |

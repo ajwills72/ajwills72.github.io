@@ -12,11 +12,11 @@ I also count Ph.D. examination, with a thesis coded as 3 papers. A non-examining
 
 ## Scorecard
 
-**Usage Units** : 8.42
+**Usage Units** : 8.75
 
-**Non-charged reviews owed**: 25.26
+**Non-charged reviews owed**: 26.25
 
-**Non-charged reviews conducted / committed to**: 23
+**Non-charged reviews conducted / committed to**: 22
 
 **POSITION**: Currently accepting new unpaid review requests (contribution below usage).
 
@@ -58,8 +58,7 @@ I also count Ph.D. examination, with a thesis coded as 3 papers. A non-examining
 | 2024-02 | journal | Cognitive Science | 1 |
 | 2024-04 | journal | Entropy | 1 |
 | 2024-08 | journal | PB & R | 1 |
-| 2024-09 | journal | AP&P | 1 (agreed) |
-| 2024-09 | journal | CurPsy | 1 (agreed) |
+| 2024-09 | journal | AP&P | 1 |
 
 
 ## Usage list
@@ -84,3 +83,4 @@ I also count Ph.D. examination, with a thesis coded as 3 papers. A non-examining
 | 2024-09 | article     | IEEE: Cog Dev | .25 |
 | 2024-09 | article     | PsyRev: Dome     | .5           |
 | 2024-10 | article     | NatRevPsy: Edmunds | .33 |
+| 2024-11 | article     | PLOS One: Milton | .33 |

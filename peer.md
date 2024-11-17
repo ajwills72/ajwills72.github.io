@@ -16,7 +16,7 @@ I also count Ph.D. examination, with a thesis coded as 3 papers. A non-examining
 
 **Non-charged reviews owed**: 26.25
 
-**Non-charged reviews conducted / committed to**: 23
+**Non-charged reviews conducted / committed to**: 25
 
 **POSITION**: Currently accepting new unpaid review requests (contribution below usage).
 
@@ -59,7 +59,9 @@ I also count Ph.D. examination, with a thesis coded as 3 papers. A non-examining
 | 2024-04 | journal | Entropy | 1 |
 | 2024-08 | journal | PB & R | 1 |
 | 2024-09 | journal | AP&P | 1 |
-| 2024-11 | journal | Cog Psy | 1 |
+| 2024-11 | journal | Cog Psy | 1 (agreed) |
+| 2024-11 | journal | Behav Sci | 1 (agreed) |
+| 2024-11 | journal | Sci Reports | 1 (agreed) |
 
 
 ## Usage list

@@ -16,9 +16,9 @@ I also count Ph.D. examination, with a thesis coded as 3 papers. A non-examining
 
 **Non-charged reviews owed**: 26.25
 
-**Non-charged reviews conducted / committed to**: 25
+**Non-charged reviews conducted / committed to**: 28
 
-**POSITION**: Currently accepting new unpaid review requests (contribution below usage).
+**POSITION**: Currently NOT accepting new unpaid review requests.
 
 ## Review list
 
@@ -62,6 +62,7 @@ I also count Ph.D. examination, with a thesis coded as 3 papers. A non-examining
 | 2024-11 | journal | Cog Psy | 1 (agreed) |
 | 2024-11 | journal | Behav Sci | 1 (agreed) |
 | 2024-11 | journal | Sci Reports | 1 (agreed) |
+| 2024-11 | conference | CogSci25 | 3 (agreed) |
 
 
 ## Usage list

@@ -16,7 +16,7 @@ I also count Ph.D. examination, with a thesis coded as 3 papers. A non-examining
 
 **Non-charged reviews owed**: 26.25
 
-**Non-charged reviews conducted / committed to**: 28
+**Non-charged reviews conducted / committed to**: 29
 
 **POSITION**: Currently NOT accepting new unpaid review requests.
 
@@ -26,6 +26,7 @@ I also count Ph.D. examination, with a thesis coded as 3 papers. A non-examining
 | ---- | ---- | ----- | ------------------- |
 | 2021-11 | journal | Cognition |   |
 | 2021-11 | journal | Review of General Psychology |   |
+| ------- | ------- | ------------------ | --- |
 | 2021-12 | journal | QJEP |   |
 | 2021-12 | grant   | MRC |   |
 | 2021-12 | journal | Acta Psychologica |   |
@@ -53,16 +54,19 @@ I also count Ph.D. examination, with a thesis coded as 3 papers. A non-examining
 | 2023-11 | phd     | Plymouth | 3 |
 | 2023-11 | grant   | ESRC | 1 |
 | 2023-11 | journal | CogSci | 1 |
+| ------- | ------- | ------------------ | --- |
 | 2024-02 | phd chair | Plymouth | 1 |
 | 2024-02 | grant | FWO | 1 |
 | 2024-02 | journal | Cognitive Science | 1 |
 | 2024-04 | journal | Entropy | 1 |
 | 2024-08 | journal | PB & R | 1 |
 | 2024-09 | journal | AP&P | 1 |
-| 2024-11 | journal | Cog Psy | 1 (agreed) |
-| 2024-11 | journal | Behav Sci | 1 (agreed) |
-| 2024-11 | journal | Sci Reports | 1 (agreed) |
-| 2024-11 | conference | CogSci25 | 3 (agreed) |
+| 2024-11 | journal | Behav Sci | 1 |
+| ------- | ------- | ------------------ | --- |
+| 2024-12 | journal | Cog Psych | 1 |
+| 2024-12 | journal | Cog Sci | 1 |
+| 2024-12 | journal | Sci Reports | 1 |
+| 2025-02 | conference | CogSci25 | 3 (agreed) |
 
 
 ## Usage list

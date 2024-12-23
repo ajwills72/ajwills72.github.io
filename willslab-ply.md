@@ -1,34 +1,12 @@
 ---
 layout: page
 title: willslab-ply
-subtitle: Lab compute workstation
+subtitle: Compute workstation
 ---
 
-Willslab-Ply is a 12-thread multiuser workstation for moderately CPU-intensive simulations; it was installed in Feb 2019 as part of the University fleet refresh.
+willslab-ply (Mk II) is a 24-thread (i7-13700) Linux workstation with 64GB RAM, 1TB SSD, and an Nvidia RTX A2000 12GB. It was installed Dec 2024 as part of the University fleet refresh. 
 
-## Specifications
-
-- i7-8700 @ 3.2GHz, 64GB (12 threads)
-
-- Nvidia Quadro P2000 5GB 
-
-- 64GB RAM (upgraded from 32GB)
-
-- 1TB SSD system drive
-
-- 1TB SSD dataset drive (mounted at `/mnt/datasets`)
-
-## Configuration
-
-- Ubuntu 22.04.3
-
-- R 4.2.2; R packages: see post-install script
-
-## Datasets
-
-`/mnt/datasets/objectnet` (190GB) - The [ObjectNet](https://objectnet.dev/) image set.
-
-`/mnt/datasets/imagenet/` (171GB) - The [ImageNet 2012](https://image-net.org/challenges/LSVRC/index.php) image set. 
+willslab-Ply wass a 12-thread (i7-8700) Linux workstation with 64GB RAM (upgraded from 32 GB), 2 x 1 TB SSD, and an Nvidia Quadrio P2000 5GB; it was installed in Feb 2019 as part of the University fleet refresh.
 
 ## Logging on
 

@@ -1,5 +1,5 @@
 ---
-date: 2024-10-10
+date: 2024-12-02
 pdf: /no-text
 osr: /no-osr
 tag: misc
@@ -9,5 +9,5 @@ accepted: NA
 DOI: NA
 ---
 
-Edmunds, C.E.R., Wills, A.J. & Milton, F. (2024). Structure-based dissociations provide agnostic evidence to the multiple systems debate. _submitted_.
+Edmunds, C.E.R., Wills, A.J. & Milton, F. (2025). Structure-based dissociations provide agnostic evidence to the multiple systems debate. _Nature Reviews Psychology_.
 

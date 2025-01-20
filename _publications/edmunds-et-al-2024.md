@@ -1,8 +1,8 @@
 ---
-date: 2025-01-06
-pdf: /no-text
+date: 2025-01-14
+pdf: https://rdcu.be/d56gS
 osr: /no-osr
-tag: misc
+tag: dualproc
 alcs: NA
 IR: NA
 accepted: 2024-12-02 

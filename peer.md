@@ -68,10 +68,9 @@ I also count Ph.D. examination, with a thesis coded as 3 papers. A non-examining
 | 2024-12 | journal | Sci Reports | 1 |
 | 2025-01 | journal | Psy Rev | 1 |¸
 | 2025-01 | journal | J. Cognition | 1 |
-| 2025-02 | conference | CogSci25 | 3 (agreed) |
-| 2025-02 | journal | Cog Sci | 1 |
-| 2025-02 | journal | Am J Psy | 1 |
-
+| 2025-03 | conference | CogSci25 | 3 |
+| 2025-03 | journal | Cog Sci | 1 |
+| 2025-03 | journal | Am J Psy | 1 |
 
 ## Usage list
 

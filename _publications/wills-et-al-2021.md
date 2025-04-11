@@ -1,19 +1,12 @@
 ---
-date: 2024-08-02
+date: 2025-04-11
 pdf: /no-text
 osr: /no-osr
 tag: objclass
 alcs: NA
 IR: NA
-accepted: NA
+accepted: 2025-04-11
 DOI: NA
 ---
 
-Edmunds, C.E.R., Milton, F. & Wills, A.J. (2024). The rapid synthesis of integral stimuli. _submitted_.
-
-
-
-
-
-
-
+Edmunds, C.E.R., Milton, F. & Wills, A.J. (2025). The rapid synthesis of integral stimuli. _Open Mind: Discoveries in Cognitive Science_, accepted.

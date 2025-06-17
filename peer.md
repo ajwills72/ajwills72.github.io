@@ -12,9 +12,9 @@ I also count Ph.D. examination, with a thesis coded as 3 papers. A non-examining
 
 ## Scorecard
 
-**Usage Units** : 9.68
+**Usage Units** : 10.01
 
-**Non-charged reviews owed**: 29.04
+**Non-charged reviews owed**: 30.03
 
 **Non-charged reviews conducted / committed to**: 35
 
@@ -100,4 +100,5 @@ I also count Ph.D. examination, with a thesis coded as 3 papers. A non-examining
 | 2024-11 | article     | PLOS One: Milton | .33 |
 | 2025-xx | article     | Open Mind: Edmund, Milton, Wills | . 33 |
 | 2025-xx | article     | PB&R: Dome | .5 |
+| 2025-xx | article     | PLOS One: Milton | .33 |
 | 2025-05 | grant       | EPSRC: Wills + 10 | .1 |

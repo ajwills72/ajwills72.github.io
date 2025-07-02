@@ -2,9 +2,9 @@
 layout: base
 ---
 
-<div class="intro-header">
-  {% include analytics.html %}
-</div>
+<head>{% include analytics.html %}</head>
+
+<div class="intro-header"></div>
 
 <div role="main" class="{% if page.full-width %} container-fluid {% else %} container-md {% endif %}">
   {% if page.before-content %}

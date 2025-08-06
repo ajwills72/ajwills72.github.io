@@ -1,6 +1,6 @@
 ---
 date: 2025-03-08
-pdf: /no-text
+pdf: https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0313726
 osr: /no-osr
 tag: misc
 alcs: NA

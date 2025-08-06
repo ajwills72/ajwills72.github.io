@@ -1,13 +1,13 @@
 ---
-date: 2024-09-18
+date: 2025-08-06
 pdf: /no-text
 osr: /no-osr
 tag: misc
 alcs: NA
 IR: NA
-accepted: NA 
+accepted: 2025-08-06 
 DOI: NA
 ---
 
-Vidya, S., Gupta, K., Aly, A., Wills, A., Ifeachor, E. & Shankar, R. (2024). Explainable AI for autism diagnosis: Identifying critical brain regions using fMRI data, _preprint_.
+Vidya, S., Gupta, K., Aly, A., Wills, A., Ifeachor, E. & Shankar, R. (2025). Identification of Critical Brain Regions for Autism Diagnosis from fMRI Data Using Explainable AI: An Observational Analysis of the ABIDE Dataset, _eClinicalMedicine_, accepted. 
 

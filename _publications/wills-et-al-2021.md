@@ -1,6 +1,6 @@
 ---
 date: 2025-04-11
-pdf: /no-text
+pdf: https://direct.mit.edu/opmi/article/doi/10.1162/opmi_a_00208/131175
 osr: /no-osr
 tag: objclass
 alcs: NA

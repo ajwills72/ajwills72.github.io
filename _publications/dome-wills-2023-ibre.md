@@ -8,4 +8,4 @@ accepted: 2025-01-31
 DOI: NA
 ---
 
-Dome, L. & Wills, A.J. (2025). Better generalization through distraction? Concurrent load reduces the size of the inverse base-rate effect. _Psychonomic Bulletin and Review_, published online.
+Dome, L. & Wills, A.J. (2025). Better generalization through distraction? Concurrent load reduces the size of the inverse base-rate effect. _Psychonomic Bulletin and Review, 32_, 1776-1784. 

@@ -8,7 +8,7 @@ I started keeping a record here in November 2021. On 30th November 2022, I decid
 
 Each paper or grant I submit (or resubmit) counts as one unit. That unit is divided by the number of senior authors (defined as people who would be asked to do peer reviews themselves). So, if I submit an article with four senior authors, that’s 0.25 units. For each unit I accrue through my submissions, I undertake three uncharged peer reviews (because two reviewers per document is now typical, plus the work of the editor or panel).
 
-I also count Ph.D. examination, with a thesis coded as 3 papers. A non-examining chair role for a viva is coded as 1 paper.
+I also count Ph.D. examination, with a thesis coded as 3 papers. A non-examining chair role for a viva is coded as 1 paper. 
 
 ## Scorecard
 
@@ -16,7 +16,7 @@ I also count Ph.D. examination, with a thesis coded as 3 papers. A non-examining
 
 **Non-charged reviews owed**: 30.03
 
-**Non-charged reviews conducted / committed to**: 35
+**Non-charged reviews conducted / committed to**: 36
 
 **POSITION**: Currently NOT accepting new unpaid review requests.
 
@@ -66,14 +66,15 @@ I also count Ph.D. examination, with a thesis coded as 3 papers. A non-examining
 | 2024-12 | journal | Cog Psych | 1 |
 | 2024-12 | journal | Cog Sci | 1 |
 | 2024-12 | journal | Sci Reports | 1 |
-| 2025-01 | journal | Psy Rev | 1 |¸
+| 2025-01 | journal | Psy Rev | 1 |
 | 2025-01 | journal | J. Cognition | 1 |
 | 2025-03 | conference | CogSci25 | 3 |
 | 2025-03 | journal | Cog Sci | 1 |
 | 2025-03 | journal | Am J Psy | 1 |
-| 2025-06 | journal | Psy Rev | 1 |¸
+| 2025-06 | journal | Psy Rev | 1 |
 | 2025-06 | grant   | FWO | 1 |
-
+| 2025-09 | journal | Acta | 1 |
+| 2022-09 | editor | HAI sp issue | 1 |
 
 ## Usage list
 

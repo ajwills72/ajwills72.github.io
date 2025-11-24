@@ -7,4 +7,4 @@ alcs: ineligible
 DOI: NA
 ---
 
-Dutli, J., Wills, A., & Oberauer, K. (2023). _Introducing the 'BenchmarksWM' R data package_. preprint.
+Dutli, J., Wills, A., & Oberauer, K. (2023). _Introducing the 'BenchmarksWM' R data package_.

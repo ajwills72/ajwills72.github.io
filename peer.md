@@ -12,11 +12,11 @@ I also count Ph.D. examination, with a thesis coded as 3 papers. A non-examining
 
 ## Scorecard
 
-**Usage Units** : 10.01
+**Usage Units** : 12.00
 
-**Non-charged reviews owed**: 30.03
+**Non-charged reviews owed**: 36
 
-**Non-charged reviews conducted / committed to**: 36
+**Non-charged reviews conducted / committed to**: 41
 
 **POSITION**: Currently NOT accepting new unpaid review requests.
 
@@ -62,10 +62,10 @@ I also count Ph.D. examination, with a thesis coded as 3 papers. A non-examining
 | 2024-08 | journal | PB & R | 1 |
 | 2024-09 | journal | AP&P | 1 |
 | 2024-11 | journal | Behav Sci | 1 |
-| ------- | ------- | ------------------ | --- |
 | 2024-12 | journal | Cog Psych | 1 |
 | 2024-12 | journal | Cog Sci | 1 |
 | 2024-12 | journal | Sci Reports | 1 |
+| ------- | ------- | ------------------ | --- |
 | 2025-01 | journal | Psy Rev | 1 |
 | 2025-01 | journal | J. Cognition | 1 |
 | 2025-03 | conference | CogSci25 | 3 |
@@ -73,8 +73,10 @@ I also count Ph.D. examination, with a thesis coded as 3 papers. A non-examining
 | 2025-03 | journal | Am J Psy | 1 |
 | 2025-06 | journal | Psy Rev | 1 |
 | 2025-06 | grant   | FWO | 1 |
-| 2025-09 | journal | Acta | 1 |
-| 2022-09 | editor | HAI sp issue | 1 |
+| 2025-09 | journal | Acta | 1 | 
+| 2025-09 | editor | HAI sp issue | 3 |
+| 2025-12 | journal | M&C | 1 |
+| 2025-12 | journal | PsyRev | 1 | *
 
 ## Usage list
 
@@ -99,7 +101,13 @@ I also count Ph.D. examination, with a thesis coded as 3 papers. A non-examining
 | 2024-09 | article     | PsyRev: Dome     | .5           |
 | 2024-10 | article     | NatRevPsy: Edmunds | .33 |
 | 2024-11 | article     | PLOS One: Milton | .33 |
+| ------- | ------- | ------------------ | --- |
 | 2025-xx | article     | Open Mind: Edmund, Milton, Wills | . 33 |
 | 2025-xx | article     | PB&R: Dome | .5 |
 | 2025-xx | article     | PLOS One: Milton | .33 |
 | 2025-05 | grant       | EPSRC: Wills + 10 | .1 |
+| 2025-xx | article    | Appetite: Tom, J, me | .33 |
+| 2025-10 | article    | Cognition: Rene, Bettina, me | .33 |
+| 2025-10 | article    | Sp.Iss.: Pothos, Wills | .50|
+| 2025-10 | article    | Open Mind: Rene, Jess, me | .33 |
+| 2025-10 | article    | Sp.Iss.: Gokcek, me | .5 |

@@ -8,4 +8,4 @@ IR: NA
 accepted: 2025-11-20
 ---
 
-Sambrook, T.D., Wills, A.J., Hardwick, B., & Goslin, J. (2025). Devaluation insensitivity of event related potentials associated with food cues. _Appetite, 218_, 108390. 
+Sambrook, T.D., Wills, A.J., Hardwick, B., & Goslin, J. (2026). Devaluation insensitivity of event related potentials associated with food cues. _Appetite, 218_, 108390. 

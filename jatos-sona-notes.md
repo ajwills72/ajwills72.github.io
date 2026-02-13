@@ -48,9 +48,11 @@ Do the following under "Change Study Information" on SONA:
 
 - Ensure "Automatic Credit Granting" is set to "no" 
 
-- Set study URL to the link you got from JATOS, with `&sonaId=%SURVEY_CODE%` added, e.g. 
+- Set study URL to the link you got from JATOS, with `sonaId=%SURVEY_CODE%` added as a query, e.g. 
 
-`http://psy.plymouth.ac.uk/publix/476/start?batchId=1&generalMultiple&sonaId=%SURVEY_CODE%`
+`https://psyjatos.plymouth.ac.uk/publix/cCIYYn9fZz3?sonaId=%SURVEY_CODE%`
+
+(if there's already a query, use & to add to it)
 
 - In Study Information, Website, Completion URLs (client side), get the link provided e.g.:
 

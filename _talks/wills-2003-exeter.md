@@ -8,6 +8,6 @@ tag: compcat
 pu: /none
 ---
 
-Wills, A.J. & Zwickel, J. (2003). Can there be error correction in the absence of error? _Experimental Psychology Society_. Exeter, London 
+Wills, A.J. & Zwickel, J. (2003). Can there be error correction in the absence of error? _Experimental Psychology Society_. Exeter.
 
 

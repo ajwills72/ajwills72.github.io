@@ -1,7 +1,7 @@
 ---
 date: 2005-01-01
 video: /no-video
-slides: /assets/pdf/Tubingen2005.pdf
+slides: /assets/pdf/Tubigen2005.pdf
 poster: /no-poster
 osr: /no-osr
 tag: freecatPL

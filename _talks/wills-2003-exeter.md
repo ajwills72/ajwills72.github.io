@@ -1,7 +1,7 @@
 ---
 date: 2003-04-01
 video: /no-video
-slides: /assets/Exeter2003.pdf
+slides: /assets/pdf/Exeter2003.pdf
 poster: /no-poster
 osr: /no-osr
 tag: compcat

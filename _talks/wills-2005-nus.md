@@ -1,7 +1,7 @@
 ---
 date: 2005-08-01
 video: /no-video
-slides: /assets/pdf/Signapore2005.pdf
+slides: /assets/pdf/Singapore2005.pdf
 poster: /no-poster
 osr: /no-osr
 tag: attlearn

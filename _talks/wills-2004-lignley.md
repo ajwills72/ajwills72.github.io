@@ -1,7 +1,7 @@
 ---
 date: 2004-05-01
 video: /no-video
-slides: /assets/Lignely2004.pdf
+slides: /assets/pdf/Lignely2004.pdf
 poster: /no-poster
 osr: /no-osr
 tag: attlearn

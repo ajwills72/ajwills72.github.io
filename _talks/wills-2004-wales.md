@@ -1,7 +1,7 @@
 ---
 date: 2004-04-01
 video: /no-video
-slides: /assets/Gregynog2004.pdf
+slides: /assets/pdf/Gregynog2004.pdf
 poster: /no-poster
 osr: /no-osr
 tag: attlearn

@@ -1,7 +1,7 @@
 ---
 date: 2004-01-28
 video: /no-video
-slides: /assets/Holloway2004.pdf
+slides: /assets/pdf/Holloway2004.pdf
 poster: /no-poster
 osr: /no-osr
 tag: freecatPL

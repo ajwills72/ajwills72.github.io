@@ -10,13 +10,15 @@ Each paper or grant I submit (or resubmit) counts as one unit. That unit is divi
 
 I also count Ph.D. examination, with a thesis coded as 3 papers. A non-examining chair role for a viva is coded as 1 paper. 
 
+I also count editorial roles. Tariff depends on specifics of role and journal. For the HAI special issue, it was 0.5 units total per submitted paper (covering all rounds of submission).
+
 ## Scorecard
 
-**Usage Units** : 12.00
+**Usage Units** : 15.33
 
-**Non-charged reviews owed**: 36
+**Non-charged reviews owed**: 46
 
-**Non-charged reviews conducted / committed to**: 41
+**Non-charged reviews conducted / committed to**: 70
 
 **POSITION**: Currently NOT accepting new unpaid review requests.
 
@@ -76,7 +78,10 @@ I also count Ph.D. examination, with a thesis coded as 3 papers. A non-examining
 | 2025-09 | journal | Acta | 1 | 
 | 2025-09 | editor | HAI sp issue | 3 |
 | 2025-12 | journal | M&C | 1 |
-| 2025-12 | journal | PsyRev | 1 | *
+| 2025-12 | journal | PsyRev | 1 | 
+| ------- | ------- | ------ | --- |
+| 2026-xx | RDC2    | Plymouth | 1 |
+| 2026-xx | editor  | HAI Sp Iss 1 | 12 | 70
 
 ## Usage list
 
@@ -110,4 +115,9 @@ I also count Ph.D. examination, with a thesis coded as 3 papers. A non-examining
 | 2025-10 | article    | Cognition: Rene, Bettina, me | .33 |
 | 2025-10 | article    | Sp.Iss.: Pothos, Wills | .50|
 | 2025-10 | article    | Open Mind: Rene, Jess, me | .33 |
-| 2025-10 | article    | Sp.Iss.: Gokcek, me | .5 |
+| 2025-10 | article    | Sp.Iss.: Gokcek, me | .5 | *
+| ------- | ---------- | ------------------- | --- |
+| 2026-xx | article    | R&R for 3 above papers | 1.33 |
+| 2026-xx | article    | Sp. Iss. 2: Wills, Pothos + R&R | 1 |
+| 2026-xx | article    | Vidya paper: Aly, Wills, Ifeachor, Shankar x 4 rounds total at different journals | 1 |
+

@@ -8,4 +8,4 @@ tag: compcat
 pu: pu021
 ---
 
-Wills, A.J. (2017). Progress in learning theory through distributed collaboration. _Associative Learning Sympoisum_. London.
+Wills, A.J. (2017). Progress in learning theory through distributed collaboration. _Associative Learning Sympoisum_. Gregynog, Wales. 

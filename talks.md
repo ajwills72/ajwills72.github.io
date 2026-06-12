@@ -1,10 +1,10 @@
 ---
 layout: page
 title: Talks
-subtitle: Selected talks I have given
+subtitle: Fairly comprehensive list of my research-related talks
 ---
 
-I generally give a few research-related talks a year, and have done so for about 25 years. I'm slowly adding them to this page, as time permits.
+I generally give a few research-related talks a year, and have done so for 30 years. I believe this to be a fairly complete list of talks given outside my home institution (plus a few inside it).
 
 ## Selected talks
 

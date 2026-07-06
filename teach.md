@@ -18,4 +18,4 @@ I have written and/or maintain the following Creative Commons teaching resources
 
 - I've also written some [older materials](http://www.willslab.org.uk/teach.html) that I no longer actively maintain.
 
-    - [R for Experimental Psychologists](/aasets/pdf/rbook.pdf) (2015)
+    - [R for Experimental Psychologists](/assets/pdf/rbook.pdf) (2015)

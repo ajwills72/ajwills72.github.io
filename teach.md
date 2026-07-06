@@ -16,5 +16,6 @@ I have written and/or maintain the following Creative Commons teaching resources
 
 - [RMIP](/rmip): A twelve-week course on research methods, aimed at second-year undergraduate psychology students. 
 
-I've also written some [older materials](http://www.willslab.org.uk/teach.html) that I no longer actively maintain.
+- I've also written some [older materials](http://www.willslab.org.uk/teach.html) that I no longer actively maintain.
 
+    - [R for Experimental Psychologists](/aasets/pdf/rbook.pdf) (2015)

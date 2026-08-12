@@ -8,7 +8,9 @@ At the end of this page, you'll find a full list of the papers I've co-authored 
 
 ## Topics
 
-I work on the psychology and neuroscience of learning and categorization. More specifically, I have published on the following topics within this area:
+I work on the cognitive science, psychology and neuroscience of learning and categorization. More specifically, I have published on the following topics within this area:
+
+- [Human-centered AI](pub-hai.md)
 
 - [Computational modelling of categorization](pub-compcat.md)
 

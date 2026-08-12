@@ -2,6 +2,8 @@
 
 On 12th September 2022, TIS switched over to two-factor authentication for the VPN, breaking all [previous solutions](/assets/pdf/vpn-setup-now-broken.pdf) documented on this site. So far, we've been able to get it working via a non-pay desktop app. Anyone who can work out a CLI solution, let Andy Wills know!
 
+This worked fine for about four years but as of August 2026, TIS moved to a newer version of FortiClient that requires setup by TIS helpdesk as they have a code to enter into Zero Trust Telemetry. They do this by remote control of your machine rather than providing the code. So, **the instructions below no longer work, contact TIS for support**. 
+
 ## Desktop app solution
 
 1. Download the non-pay version of FortiClient for Linux, from [FortiNet](https://links.fortinet.com/forticlient/deb/vpnagent)

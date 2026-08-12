@@ -18,7 +18,7 @@ I also count editorial roles. Tariff depends on specifics of role and journal. F
 
 **Non-charged reviews owed**: 46
 
-**Non-charged reviews conducted / committed to**: 72
+**Non-charged reviews conducted / committed to**: 73
 
 **POSITION**: Currently NOT accepting new unpaid review requests.
 
@@ -85,6 +85,8 @@ I also count editorial roles. Tariff depends on specifics of role and journal. F
 | 2026-06 | journal | Cog Sci | 1 |
 | 2026-07 | journal | Acta Psy | 1 |
 | 2026-xx | editor  | PL&M | 0 (because paid) |
+| 2026-08 | journal | An Cog |
+
 
 ## Usage list
 

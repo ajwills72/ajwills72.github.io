@@ -103,7 +103,7 @@
     } else stopAnalytics();
     panel.hidden = true;
     settings.forEach(function (button) { button.textContent = 'Cookie settings'; });
-    if (settings[0]) settings[0].focus();
+    if (settings[0]) settings[0].focus({preventScroll: true});
     if (!saved && choice === 'accepted') status.textContent = 'Your choice could not be saved; it applies only to this page visit.';
   }
 
@@ -139,7 +139,7 @@
     });
     panel.querySelector('[data-close]').addEventListener('click', function () {
       panel.hidden = true;
-      if (settings[0]) settings[0].focus();
+      if (settings[0]) settings[0].focus({preventScroll: true});
     });
     sync();
     window.addEventListener('storage', function (event) { if (event.key === key || event.key === null) sync(); });

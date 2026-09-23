@@ -3,7 +3,7 @@ surname: Dome
 first-name: Lenard
 position: Ph.D. student
 thumbnail-img: /assets/img/lenard-dome.jpg
-link: https://www.plymouth.ac.uk/staff/lenard-dome
+link: https://lenarddome.com/
 co-count: 1
 ---
 

@@ -1,6 +1,6 @@
 ---
 date: 2017-04-25
-pdf: /assets/pdf/edumunds2018.pdf
+pdf: /assets/pdf/longman2017.pdf
 osr: https://ore.exeter.ac.uk/repository/handle/10871/27115
 tag: misc
 alcs: ineligible

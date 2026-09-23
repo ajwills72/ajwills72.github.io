@@ -3,7 +3,7 @@ surname: Beckers
 first-name: Tom
 position: Professor
 thumbnail-img: /assets/img/tom-beckers.jpg
-link: https://www.researchgate.net/profile/Tom-Beckers-2 
+link: https://scholar.google.com/citations?hl=en&user=H_LiySwAAAAJ
 co-count: 1
 ---
 

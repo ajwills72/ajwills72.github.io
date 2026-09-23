@@ -1,7 +1,7 @@
 ---
 date: 2020-08-07
-pdf: https://www.ojepn.com/images/2020/2020-8639.pdf
-osr: https://www.ojepn.com/images/2020/2020-8639.pdf
+pdf: https://ojepn.com/index.php/2-uncategorised/images/2020/2020-8639.pdf
+osr: https://ojepn.com/index.php/2-uncategorised/images/2020/2020-8639.pdf
 tag: misc
 alcs: ineligible
 IR: /no-IR

@@ -3,7 +3,7 @@ surname: Yeates
 first-name: Fayme
 position: 
 thumbnail-img: /assets/img/fayme-yeates.jpg
-link: https://www.linkedin.com/in/fayme-yeates-33a77a4a/?originalSubdomain=uk
+link: https://scholar.google.com/citations?user=wX9EdRYAAAAJ&hl=en
 co-count: 4
 ---
 

@@ -3,7 +3,7 @@ surname: Lawson
 first-name: Rebecca
 position: Professor
 thumbnail-img: /assets/img/rebecca-lawson.jpg
-link: https://www.liverpool.ac.uk/population-health/staff/rebecca-lawson/
+link: https://scholar.google.co.uk/citations?hl=en&user=9ox0z3oAAAAJ&view_op=list_works&sortby=pubdate
 co-count: 1
 ---
 

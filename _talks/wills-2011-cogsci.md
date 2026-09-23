@@ -2,7 +2,7 @@
 date: 2011-08-01
 video: /no-video
 slides: /no-slides
-poster: /assets/pdf/WillsCogSci2011.pdf
+poster: /assets/WillsCogSci2011.pdf
 osr: /no-osr
 tag: dualproc
 pu: /none

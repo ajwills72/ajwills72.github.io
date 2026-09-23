@@ -3,7 +3,7 @@ surname: Welham
 first-name: Alice
 position: Lecturer 
 thumbnail-img: /assets/img/alice-welham.jpg
-link: https://www2.le.ac.uk/departments/npb/people/akw12/index
+link: https://research.birmingham.ac.uk/en/persons/alice-welham/
 co-count: 2
 ---
 

@@ -3,7 +3,7 @@ surname: Jones
 first-name: Fergal
 position: Reader
 thumbnail-img: /assets/img/fergal-jones.jpg
-link: https://www.canterbury.ac.uk/science-engineering-and-social-sciences/psychology-and-life-sciences/staff/Profile.aspx?staff=e60942d39c138260
+link: https://www.canterbury.ac.uk/people/fergal-jones
 co-count: 5
 ---
 

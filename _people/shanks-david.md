@@ -3,7 +3,7 @@ surname: Shanks
 first-name: David
 position: Professor
 thumbnail-img: /assets/img/david-shanks.jpg
-link: https://www.ucl.ac.uk/pals/people/david-shanks
+link: https://scholar.google.com/citations?hl=en&user=n3ulrqAAAAAJ
 co-count: 1
 ---
 

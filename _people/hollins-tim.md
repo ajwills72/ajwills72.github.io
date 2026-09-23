@@ -3,7 +3,7 @@ surname: Hollins
 first-name: Tim
 position: Professor
 thumbnail-img: /assets/img/tim-hollins.jpg
-link: https://www.plymouth.ac.uk/staff/tim-hollins-2
+link: https://www.researchgate.net/profile/Timothy-Hollins-2
 co-count: 6
 ---
 

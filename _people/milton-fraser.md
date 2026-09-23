@@ -2,7 +2,7 @@
 surname: Milton
 first-name: Fraser
 position: Associate Professor
-thumbnail-img: /assets/img/fraser-milton.jpg
+thumbnail-img: /assets/img/fraser_milton.jpg
 link: https://www.researchgate.net/profile/Fraser-Milton
 co-count: 27
 ---

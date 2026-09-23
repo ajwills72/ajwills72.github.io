@@ -2,11 +2,11 @@
 
 - [Self-made map of historical sites and accommodation](http://umap.openstreetmap.fr/en/map/ancient-greece_717624#7/38.638/23.401)
 
-- [Top 10 Greek archaeological sites](https://greeking.me/blog/greek-history-culture/item/57-10-most-important-archaeological-sites-of-greece)
+- Top 10 Greek archaeological sites
 
 - [Top 6 historical sites in the Cyclades](https://www.yachtcharterfleet.com/destination/article/the-top-6-historical-sites-to-visit-on-a-greece-yacht-charter-in-the-cyclades-15554.htm)
 
-- [Top 10 historical sites in the Cyclades](https://www.hostelbay.com/en/blog/top-10-historical-sites-you-should-not-miss-in-the-cyclades)
+- Top 10 historical sites in the Cyclades
 
 
 # Cornith

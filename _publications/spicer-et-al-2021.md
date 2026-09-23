@@ -1,7 +1,7 @@
 ---
 date: 2021-03-17
-pdf: https://www.ojepn.com/images/2021/2021-6623.pdf
-osr: https://www.ojepn.com/images/2021/2021-6623.pdf
+pdf: https://ojepn.com/index.php/2-uncategorised/images/2021/2021-6623.pdf
+osr: https://ojepn.com/index.php/2-uncategorised/images/2021/2021-6623.pdf
 tag: misc
 alcs: ineligible
 IR: https://pearl.plymouth.ac.uk/handle/10026.1/17343

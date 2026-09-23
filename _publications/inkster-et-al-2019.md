@@ -1,7 +1,7 @@
 ---
 date: 2022-04-25
-pdf: https://www.ojepn.com/images/2022/2022-0404.pdf
-osr: https://www.ojepn.com/images/2022/2022-0404.pdf
+pdf: https://ojepn.com/index.php/2-uncategorised/images/2022/2022-0404.pdf
+osr: https://ojepn.com/index.php/2-uncategorised/images/2022/2022-0404.pdf
 tag: attlearn
 alcs: NA
 IR: NA

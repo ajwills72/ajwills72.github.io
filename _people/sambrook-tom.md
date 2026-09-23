@@ -3,7 +3,7 @@ surname: Sambrook
 first-name: Tom
 position: 
 thumbnail-img: /assets/img/tom-sambrook.jpg
-link: https://people.uea.ac.uk/t_sambrook
+link: https://scholar.google.com/citations?user=aoOOyVkAAAAJ&hl=en
 co-count: 1
 ---
 

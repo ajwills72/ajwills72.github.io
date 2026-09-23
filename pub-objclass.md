@@ -12,12 +12,12 @@ Object classification involves synthesis of object representations over time, no
   {% if paper.tag == "objclass" %}
   <p>{{ paper.content | markdownify }}
   <div align="right">
-  {% unless paper.pdf == "/no-text" %}
+  {% if paper.pdf and paper.pdf != "" and paper.pdf != "/no-text" and paper.pdf != "NA" %}
   <a href="{{ paper.pdf }}">Full text</a>
-  {% endunless %}
-  {% unless paper.osr == "/no-osr" %}
+  {% endif %}
+  {% if paper.osr and paper.osr != "" and paper.osr != "/no-osr" and paper.osr != "NA" %}
    : <a href="{{ paper.osr }}">Repository</a>
-  {% endunless %}
+  {% endif %}
   </div>
   </p>
   {% endif %} 

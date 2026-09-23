@@ -3,7 +3,7 @@ surname: Hardwick
 first-name: Ben
 position: Human factors
 thumbnail-img: /assets/img/ben-hardwick.jpg
-link: https://www.linkedin.com/in/ben-hardwick-63b929120/?originalSubdomain=uk
+link: https://uk.linkedin.com/in/ben-hardwick-c-erghf-mciehf-63b929120
 co-count: 1
 ---
 

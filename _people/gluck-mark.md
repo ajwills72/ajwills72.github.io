@@ -3,7 +3,7 @@ surname: Gluck
 first-name: Mark
 position: Professor
 thumbnail-img: /assets/img/mark-gluck.jpg
-link: https://www.gluck.edu/mark_bio.html
+link: https://adrd.rutgers.edu/people/633/
 co-count: 1
 ---
 

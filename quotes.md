@@ -8,9 +8,9 @@ subtitle: "Bite-size wisdom"
   <p>{{ quote.content | markdownify }}
   <div align="right">
   - {{ quote.attrib }} ({{ quote.year }}) 
-  {% unless quote.source == "/no-source" %}
+  {% if quote.source and quote.source != "" and quote.source != "/no-source" and quote.source != "no_source" and quote.source != "NA" %}
    : <a href="{{ quote.source }}">source</a>
-  {% endunless %}
+  {% endif %}
   </div>
   </p>
 {% endfor %}

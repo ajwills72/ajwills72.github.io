@@ -3,7 +3,7 @@ surname: Graham
 first-name: Steve
 position: Management consultant
 thumbnail-img: /assets/img/blank-person.jpg
-link: http://nurturesciencepub.org/
+link:
 co-count: 3
 ---
 

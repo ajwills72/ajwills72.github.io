@@ -1,0 +1,1723 @@
+{
+  "https://www.andywills.info/": {
+    "ids": [
+      "main-navbar",
+      "navbarDropdown"
+    ],
+    "issues": [],
+    "lang": true,
+    "viewport": true
+  },
+  "https://www.andywills.info/2021-04-29-new-site/": {
+    "ids": [
+      "header-big-imgs",
+      "header-gh-btns",
+      "main-navbar",
+      "navbarDropdown",
+      "social-share-section"
+    ],
+    "issues": [],
+    "lang": true,
+    "viewport": true
+  },
+  "https://www.andywills.info/2021-05-18-cogsci-hard/": {
+    "ids": [
+      "header-big-imgs",
+      "header-gh-btns",
+      "main-navbar",
+      "navbarDropdown",
+      "social-share-section",
+      "update-2020-05-19",
+      "update-2020-05-19-part-2"
+    ],
+    "issues": [],
+    "lang": true,
+    "viewport": true
+  },
+  "https://www.andywills.info/2021-05-23-asimov/": {
+    "ids": [
+      "header-big-imgs",
+      "main-navbar",
+      "navbarDropdown",
+      "social-share-section"
+    ],
+    "issues": [],
+    "lang": true,
+    "viewport": true
+  },
+  "https://www.andywills.info/2021-05-24-newport/": {
+    "ids": [
+      "header-big-imgs",
+      "main-navbar",
+      "navbarDropdown",
+      "social-share-section"
+    ],
+    "issues": [],
+    "lang": true,
+    "viewport": true
+  },
+  "https://www.andywills.info/2021-05-30-perez/": {
+    "ids": [
+      "header-big-imgs",
+      "main-navbar",
+      "navbarDropdown",
+      "social-share-section"
+    ],
+    "issues": [],
+    "lang": true,
+    "viewport": true
+  },
+  "https://www.andywills.info/2021-06-02-patreon/": {
+    "ids": [
+      "header-big-imgs",
+      "main-navbar",
+      "navbarDropdown",
+      "social-share-section"
+    ],
+    "issues": [],
+    "lang": true,
+    "viewport": true
+  },
+  "https://www.andywills.info/2021-06-19-myrakaru/": {
+    "ids": [
+      "header-big-imgs",
+      "main-navbar",
+      "navbarDropdown",
+      "social-share-section"
+    ],
+    "issues": [],
+    "lang": true,
+    "viewport": true
+  },
+  "https://www.andywills.info/2021-06-23-psp/": {
+    "ids": [
+      "header-big-imgs",
+      "main-navbar",
+      "navbarDropdown",
+      "social-share-section"
+    ],
+    "issues": [],
+    "lang": true,
+    "viewport": true
+  },
+  "https://www.andywills.info/2021-06-25-notif-off/": {
+    "ids": [
+      "header-big-imgs",
+      "main-navbar",
+      "navbarDropdown",
+      "social-share-section"
+    ],
+    "issues": [],
+    "lang": true,
+    "viewport": true
+  },
+  "https://www.andywills.info/2021-07-05-man-machine/": {
+    "ids": [
+      "header-big-imgs",
+      "main-navbar",
+      "navbarDropdown",
+      "social-share-section"
+    ],
+    "issues": [],
+    "lang": true,
+    "viewport": true
+  },
+  "https://www.andywills.info/2021-07-06-cal/": {
+    "ids": [
+      "header-big-imgs",
+      "main-navbar",
+      "navbarDropdown",
+      "social-share-section"
+    ],
+    "issues": [],
+    "lang": true,
+    "viewport": true
+  },
+  "https://www.andywills.info/2021-11-29-frmi-ibre/": {
+    "ids": [
+      "header-big-imgs",
+      "main-navbar",
+      "navbarDropdown",
+      "social-share-section"
+    ],
+    "issues": [],
+    "lang": true,
+    "viewport": true
+  },
+  "https://www.andywills.info/2022-02-03-why_fail/": {
+    "ids": [
+      "header-big-imgs",
+      "main-navbar",
+      "navbarDropdown",
+      "social-share-section"
+    ],
+    "issues": [],
+    "lang": true,
+    "viewport": true
+  },
+  "https://www.andywills.info/2022-04-01-coffee/": {
+    "ids": [
+      "header-big-imgs",
+      "main-navbar",
+      "navbarDropdown",
+      "social-share-section"
+    ],
+    "issues": [],
+    "lang": true,
+    "viewport": true
+  },
+  "https://www.andywills.info/2022-09-27-gpt3/": {
+    "ids": [
+      "header-big-imgs",
+      "main-navbar",
+      "navbarDropdown",
+      "social-share-section"
+    ],
+    "issues": [],
+    "lang": true,
+    "viewport": true
+  },
+  "https://www.andywills.info/2022-11-30-asos/": {
+    "ids": [
+      "context",
+      "fair-use-of-the-non-charged-work-of-others",
+      "header-big-imgs",
+      "main-navbar",
+      "navbarDropdown",
+      "social-share-section",
+      "what-does-this-have-to-do-peer-review"
+    ],
+    "issues": [],
+    "lang": true,
+    "viewport": true
+  },
+  "https://www.andywills.info/2023-03-31-physical/": {
+    "ids": [
+      "header-big-imgs",
+      "main-navbar",
+      "navbarDropdown",
+      "social-share-section"
+    ],
+    "issues": [],
+    "lang": true,
+    "viewport": true
+  },
+  "https://www.andywills.info/2025-08-14-ibre/": {
+    "ids": [
+      "header-big-imgs",
+      "main-navbar",
+      "navbarDropdown",
+      "social-share-section"
+    ],
+    "issues": [],
+    "lang": true,
+    "viewport": true
+  },
+  "https://www.andywills.info/2026-09-10-numbeo/": {
+    "ids": [
+      "header-big-imgs",
+      "main-navbar",
+      "navbarDropdown",
+      "related-work",
+      "social-share-section"
+    ],
+    "issues": [],
+    "lang": true,
+    "viewport": true
+  },
+  "https://www.andywills.info/404.html": {
+    "ids": [
+      "main-navbar",
+      "navbarDropdown"
+    ],
+    "issues": [],
+    "lang": true,
+    "viewport": true
+  },
+  "https://www.andywills.info/aboutme/": {
+    "ids": [
+      "main-navbar",
+      "more-about-me",
+      "navbarDropdown"
+    ],
+    "issues": [],
+    "lang": true,
+    "viewport": true
+  },
+  "https://www.andywills.info/box-of-doom/": {
+    "ids": [
+      "box-of-doom",
+      "main-navbar",
+      "navbarDropdown"
+    ],
+    "issues": [],
+    "lang": true,
+    "viewport": true
+  },
+  "https://www.andywills.info/bric-azure/": {
+    "ids": [
+      "main-navbar",
+      "navbarDropdown"
+    ],
+    "issues": [],
+    "lang": true,
+    "viewport": true
+  },
+  "https://www.andywills.info/cheat/git/": {
+    "ids": [
+      "main-navbar",
+      "navbarDropdown"
+    ],
+    "issues": [],
+    "lang": true,
+    "viewport": true
+  },
+  "https://www.andywills.info/cheat/linux-admin/": {
+    "ids": [
+      "main-navbar",
+      "navbarDropdown"
+    ],
+    "issues": [],
+    "lang": true,
+    "viewport": true
+  },
+  "https://www.andywills.info/cheat/linux-files/": {
+    "ids": [
+      "main-navbar",
+      "navbarDropdown"
+    ],
+    "issues": [],
+    "lang": true,
+    "viewport": true
+  },
+  "https://www.andywills.info/cheat/linux-network/": {
+    "ids": [
+      "main-navbar",
+      "navbarDropdown",
+      "performance-monitoring",
+      "ssh"
+    ],
+    "issues": [],
+    "lang": true,
+    "viewport": true
+  },
+  "https://www.andywills.info/cheat/linux-setup/": {
+    "ids": [
+      "additional-drives",
+      "boot-failure",
+      "expand-volume-to-fill-drive",
+      "gotchas",
+      "main-navbar",
+      "making-boot-media",
+      "navbarDropdown"
+    ],
+    "issues": [],
+    "lang": true,
+    "viewport": true
+  },
+  "https://www.andywills.info/cheat/unix-zsh/": {
+    "ids": [
+      "customising-environment",
+      "main-navbar",
+      "navbarDropdown"
+    ],
+    "issues": [],
+    "lang": true,
+    "viewport": true
+  },
+  "https://www.andywills.info/coauthors/": {
+    "ids": [
+      "main-navbar",
+      "navbarDropdown"
+    ],
+    "issues": [],
+    "lang": true,
+    "viewport": true
+  },
+  "https://www.andywills.info/compute-request/": {
+    "ids": [
+      "bric-compute-request-pump-prime-form",
+      "main-navbar",
+      "navbarDropdown"
+    ],
+    "issues": [],
+    "lang": true,
+    "viewport": true
+  },
+  "https://www.andywills.info/cv/": {
+    "ids": [
+      "awards-recognition",
+      "conference-presentations",
+      "employment-history",
+      "grants",
+      "invited-lectures-and-workshops",
+      "leadership-experience",
+      "main-navbar",
+      "navbarDropdown",
+      "phd-students",
+      "professional-activities",
+      "professional-memberships",
+      "qualifications",
+      "research-interests",
+      "teaching"
+    ],
+    "issues": [],
+    "lang": true,
+    "viewport": true
+  },
+  "https://www.andywills.info/deep-sim-history/": {
+    "ids": [
+      "choice-of-cpu",
+      "choice-of-gpu",
+      "cost-of-components",
+      "gpu-memory-calculations",
+      "main-navbar",
+      "navbarDropdown",
+      "specifications",
+      "timeline"
+    ],
+    "issues": [],
+    "lang": true,
+    "viewport": true
+  },
+  "https://www.andywills.info/deepsim-config/": {
+    "ids": [
+      "adding-a-user",
+      "installation",
+      "main-navbar",
+      "navbarDropdown",
+      "random-notes",
+      "remote-access",
+      "some-jupyter-notebooks-notes",
+      "some-r-notes"
+    ],
+    "issues": [],
+    "lang": true,
+    "viewport": true
+  },
+  "https://www.andywills.info/deepsim/": {
+    "ids": [
+      "main-navbar",
+      "navbarDropdown"
+    ],
+    "issues": [],
+    "lang": true,
+    "viewport": true
+  },
+  "https://www.andywills.info/docker/": {
+    "ids": [
+      "main-navbar",
+      "navbarDropdown",
+      "remote-access",
+      "summary"
+    ],
+    "issues": [],
+    "lang": true,
+    "viewport": true
+  },
+  "https://www.andywills.info/index.html": {
+    "ids": [
+      "main-navbar",
+      "navbarDropdown"
+    ],
+    "issues": [],
+    "lang": true,
+    "viewport": true
+  },
+  "https://www.andywills.info/isaac/": {
+    "ids": [
+      "main-navbar",
+      "navbarDropdown",
+      "specifications-for-isaac"
+    ],
+    "issues": [],
+    "lang": true,
+    "viewport": true
+  },
+  "https://www.andywills.info/jatos-sona-notes/": {
+    "ids": [
+      "1-on-opensesame-desktop-app",
+      "2-on-jatos",
+      "3-on-sona",
+      "4-back-on-jatos",
+      "5-back-on-sona"
+    ],
+    "issues": [],
+    "lang": false,
+    "viewport": false
+  },
+  "https://www.andywills.info/lab-res/": {
+    "ids": [
+      "how-to-documents",
+      "main-navbar",
+      "navbarDropdown",
+      "selected-lab-resources"
+    ],
+    "issues": [],
+    "lang": true,
+    "viewport": true
+  },
+  "https://www.andywills.info/lab/": {
+    "ids": [
+      "main-navbar",
+      "navbarDropdown"
+    ],
+    "issues": [],
+    "lang": true,
+    "viewport": true
+  },
+  "https://www.andywills.info/library/": {
+    "ids": [
+      "american-literature-in-english-810",
+      "main-navbar",
+      "my-library",
+      "navbarDropdown",
+      "psychology-150",
+      "social-problems-and-social-services-360"
+    ],
+    "issues": [],
+    "lang": true,
+    "viewport": true
+  },
+  "https://www.andywills.info/metapage/edmunds-et-al-2015/": {
+    "ids": [
+      "main-navbar",
+      "navbarDropdown"
+    ],
+    "issues": [],
+    "lang": true,
+    "viewport": true
+  },
+  "https://www.andywills.info/metapage/edmunds-et-al-2019/": {
+    "ids": [
+      "main-navbar",
+      "navbarDropdown"
+    ],
+    "issues": [],
+    "lang": true,
+    "viewport": true
+  },
+  "https://www.andywills.info/metapage/maes-et-al-2015/": {
+    "ids": [
+      "main-navbar",
+      "navbarDropdown"
+    ],
+    "issues": [],
+    "lang": true,
+    "viewport": true
+  },
+  "https://www.andywills.info/metapage/milton-et-al-2020/": {
+    "ids": [
+      "main-navbar",
+      "navbarDropdown"
+    ],
+    "issues": [],
+    "lang": true,
+    "viewport": true
+  },
+  "https://www.andywills.info/metapage/seabrooke-et-al-2019-ML/": {
+    "ids": [
+      "main-navbar",
+      "navbarDropdown"
+    ],
+    "issues": [],
+    "lang": true,
+    "viewport": true
+  },
+  "https://www.andywills.info/metapage/seabrooke-et-al-2019/": {
+    "ids": [
+      "main-navbar",
+      "navbarDropdown"
+    ],
+    "issues": [],
+    "lang": true,
+    "viewport": true
+  },
+  "https://www.andywills.info/metapage/seabrooke-et-al-2021/": {
+    "ids": [
+      "main-navbar",
+      "navbarDropdown"
+    ],
+    "issues": [],
+    "lang": true,
+    "viewport": true
+  },
+  "https://www.andywills.info/metapage/spicer-et-al-2020/": {
+    "ids": [
+      "main-navbar",
+      "navbarDropdown"
+    ],
+    "issues": [],
+    "lang": true,
+    "viewport": true
+  },
+  "https://www.andywills.info/metapage/wills-2005/": {
+    "ids": [
+      "main-navbar",
+      "navbarDropdown"
+    ],
+    "issues": [],
+    "lang": true,
+    "viewport": true
+  },
+  "https://www.andywills.info/metapage/wills-et-al-2004/": {
+    "ids": [
+      "main-navbar",
+      "navbarDropdown"
+    ],
+    "issues": [],
+    "lang": true,
+    "viewport": true
+  },
+  "https://www.andywills.info/metapage/wills-et-al-2007/": {
+    "ids": [
+      "main-navbar",
+      "media-coverage",
+      "navbarDropdown"
+    ],
+    "issues": [],
+    "lang": true,
+    "viewport": true
+  },
+  "https://www.andywills.info/metapage/wills-et-al-2009/": {
+    "ids": [
+      "main-navbar",
+      "navbarDropdown"
+    ],
+    "issues": [],
+    "lang": true,
+    "viewport": true
+  },
+  "https://www.andywills.info/metapage/wills-et-al-2011/": {
+    "ids": [
+      "main-navbar",
+      "navbarDropdown"
+    ],
+    "issues": [],
+    "lang": true,
+    "viewport": true
+  },
+  "https://www.andywills.info/metapage/wills-et-al-2013/": {
+    "ids": [
+      "main-navbar",
+      "navbarDropdown"
+    ],
+    "issues": [],
+    "lang": true,
+    "viewport": true
+  },
+  "https://www.andywills.info/metapage/wills-et-al-2015/": {
+    "ids": [
+      "main-navbar",
+      "navbarDropdown"
+    ],
+    "issues": [],
+    "lang": true,
+    "viewport": true
+  },
+  "https://www.andywills.info/metapage/wills-et-al-2017/": {
+    "ids": [
+      "main-navbar",
+      "navbarDropdown"
+    ],
+    "issues": [],
+    "lang": true,
+    "viewport": true
+  },
+  "https://www.andywills.info/metapage/wills-et-al-2020/": {
+    "ids": [
+      "main-navbar",
+      "navbarDropdown"
+    ],
+    "issues": [],
+    "lang": true,
+    "viewport": true
+  },
+  "https://www.andywills.info/metapage/wills-mclaren-1998/": {
+    "ids": [
+      "main-navbar",
+      "navbarDropdown"
+    ],
+    "issues": [],
+    "lang": true,
+    "viewport": true
+  },
+  "https://www.andywills.info/naxos/": {
+    "ids": [
+      "azzuro-naxos",
+      "cornith",
+      "delos",
+      "greece",
+      "ios",
+      "joanna-apartments",
+      "main-navbar",
+      "margouno-eco-cottage",
+      "mykonos",
+      "navbarDropdown",
+      "naxos",
+      "petra-home",
+      "smaragdi"
+    ],
+    "issues": [],
+    "lang": true,
+    "viewport": true
+  },
+  "https://www.andywills.info/no-IR/": {
+    "ids": [
+      "main-navbar",
+      "navbarDropdown"
+    ],
+    "issues": [],
+    "lang": true,
+    "viewport": true
+  },
+  "https://www.andywills.info/no-osr/": {
+    "ids": [
+      "main-navbar",
+      "navbarDropdown"
+    ],
+    "issues": [],
+    "lang": true,
+    "viewport": true
+  },
+  "https://www.andywills.info/no-text/": {
+    "ids": [
+      "main-navbar",
+      "navbarDropdown"
+    ],
+    "issues": [],
+    "lang": true,
+    "viewport": true
+  },
+  "https://www.andywills.info/not-on-spotify/": {
+    "ids": [
+      "jean-michel-jarre",
+      "main-navbar",
+      "mike-oldfield",
+      "navbarDropdown"
+    ],
+    "issues": [],
+    "lang": true,
+    "viewport": true
+  },
+  "https://www.andywills.info/open/": {
+    "ids": [
+      "computing",
+      "main-navbar",
+      "navbarDropdown"
+    ],
+    "issues": [],
+    "lang": true,
+    "viewport": true
+  },
+  "https://www.andywills.info/open/linux-uop/": {
+    "ids": [
+      "email-and-calendar",
+      "internet-access",
+      "linux-on-your-work-machine",
+      "main-navbar",
+      "navbarDropdown",
+      "printing",
+      "two-factor-authentication"
+    ],
+    "issues": [],
+    "lang": true,
+    "viewport": true
+  },
+  "https://www.andywills.info/page2/": {
+    "ids": [
+      "main-navbar",
+      "navbarDropdown"
+    ],
+    "issues": [],
+    "lang": true,
+    "viewport": true
+  },
+  "https://www.andywills.info/page3/": {
+    "ids": [
+      "main-navbar",
+      "navbarDropdown"
+    ],
+    "issues": [],
+    "lang": true,
+    "viewport": true
+  },
+  "https://www.andywills.info/page4/": {
+    "ids": [
+      "main-navbar",
+      "navbarDropdown"
+    ],
+    "issues": [],
+    "lang": true,
+    "viewport": true
+  },
+  "https://www.andywills.info/peer/": {
+    "ids": [
+      "main-navbar",
+      "navbarDropdown",
+      "review-list",
+      "scorecard",
+      "usage-list"
+    ],
+    "issues": [],
+    "lang": true,
+    "viewport": true
+  },
+  "https://www.andywills.info/pub-attlearn/": {
+    "ids": [
+      "list-of-publications",
+      "main-navbar",
+      "navbarDropdown"
+    ],
+    "issues": [],
+    "lang": true,
+    "viewport": true
+  },
+  "https://www.andywills.info/pub-catdec/": {
+    "ids": [
+      "main-navbar",
+      "navbarDropdown"
+    ],
+    "issues": [],
+    "lang": true,
+    "viewport": true
+  },
+  "https://www.andywills.info/pub-compcat/": {
+    "ids": [
+      "main-navbar",
+      "navbarDropdown",
+      "selected-publications"
+    ],
+    "issues": [],
+    "lang": true,
+    "viewport": true
+  },
+  "https://www.andywills.info/pub-dualproc/": {
+    "ids": [
+      "main-navbar",
+      "navbarDropdown",
+      "selected-publications"
+    ],
+    "issues": [],
+    "lang": true,
+    "viewport": true
+  },
+  "https://www.andywills.info/pub-freecatPL/": {
+    "ids": [
+      "main-navbar",
+      "navbarDropdown",
+      "selected-publications"
+    ],
+    "issues": [],
+    "lang": true,
+    "viewport": true
+  },
+  "https://www.andywills.info/pub-hai/": {
+    "ids": [
+      "list-of-publications",
+      "main-navbar",
+      "navbarDropdown"
+    ],
+    "issues": [],
+    "lang": true,
+    "viewport": true
+  },
+  "https://www.andywills.info/pub-objclass/": {
+    "ids": [
+      "list-of-publications",
+      "main-navbar",
+      "navbarDropdown"
+    ],
+    "issues": [],
+    "lang": true,
+    "viewport": true
+  },
+  "https://www.andywills.info/publications/": {
+    "ids": [
+      "complete-list-of-publications",
+      "definitions-and-explanations",
+      "main-navbar",
+      "navbarDropdown",
+      "publications",
+      "topics"
+    ],
+    "issues": [],
+    "lang": true,
+    "viewport": true
+  },
+  "https://www.andywills.info/pubs/auto101/": {
+    "ids": [
+      "main-navbar",
+      "navbarDropdown"
+    ],
+    "issues": [],
+    "lang": true,
+    "viewport": true
+  },
+  "https://www.andywills.info/pubs/auto102/": {
+    "ids": [
+      "main-navbar",
+      "navbarDropdown"
+    ],
+    "issues": [],
+    "lang": true,
+    "viewport": true
+  },
+  "https://www.andywills.info/pubs/auto111/": {
+    "ids": [
+      "main-navbar",
+      "milton--wills-2004",
+      "navbarDropdown"
+    ],
+    "issues": [],
+    "lang": true,
+    "viewport": true
+  },
+  "https://www.andywills.info/pubs/auto112/": {
+    "ids": [
+      "bryant-et-al-2004",
+      "main-navbar",
+      "navbarDropdown"
+    ],
+    "issues": [],
+    "lang": true,
+    "viewport": true
+  },
+  "https://www.andywills.info/pubs/auto113/": {
+    "ids": [
+      "le-pelley-et-al-2005",
+      "main-navbar",
+      "navbarDropdown"
+    ],
+    "issues": [],
+    "lang": true,
+    "viewport": true
+  },
+  "https://www.andywills.info/pubs/pu101/": {
+    "ids": [
+      "main-navbar",
+      "navbarDropdown"
+    ],
+    "issues": [],
+    "lang": true,
+    "viewport": true
+  },
+  "https://www.andywills.info/pubs/pu102/": {
+    "ids": [
+      "main-navbar",
+      "navbarDropdown"
+    ],
+    "issues": [],
+    "lang": true,
+    "viewport": true
+  },
+  "https://www.andywills.info/pubs/pu103/": {
+    "ids": [
+      "main-navbar",
+      "navbarDropdown"
+    ],
+    "issues": [],
+    "lang": true,
+    "viewport": true
+  },
+  "https://www.andywills.info/pubs/pu105/": {
+    "ids": [
+      "main-navbar",
+      "navbarDropdown",
+      "wills-2002"
+    ],
+    "issues": [],
+    "lang": true,
+    "viewport": true
+  },
+  "https://www.andywills.info/pubs/pu106/": {
+    "ids": [
+      "main-navbar",
+      "navbarDropdown"
+    ],
+    "issues": [],
+    "lang": true,
+    "viewport": true
+  },
+  "https://www.andywills.info/pubs/pu107/": {
+    "ids": [
+      "main-navbar",
+      "navbarDropdown"
+    ],
+    "issues": [],
+    "lang": true,
+    "viewport": true
+  },
+  "https://www.andywills.info/pubs/pu108/": {
+    "ids": [
+      "lochmann--wills-2003",
+      "main-navbar",
+      "navbarDropdown"
+    ],
+    "issues": [],
+    "lang": true,
+    "viewport": true
+  },
+  "https://www.andywills.info/pubs/pu109/": {
+    "ids": [
+      "goto-et-al-2004",
+      "main-navbar",
+      "navbarDropdown"
+    ],
+    "issues": [],
+    "lang": true,
+    "viewport": true
+  },
+  "https://www.andywills.info/pubs/pu110/": {
+    "ids": [
+      "main-navbar",
+      "navbarDropdown",
+      "wills-et-al-2004"
+    ],
+    "issues": [],
+    "lang": true,
+    "viewport": true
+  },
+  "https://www.andywills.info/pubs/pu111/": {
+    "ids": [
+      "main-navbar",
+      "milton--wills-2004",
+      "navbarDropdown"
+    ],
+    "issues": [],
+    "lang": true,
+    "viewport": true
+  },
+  "https://www.andywills.info/pubs/pu112/": {
+    "ids": [
+      "bryant-et-al-2004",
+      "main-navbar",
+      "navbarDropdown"
+    ],
+    "issues": [],
+    "lang": true,
+    "viewport": true
+  },
+  "https://www.andywills.info/pubs/pu113/": {
+    "ids": [
+      "le-pelley-et-al-2005",
+      "main-navbar",
+      "navbarDropdown"
+    ],
+    "issues": [],
+    "lang": true,
+    "viewport": true
+  },
+  "https://www.andywills.info/pubs/pu117/": {
+    "ids": [
+      "main-navbar",
+      "navbarDropdown",
+      "zwickel--wills-2005"
+    ],
+    "issues": [],
+    "lang": true,
+    "viewport": true
+  },
+  "https://www.andywills.info/pubs/pu119/": {
+    "ids": [
+      "lea-wills--ryan-2006",
+      "main-navbar",
+      "navbarDropdown"
+    ],
+    "issues": [],
+    "lang": true,
+    "viewport": true
+  },
+  "https://www.andywills.info/pubs/pu120/": {
+    "ids": [
+      "main-navbar",
+      "navbarDropdown",
+      "wills-noury-moberly--newport-2006"
+    ],
+    "issues": [],
+    "lang": true,
+    "viewport": true
+  },
+  "https://www.andywills.info/pubs/pu121/": {
+    "ids": [
+      "main-navbar",
+      "navbarDropdown",
+      "wills-lavric-croft--hodgson-2007"
+    ],
+    "issues": [],
+    "lang": true,
+    "viewport": true
+  },
+  "https://www.andywills.info/pubs/pu122/": {
+    "ids": [
+      "main-navbar",
+      "navbarDropdown",
+      "wills-noury-moberly--newport-2006"
+    ],
+    "issues": [],
+    "lang": true,
+    "viewport": true
+  },
+  "https://www.andywills.info/python_guide/": {
+    "ids": [
+      "arrays",
+      "base-python",
+      "basic-stats",
+      "creating-arrays",
+      "main-navbar",
+      "matplotlib",
+      "navbarDropdown",
+      "numpy",
+      "querying-arrays",
+      "random-numbers",
+      "reproducibility",
+      "scientific-calculator",
+      "tqdm"
+    ],
+    "issues": [],
+    "lang": true,
+    "viewport": true
+  },
+  "https://www.andywills.info/quotes/": {
+    "ids": [
+      "main-navbar",
+      "navbarDropdown"
+    ],
+    "issues": [],
+    "lang": true,
+    "viewport": true
+  },
+  "https://www.andywills.info/software/": {
+    "ids": [
+      "benchmark-data",
+      "main-navbar",
+      "misc",
+      "modelling",
+      "navbarDropdown"
+    ],
+    "issues": [],
+    "lang": true,
+    "viewport": true
+  },
+  "https://www.andywills.info/tags/": {
+    "ids": [
+      "attlearn",
+      "books",
+      "compcat",
+      "full-tags-list",
+      "main-navbar",
+      "misc",
+      "music",
+      "navbarDropdown",
+      "open culture",
+      "software",
+      "test",
+      "theory"
+    ],
+    "issues": [],
+    "lang": true,
+    "viewport": true
+  },
+  "https://www.andywills.info/talks/": {
+    "ids": [
+      "main-navbar",
+      "navbarDropdown",
+      "selected-talks"
+    ],
+    "issues": [],
+    "lang": true,
+    "viewport": true
+  },
+  "https://www.andywills.info/teach/": {
+    "ids": [
+      "main-navbar",
+      "navbarDropdown"
+    ],
+    "issues": [],
+    "lang": true,
+    "viewport": true
+  },
+  "https://www.andywills.info/vivas/": {
+    "ids": [
+      "main-navbar",
+      "navbarDropdown"
+    ],
+    "issues": [],
+    "lang": true,
+    "viewport": true
+  },
+  "https://www.andywills.info/vpn-setup/": {
+    "ids": [
+      "command-line-solution",
+      "connecting-to-the-vpn",
+      "desktop-app-solution",
+      "main-navbar",
+      "navbarDropdown"
+    ],
+    "issues": [],
+    "lang": true,
+    "viewport": true
+  },
+  "https://www.andywills.info/vscode/": {
+    "ids": [
+      "main-navbar",
+      "navbarDropdown",
+      "notes-on-vs-code",
+      "useful-extensions"
+    ],
+    "issues": [],
+    "lang": true,
+    "viewport": true
+  },
+  "https://www.andywills.info/weirdDNN/": {
+    "ids": [
+      "main-navbar",
+      "navbarDropdown",
+      "two-otter-three-aint-bad",
+      "weird-deep-neural-networks"
+    ],
+    "issues": [],
+    "lang": true,
+    "viewport": true
+  },
+  "https://www.andywills.info/willslab-dau/cam1/": {
+    "ids": [],
+    "issues": [],
+    "lang": false,
+    "viewport": false
+  },
+  "https://www.andywills.info/willslab-dau/cam1/index.html": {
+    "ids": [],
+    "issues": [],
+    "lang": false,
+    "viewport": false
+  },
+  "https://www.andywills.info/willslab-dau/cam2/": {
+    "ids": [],
+    "issues": [],
+    "lang": false,
+    "viewport": false
+  },
+  "https://www.andywills.info/willslab-dau/cam2/index.html": {
+    "ids": [],
+    "issues": [],
+    "lang": false,
+    "viewport": false
+  },
+  "https://www.andywills.info/willslab-dau/exe1/": {
+    "ids": [],
+    "issues": [],
+    "lang": false,
+    "viewport": false
+  },
+  "https://www.andywills.info/willslab-dau/exe1/index.html": {
+    "ids": [],
+    "issues": [],
+    "lang": false,
+    "viewport": false
+  },
+  "https://www.andywills.info/willslab-dau/exe1/junk/index_old.html": {
+    "ids": [],
+    "issues": [],
+    "lang": false,
+    "viewport": false
+  },
+  "https://www.andywills.info/willslab-dau/exe10/": {
+    "ids": [
+      "maxmin"
+    ],
+    "issues": [],
+    "lang": false,
+    "viewport": false
+  },
+  "https://www.andywills.info/willslab-dau/exe10/index.html": {
+    "ids": [
+      "maxmin"
+    ],
+    "issues": [],
+    "lang": false,
+    "viewport": false
+  },
+  "https://www.andywills.info/willslab-dau/exe10/scans/": {
+    "ids": [],
+    "issues": [],
+    "lang": false,
+    "viewport": false
+  },
+  "https://www.andywills.info/willslab-dau/exe10/scans/index.html": {
+    "ids": [],
+    "issues": [],
+    "lang": false,
+    "viewport": false
+  },
+  "https://www.andywills.info/willslab-dau/exe11/": {
+    "ids": [
+      "maxmin"
+    ],
+    "issues": [],
+    "lang": false,
+    "viewport": false
+  },
+  "https://www.andywills.info/willslab-dau/exe11/index.html": {
+    "ids": [
+      "maxmin"
+    ],
+    "issues": [],
+    "lang": false,
+    "viewport": false
+  },
+  "https://www.andywills.info/willslab-dau/exe12/": {
+    "ids": [
+      "maxmin"
+    ],
+    "issues": [],
+    "lang": false,
+    "viewport": false
+  },
+  "https://www.andywills.info/willslab-dau/exe12/index.html": {
+    "ids": [
+      "maxmin"
+    ],
+    "issues": [],
+    "lang": false,
+    "viewport": false
+  },
+  "https://www.andywills.info/willslab-dau/exe13/": {
+    "ids": [
+      "maxmin"
+    ],
+    "issues": [],
+    "lang": false,
+    "viewport": false
+  },
+  "https://www.andywills.info/willslab-dau/exe13/index.html": {
+    "ids": [
+      "maxmin"
+    ],
+    "issues": [],
+    "lang": false,
+    "viewport": false
+  },
+  "https://www.andywills.info/willslab-dau/exe2/": {
+    "ids": [],
+    "issues": [],
+    "lang": false,
+    "viewport": false
+  },
+  "https://www.andywills.info/willslab-dau/exe2/index.html": {
+    "ids": [],
+    "issues": [],
+    "lang": false,
+    "viewport": false
+  },
+  "https://www.andywills.info/willslab-dau/exe201201/": {
+    "ids": [],
+    "issues": [],
+    "lang": false,
+    "viewport": false
+  },
+  "https://www.andywills.info/willslab-dau/exe201201/index.html": {
+    "ids": [],
+    "issues": [],
+    "lang": false,
+    "viewport": false
+  },
+  "https://www.andywills.info/willslab-dau/exe3/": {
+    "ids": [],
+    "issues": [],
+    "lang": false,
+    "viewport": false
+  },
+  "https://www.andywills.info/willslab-dau/exe3/index.html": {
+    "ids": [],
+    "issues": [],
+    "lang": false,
+    "viewport": false
+  },
+  "https://www.andywills.info/willslab-dau/exe4/": {
+    "ids": [],
+    "issues": [],
+    "lang": false,
+    "viewport": false
+  },
+  "https://www.andywills.info/willslab-dau/exe4/index.html": {
+    "ids": [],
+    "issues": [],
+    "lang": false,
+    "viewport": false
+  },
+  "https://www.andywills.info/willslab-dau/exe5/": {
+    "ids": [],
+    "issues": [],
+    "lang": false,
+    "viewport": false
+  },
+  "https://www.andywills.info/willslab-dau/exe5/index.html": {
+    "ids": [],
+    "issues": [],
+    "lang": false,
+    "viewport": false
+  },
+  "https://www.andywills.info/willslab-dau/exe6/": {
+    "ids": [],
+    "issues": [],
+    "lang": false,
+    "viewport": false
+  },
+  "https://www.andywills.info/willslab-dau/exe6/index.html": {
+    "ids": [],
+    "issues": [],
+    "lang": false,
+    "viewport": false
+  },
+  "https://www.andywills.info/willslab-dau/exe7/": {
+    "ids": [],
+    "issues": [],
+    "lang": false,
+    "viewport": false
+  },
+  "https://www.andywills.info/willslab-dau/exe7/index.html": {
+    "ids": [],
+    "issues": [],
+    "lang": false,
+    "viewport": false
+  },
+  "https://www.andywills.info/willslab-dau/exe8/": {
+    "ids": [],
+    "issues": [],
+    "lang": false,
+    "viewport": false
+  },
+  "https://www.andywills.info/willslab-dau/exe8/index.html": {
+    "ids": [],
+    "issues": [],
+    "lang": false,
+    "viewport": false
+  },
+  "https://www.andywills.info/willslab-dau/exe9/": {
+    "ids": [],
+    "issues": [],
+    "lang": false,
+    "viewport": false
+  },
+  "https://www.andywills.info/willslab-dau/exe9/index.html": {
+    "ids": [],
+    "issues": [],
+    "lang": false,
+    "viewport": false
+  },
+  "https://www.andywills.info/willslab-dau/kulmaes1/": {
+    "ids": [],
+    "issues": [],
+    "lang": false,
+    "viewport": false
+  },
+  "https://www.andywills.info/willslab-dau/kulmaes1/index.html": {
+    "ids": [],
+    "issues": [],
+    "lang": false,
+    "viewport": false
+  },
+  "https://www.andywills.info/willslab-dau/kulmaes2/": {
+    "ids": [],
+    "issues": [],
+    "lang": false,
+    "viewport": false
+  },
+  "https://www.andywills.info/willslab-dau/kulmaes2/index.html": {
+    "ids": [],
+    "issues": [],
+    "lang": false,
+    "viewport": false
+  },
+  "https://www.andywills.info/willslab-dau/ply034/": {
+    "ids": [],
+    "issues": [],
+    "lang": false,
+    "viewport": false
+  },
+  "https://www.andywills.info/willslab-dau/ply034/index.html": {
+    "ids": [],
+    "issues": [],
+    "lang": false,
+    "viewport": false
+  },
+  "https://www.andywills.info/willslab-dau/ply113/": {
+    "ids": [],
+    "issues": [],
+    "lang": false,
+    "viewport": false
+  },
+  "https://www.andywills.info/willslab-dau/ply113/index.html": {
+    "ids": [],
+    "issues": [],
+    "lang": false,
+    "viewport": false
+  },
+  "https://www.andywills.info/willslab-dau/ply116/": {
+    "ids": [],
+    "issues": [],
+    "lang": false,
+    "viewport": false
+  },
+  "https://www.andywills.info/willslab-dau/ply116/index.html": {
+    "ids": [],
+    "issues": [],
+    "lang": false,
+    "viewport": false
+  },
+  "https://www.andywills.info/willslab-dau/ply12/": {
+    "ids": [],
+    "issues": [],
+    "lang": false,
+    "viewport": false
+  },
+  "https://www.andywills.info/willslab-dau/ply12/index.html": {
+    "ids": [],
+    "issues": [],
+    "lang": false,
+    "viewport": false
+  },
+  "https://www.andywills.info/willslab-dau/ply129/": {
+    "ids": [],
+    "issues": [],
+    "lang": false,
+    "viewport": false
+  },
+  "https://www.andywills.info/willslab-dau/ply129/index.html": {
+    "ids": [],
+    "issues": [],
+    "lang": false,
+    "viewport": false
+  },
+  "https://www.andywills.info/willslab-dau/ply130/": {
+    "ids": [],
+    "issues": [],
+    "lang": false,
+    "viewport": false
+  },
+  "https://www.andywills.info/willslab-dau/ply130/index.html": {
+    "ids": [],
+    "issues": [],
+    "lang": false,
+    "viewport": false
+  },
+  "https://www.andywills.info/willslab-dau/ply147/": {
+    "ids": [],
+    "issues": [],
+    "lang": false,
+    "viewport": false
+  },
+  "https://www.andywills.info/willslab-dau/ply147/index.html": {
+    "ids": [],
+    "issues": [],
+    "lang": false,
+    "viewport": false
+  },
+  "https://www.andywills.info/willslab-dau/ply22/": {
+    "ids": [],
+    "issues": [],
+    "lang": false,
+    "viewport": false
+  },
+  "https://www.andywills.info/willslab-dau/ply22/index.html": {
+    "ids": [],
+    "issues": [],
+    "lang": false,
+    "viewport": false
+  },
+  "https://www.andywills.info/willslab-dau/ply27/": {
+    "ids": [],
+    "issues": [],
+    "lang": false,
+    "viewport": false
+  },
+  "https://www.andywills.info/willslab-dau/ply27/index.html": {
+    "ids": [],
+    "issues": [],
+    "lang": false,
+    "viewport": false
+  },
+  "https://www.andywills.info/willslab-dau/ply42/": {
+    "ids": [],
+    "issues": [],
+    "lang": false,
+    "viewport": false
+  },
+  "https://www.andywills.info/willslab-dau/ply42/index.html": {
+    "ids": [],
+    "issues": [],
+    "lang": false,
+    "viewport": false
+  },
+  "https://www.andywills.info/willslab-dau/ply49/": {
+    "ids": [],
+    "issues": [],
+    "lang": false,
+    "viewport": false
+  },
+  "https://www.andywills.info/willslab-dau/ply49/index.html": {
+    "ids": [],
+    "issues": [],
+    "lang": false,
+    "viewport": false
+  },
+  "https://www.andywills.info/willslab-dau/ply75/": {
+    "ids": [],
+    "issues": [],
+    "lang": false,
+    "viewport": false
+  },
+  "https://www.andywills.info/willslab-dau/ply75/index.html": {
+    "ids": [],
+    "issues": [],
+    "lang": false,
+    "viewport": false
+  },
+  "https://www.andywills.info/willslab-dau/plym1/": {
+    "ids": [],
+    "issues": [],
+    "lang": false,
+    "viewport": false
+  },
+  "https://www.andywills.info/willslab-dau/plym1/index.html": {
+    "ids": [],
+    "issues": [],
+    "lang": false,
+    "viewport": false
+  },
+  "https://www.andywills.info/willslab-dau/plym10/": {
+    "ids": [
+      "maxmin"
+    ],
+    "issues": [],
+    "lang": false,
+    "viewport": false
+  },
+  "https://www.andywills.info/willslab-dau/plym10/index.html": {
+    "ids": [
+      "maxmin"
+    ],
+    "issues": [],
+    "lang": false,
+    "viewport": false
+  },
+  "https://www.andywills.info/willslab-dau/plym2/": {
+    "ids": [],
+    "issues": [],
+    "lang": false,
+    "viewport": false
+  },
+  "https://www.andywills.info/willslab-dau/plym2/index.html": {
+    "ids": [],
+    "issues": [],
+    "lang": false,
+    "viewport": false
+  },
+  "https://www.andywills.info/willslab-dau/plym3/": {
+    "ids": [],
+    "issues": [],
+    "lang": false,
+    "viewport": false
+  },
+  "https://www.andywills.info/willslab-dau/plym3/index.html": {
+    "ids": [],
+    "issues": [],
+    "lang": false,
+    "viewport": false
+  },
+  "https://www.andywills.info/willslab-dau/plym4/": {
+    "ids": [],
+    "issues": [],
+    "lang": false,
+    "viewport": false
+  },
+  "https://www.andywills.info/willslab-dau/plym4/index.html": {
+    "ids": [],
+    "issues": [],
+    "lang": false,
+    "viewport": false
+  },
+  "https://www.andywills.info/willslab-dau/plym5/": {
+    "ids": [],
+    "issues": [],
+    "lang": false,
+    "viewport": false
+  },
+  "https://www.andywills.info/willslab-dau/plym5/index.html": {
+    "ids": [],
+    "issues": [],
+    "lang": false,
+    "viewport": false
+  },
+  "https://www.andywills.info/willslab-dau/plym6/": {
+    "ids": [],
+    "issues": [],
+    "lang": false,
+    "viewport": false
+  },
+  "https://www.andywills.info/willslab-dau/plym6/index.html": {
+    "ids": [],
+    "issues": [],
+    "lang": false,
+    "viewport": false
+  },
+  "https://www.andywills.info/willslab-dau/plym7/": {
+    "ids": [],
+    "issues": [],
+    "lang": false,
+    "viewport": false
+  },
+  "https://www.andywills.info/willslab-dau/plym7/index.html": {
+    "ids": [],
+    "issues": [],
+    "lang": false,
+    "viewport": false
+  },
+  "https://www.andywills.info/willslab-dau/plym8/": {
+    "ids": [],
+    "issues": [],
+    "lang": false,
+    "viewport": false
+  },
+  "https://www.andywills.info/willslab-dau/plym8/index.html": {
+    "ids": [],
+    "issues": [],
+    "lang": false,
+    "viewport": false
+  },
+  "https://www.andywills.info/willslab-dau/plym9/": {
+    "ids": [],
+    "issues": [],
+    "lang": false,
+    "viewport": false
+  },
+  "https://www.andywills.info/willslab-dau/plym9/index.html": {
+    "ids": [],
+    "issues": [],
+    "lang": false,
+    "viewport": false
+  },
+  "https://www.andywills.info/willslab-dau/syd2/": {
+    "ids": [],
+    "issues": [],
+    "lang": false,
+    "viewport": false
+  },
+  "https://www.andywills.info/willslab-dau/syd2/index.html": {
+    "ids": [],
+    "issues": [],
+    "lang": false,
+    "viewport": false
+  },
+  "https://www.andywills.info/willslab-ply/": {
+    "ids": [
+      "logging-on",
+      "main-navbar",
+      "navbarDropdown"
+    ],
+    "issues": [],
+    "lang": true,
+    "viewport": true
+  }
+}

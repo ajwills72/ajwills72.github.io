@@ -3,7 +3,7 @@ surname: Carpenter
 first-name: Kathryn
 position: Senior Research Fellow
 thumbnail-img: /assets/img/blank-person.jpg
-link: https://www.linkedin.com/in/kathryn-carpenter-7456b6107/?originalSubdomain=uk
+link: https://www.researchgate.net/profile/Kathryn-Carpenter-4
 co-count: 2
 ---
 

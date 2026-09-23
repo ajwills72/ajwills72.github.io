@@ -3,7 +3,7 @@ surname: Spicer
 first-name: Stuart
 position: Research Fellow
 thumbnail-img: /assets/img/stuart-spicer.jpg
-link: https://www.researchgate.net/profile/Stuart-Spicer
+link: https://scholar.google.com/citations?hl=en&user=i7luT5MAAAAJ
 co-count: 4
 ---
 

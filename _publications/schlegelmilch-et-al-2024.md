@@ -1,7 +1,7 @@
 ---
 date: 2024-07-27
 pdf: https://escholarship.org/content/qt4c20293n/qt4c20293n.pdf
-osr: NA
+osr: /no-osr
 tag: misc
 alcs: NA
 IR: NA

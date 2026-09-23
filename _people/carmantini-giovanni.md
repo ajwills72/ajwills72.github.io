@@ -3,7 +3,7 @@ surname: Carmantini
 first-name: Giovanni
 position: Co-founder, foldAI
 thumbnail-img: /assets/img/giovanni-carmantini.jpg
-link: https://fold.ai/our-team/
+link: https://fold.eco/en/about/
 co-count: 1
 ---
 

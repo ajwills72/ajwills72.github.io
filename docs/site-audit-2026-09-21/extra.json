@@ -1,0 +1,72 @@
+{
+  "https://ajwills72.github.io/": {
+    "url": "https://ajwills72.github.io/",
+    "status": "200",
+    "final": "https://www.andywills.info/",
+    "type": "text/html; charset=utf-8",
+    "error": ""
+  },
+  "http://www.andywills.info/": {
+    "url": "http://www.andywills.info/",
+    "status": "200",
+    "final": "https://www.andywills.info/",
+    "type": "text/html; charset=utf-8",
+    "error": ""
+  },
+  "https://andywills.info/": {
+    "url": "https://andywills.info/",
+    "status": "200",
+    "final": "https://www.andywills.info/",
+    "type": "text/html; charset=utf-8",
+    "error": ""
+  },
+  "https://www.andywills.info/assets/pdf/behaviorism.pdf": {
+    "url": "https://www.andywills.info/assets/pdf/behaviorism.pdf",
+    "status": "200",
+    "final": "https://www.andywills.info/assets/pdf/behaviorism.pdf",
+    "type": "application/pdf",
+    "error": ""
+  },
+  "https://www.andywills.info/assets/img/fraser_milton.jpg": {
+    "url": "https://www.andywills.info/assets/img/fraser_milton.jpg",
+    "status": "200",
+    "final": "https://www.andywills.info/assets/img/fraser_milton.jpg",
+    "type": "image/jpeg",
+    "error": ""
+  },
+  "https://www.andywills.info/assets/mp3/Radio5liveAnitaAnand2007-07-02.mp3": {
+    "url": "https://www.andywills.info/assets/mp3/Radio5liveAnitaAnand2007-07-02.mp3",
+    "status": "200",
+    "final": "https://www.andywills.info/assets/mp3/Radio5liveAnitaAnand2007-07-02.mp3",
+    "type": "audio/mp3",
+    "error": ""
+  },
+  "https://www.andywills.info/assets/pdf/2015willsSup.pdf": {
+    "url": "https://www.andywills.info/assets/pdf/2015willsSup.pdf",
+    "status": "200",
+    "final": "https://www.andywills.info/assets/pdf/2015willsSup.pdf",
+    "type": "application/pdf",
+    "error": ""
+  },
+  "https://www.andywills.info/assets/WillsCogSci2011.pdf": {
+    "url": "https://www.andywills.info/assets/WillsCogSci2011.pdf",
+    "status": "200",
+    "final": "https://www.andywills.info/assets/WillsCogSci2011.pdf",
+    "type": "application/pdf",
+    "error": ""
+  },
+  "https://www.andywills.info/assets/pdf/longman2017.pdf": {
+    "url": "https://www.andywills.info/assets/pdf/longman2017.pdf",
+    "status": "200",
+    "final": "https://www.andywills.info/assets/pdf/longman2017.pdf",
+    "type": "application/pdf",
+    "error": ""
+  },
+  "https://www.andywills.info/metapage/edmunds-et-al-2019/": {
+    "url": "https://www.andywills.info/metapage/edmunds-et-al-2019/",
+    "status": "200",
+    "final": "https://www.andywills.info/metapage/edmunds-et-al-2019/",
+    "type": "text/html; charset=utf-8",
+    "error": ""
+  }
+}

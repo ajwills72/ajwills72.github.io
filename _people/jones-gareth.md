@@ -3,7 +3,7 @@ surname: Jones
 first-name: Gareth
 position: Associate Professor
 thumbnail-img: /assets/img/jones-gareth.gif
-link: https://www.computing.dcu.ie/~gjones/
+link: https://www.adaptcentre.ie/experts/gareth-jones/
 co-count: 1
 ---
 

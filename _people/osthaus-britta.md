@@ -3,7 +3,7 @@ surname: Osthaus
 first-name: Britta
 position: Senior lecturer
 thumbnail-img: /assets/img/britta-osthaus.jpg
-link: https://www.canterbury.ac.uk/science-engineering-and-social-sciences/psychology-and-life-sciences/psychology/staff/Profile.aspx?staff=549e189ce72fb760
+link: https://www.canterbury.ac.uk/people/britta-osthaus
 co-count: 1
 ---
 

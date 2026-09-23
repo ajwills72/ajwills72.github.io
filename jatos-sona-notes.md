@@ -1,6 +1,6 @@
 ---
-layout: SONA <-> JATOS
-title: Lab resources
+layout: page
+title: SONA ↔ JATOS
 subtitle: Brief notes on setting up a link
 ---
 
@@ -71,6 +71,5 @@ Do the following under "Change Study Information" on SONA:
 - Use "Sample Link with Embedded ID code" to test experiment.
 
 - Request study approval.
-
 
 

@@ -3,7 +3,7 @@ surname: Zwickel
 first-name: Jan
 position: Data scientist
 thumbnail-img: /assets/img/blank-person.jpg
-link: https://people.sap.com/jan.zwickel#about
+link: https://www.linkedin.com/in/jan-zwickel-6b77b1aa/
 co-count: 2
 ---
 

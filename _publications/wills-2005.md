@@ -1,6 +1,6 @@
 ---
 date: 2005-02-08
-pdf: /pubs/pu114
+pdf: /metapage/wills-2005/
 osr: /no-osr
 tag: misc
 alcs: /no-alcs

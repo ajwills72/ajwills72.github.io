@@ -26,7 +26,7 @@ Don't pay too much attention to the below, these are rough notes, and don't repr
 
 Some links on using R with docker:
 
-- [Reproducible work in R](https://towardsdatascience.com/reproducible-work-in-r-e7d160d5d198)
+- [Reproducible work in R](https://medium.com/data-science/reproducible-work-in-r-e7d160d5d198)
 
 - [rocker](https://github.com/rocker-org/rocker)
 

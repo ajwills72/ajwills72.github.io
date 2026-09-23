@@ -3,7 +3,7 @@ surname: Goto
 first-name: Kaz
 position: Associate Professor
 thumbnail-img: /assets/img/kaz-goto.jpg
-link: https://www.researchgate.net/profile/Kazuhiro-Goto
+link: https://scholar.google.com/citations?user=zOYJnckAAAAJ&hl=en&oi=ao
 co-count: 2
 ---
 

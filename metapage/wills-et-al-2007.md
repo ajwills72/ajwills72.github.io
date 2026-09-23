@@ -6,7 +6,7 @@ subtitle: Repository
 
 ### Media coverage
 
-- Interview on [Radio 5 Live](assets/mp3/Radio5liveAnitaAnand2007-07-02.mp3)
+- Interview on [Radio 5 Live](/assets/mp3/Radio5liveAnitaAnand2007-07-02.mp3)
 
 - Summary in [Scientific American Mind](/assets/pdf/WillsSciAmMind.pdf)
 

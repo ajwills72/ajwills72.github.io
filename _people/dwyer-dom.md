@@ -3,7 +3,7 @@ surname: Dwyer
 first-name: Dom
 position: Professor
 thumbnail-img: /assets/img/dom-dwyer.jpg
-link: https://scholar.google.co.uk/citations?user=PeAkz6oAAAAJ
+link: https://profiles.cardiff.ac.uk/staff/dwyerdm
 co-count: 1
 ---
 

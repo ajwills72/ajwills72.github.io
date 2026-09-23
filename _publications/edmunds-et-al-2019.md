@@ -1,7 +1,7 @@
 ---
 date: 2018-01-01
 pdf: /assets/pdf/edmunds2017.pdf
-osr: /metapage/edmunds-et-al-2019.md
+osr: /metapage/edmunds-et-al-2019/
 tag: dualproc
 alcs: 2019-07-07
 IR: https://pearl.plymouth.ac.uk/handle/10026.1/9853

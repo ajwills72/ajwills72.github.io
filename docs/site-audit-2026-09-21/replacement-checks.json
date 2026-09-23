@@ -1,0 +1,226 @@
+{
+  "https://lenarddome.com/": {
+    "url": "https://lenarddome.com/",
+    "status": "200",
+    "final": "https://lenarddome.com/",
+    "type": "text/html; charset=utf-8",
+    "error": ""
+  },
+  "https://adrd.rutgers.edu/people/633/": {
+    "url": "https://adrd.rutgers.edu/people/633/",
+    "status": "200",
+    "final": "https://adrd.rutgers.edu/people/633/",
+    "type": "text/html; charset=UTF-8",
+    "error": ""
+  },
+  "https://www.dcu.ie/computing/people/gareth-jones": {
+    "url": "https://www.dcu.ie/computing/people/gareth-jones",
+    "status": "404",
+    "final": "https://www.dcu.ie/computing/people/gareth-jones",
+    "type": "text/html; charset=UTF-8",
+    "error": ""
+  },
+  "https://www.canterbury.ac.uk/people/fergal-jones": {
+    "url": "https://www.canterbury.ac.uk/people/fergal-jones",
+    "status": "200",
+    "final": "https://www.canterbury.ac.uk/people/fergal-jones",
+    "type": "text/html; charset=utf-8",
+    "error": ""
+  },
+  "https://www.canterbury.ac.uk/people/britta-osthaus": {
+    "url": "https://www.canterbury.ac.uk/people/britta-osthaus",
+    "status": "200",
+    "final": "https://www.canterbury.ac.uk/people/britta-osthaus",
+    "type": "text/html; charset=utf-8",
+    "error": ""
+  },
+  "https://www.liverpool.ac.uk/~rlawson/rebecca-o100.html": {
+    "url": "https://www.liverpool.ac.uk/~rlawson/rebecca-o100.html",
+    "status": "404",
+    "final": "https://www.liverpool.ac.uk/~rlawson/rebecca-o100.html",
+    "type": "text/html; charset=iso-8859-1",
+    "error": ""
+  },
+  "https://research.birmingham.ac.uk/en/persons/alice-welham/": {
+    "url": "https://research.birmingham.ac.uk/en/persons/alice-welham/",
+    "status": "200",
+    "final": "https://research.birmingham.ac.uk/en/persons/alice-welham/",
+    "type": "text/html;charset=UTF-8",
+    "error": ""
+  },
+  "https://profiles.cardiff.ac.uk/staff/dwyerdm": {
+    "url": "https://profiles.cardiff.ac.uk/staff/dwyerdm",
+    "status": "403",
+    "final": "https://profiles.cardiff.ac.uk/staff/dwyerdm",
+    "type": "text/html; charset=UTF-8",
+    "error": ""
+  },
+  "https://fold.eco/en/about/": {
+    "url": "https://fold.eco/en/about/",
+    "status": "200",
+    "final": "https://fold.eco/en/about/",
+    "type": "text/html; charset=utf-8",
+    "error": ""
+  },
+  "https://medium.com/data-science/reproducible-work-in-r-e7d160d5d198": {
+    "url": "https://medium.com/data-science/reproducible-work-in-r-e7d160d5d198",
+    "status": "403",
+    "final": "https://medium.com/data-science/reproducible-work-in-r-e7d160d5d198",
+    "type": "text/html; charset=UTF-8",
+    "error": ""
+  },
+  "https://researchportal.plymouth.ac.uk/files/38965047/jones_mitchell_wills_spicer_2021_comment_on_chan.pdf": {
+    "url": "https://researchportal.plymouth.ac.uk/files/38965047/jones_mitchell_wills_spicer_2021_comment_on_chan.pdf",
+    "status": "403",
+    "final": "https://researchportal.plymouth.ac.uk/files/38965047/jones_mitchell_wills_spicer_2021_comment_on_chan.pdf",
+    "type": "text/html; charset=UTF-8",
+    "error": ""
+  },
+  "https://pubmed.ncbi.nlm.nih.gov/8934685/": {
+    "url": "https://pubmed.ncbi.nlm.nih.gov/8934685/",
+    "status": "203",
+    "final": "https://pubmed.ncbi.nlm.nih.gov/8934685/",
+    "type": "text/html; charset=utf-8",
+    "error": ""
+  },
+  "https://seananderson.ca/2013/10/21/panel-letters/": {
+    "url": "https://seananderson.ca/2013/10/21/panel-letters/",
+    "status": "404",
+    "final": "https://seananderson.ca/2013/10/21/panel-letters/",
+    "type": "text/html; charset=utf-8",
+    "error": ""
+  },
+  "https://www.ojepn.com/": {
+    "url": "https://www.ojepn.com/",
+    "status": "200",
+    "final": "https://ojepn.com/",
+    "type": "text/html; charset=utf-8",
+    "error": ""
+  },
+  "https://ojepn.com/": {
+    "url": "https://ojepn.com/",
+    "status": "200",
+    "final": "https://ojepn.com/",
+    "type": "text/html; charset=utf-8",
+    "error": ""
+  },
+  "https://ojepn.com/images/2022/2022-0404.pdf": {
+    "url": "https://ojepn.com/images/2022/2022-0404.pdf",
+    "status": "404",
+    "final": "https://ojepn.com/images/2022/2022-0404.pdf",
+    "type": "text/html; charset=utf-8",
+    "error": ""
+  },
+  "https://brichandbook.readthedocs.io/en/latest/": {
+    "url": "https://brichandbook.readthedocs.io/en/latest/",
+    "status": "200",
+    "final": "https://brichandbook.readthedocs.io/en/latest/",
+    "type": "text/html; charset=utf-8",
+    "error": ""
+  },
+  "https://ojepn.com/index.php/8-ojepn/images/2020/aa.pdf": {
+    "url": "https://ojepn.com/index.php/8-ojepn/images/2020/aa.pdf",
+    "status": "200",
+    "final": "https://ojepn.com/index.php/8-ojepn/images/2020/aa.pdf",
+    "type": "application/pdf",
+    "error": ""
+  },
+  "https://ojepn.com/index.php/2-uncategorised/images/2020/2020-8639.pdf": {
+    "url": "https://ojepn.com/index.php/2-uncategorised/images/2020/2020-8639.pdf",
+    "status": "200",
+    "final": "https://ojepn.com/index.php/2-uncategorised/images/2020/2020-8639.pdf",
+    "type": "application/pdf",
+    "error": ""
+  },
+  "https://ojepn.com/index.php/2-uncategorised/images/2021/2021-6623.pdf": {
+    "url": "https://ojepn.com/index.php/2-uncategorised/images/2021/2021-6623.pdf",
+    "status": "200",
+    "final": "https://ojepn.com/index.php/2-uncategorised/images/2021/2021-6623.pdf",
+    "type": "application/pdf",
+    "error": ""
+  },
+  "https://ojepn.com/index.php/2-uncategorised/images/2022/2022-0404.pdf": {
+    "url": "https://ojepn.com/index.php/2-uncategorised/images/2022/2022-0404.pdf",
+    "status": "200",
+    "final": "https://ojepn.com/index.php/2-uncategorised/images/2022/2022-0404.pdf",
+    "type": "application/pdf",
+    "error": ""
+  },
+  "https://seananderson.ca/sitemap.xml": {
+    "url": "https://seananderson.ca/sitemap.xml",
+    "status": "200",
+    "final": "https://seananderson.ca/sitemap.xml",
+    "type": "application/xml",
+    "error": ""
+  },
+  "https://www.gnu.org/philosophy/free-sw.html": {
+    "url": "https://www.gnu.org/philosophy/free-sw.html",
+    "status": "200",
+    "final": "https://www.gnu.org/philosophy/free-sw.html",
+    "type": "text/html",
+    "error": ""
+  },
+  "https://www.adaptcentre.ie/experts/gareth-jones/": {
+    "url": "https://www.adaptcentre.ie/experts/gareth-jones/",
+    "status": "200",
+    "final": "https://www.adaptcentre.ie/experts/gareth-jones/",
+    "type": "text/html; charset=UTF-8",
+    "error": ""
+  },
+  "https://www.researchgate.net/profile/Timothy-Hollins-2": {
+    "url": "https://www.researchgate.net/profile/Timothy-Hollins-2",
+    "status": "403",
+    "final": "https://www.researchgate.net/profile/Timothy-Hollins-2",
+    "type": "text/html; charset=UTF-8",
+    "error": ""
+  },
+  "https://www.andywills.info/catlearn": {
+    "url": "https://www.andywills.info/catlearn",
+    "status": "200",
+    "final": "https://www.andywills.info/catlearn/",
+    "type": "text/html; charset=utf-8",
+    "error": ""
+  },
+  "https://ojepn.com/index.php/8-ojepn/5-editorial": {
+    "url": "https://ojepn.com/index.php/8-ojepn/5-editorial",
+    "status": "200",
+    "final": "https://ojepn.com/index.php/8-ojepn/5-editorial",
+    "type": "text/html; charset=utf-8",
+    "error": ""
+  },
+  "https://ojepn.com/index.php/2-uncategorised/6-absence-of-cross-modality-analogical-transfer-in-perceptual-categorization": {
+    "url": "https://ojepn.com/index.php/2-uncategorised/6-absence-of-cross-modality-analogical-transfer-in-perceptual-categorization",
+    "status": "200",
+    "final": "https://ojepn.com/index.php/2-uncategorised/6-absence-of-cross-modality-analogical-transfer-in-perceptual-categorization",
+    "type": "text/html; charset=utf-8",
+    "error": ""
+  },
+  "https://ojepn.com/index.php/2-uncategorised/7-representing-uncertainty": {
+    "url": "https://ojepn.com/index.php/2-uncategorised/7-representing-uncertainty",
+    "status": "200",
+    "final": "https://ojepn.com/index.php/2-uncategorised/7-representing-uncertainty",
+    "type": "text/html; charset=utf-8",
+    "error": ""
+  },
+  "https://ojepn.com/index.php/2-uncategorised/8-effect-of-a-context-shift-on-the-inverse-base-rate-effect": {
+    "url": "https://ojepn.com/index.php/2-uncategorised/8-effect-of-a-context-shift-on-the-inverse-base-rate-effect",
+    "status": "200",
+    "final": "https://ojepn.com/index.php/2-uncategorised/8-effect-of-a-context-shift-on-the-inverse-base-rate-effect",
+    "type": "text/html; charset=utf-8",
+    "error": ""
+  },
+  "https://brichandbook.readthedocs.io/en/latest/bric/bricResources.html": {
+    "url": "https://brichandbook.readthedocs.io/en/latest/bric/bricResources.html",
+    "status": "200",
+    "final": "https://brichandbook.readthedocs.io/en/latest/bric/bricResources.html",
+    "type": "text/html; charset=utf-8",
+    "error": ""
+  },
+  "https://seananderson.ca/": {
+    "url": "https://seananderson.ca/",
+    "status": "200",
+    "final": "https://seananderson.ca/",
+    "type": "text/html; charset=UTF-8",
+    "error": ""
+  }
+}

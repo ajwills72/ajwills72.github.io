@@ -1,6 +1,7 @@
 <!DOCTYPE html>
-<html>
+<html lang="en">
 <head>
+<meta name="viewport" content="width=device-width, initial-scale=1">
 <meta content="text/html" http-equiv="content-type">
 <title>willslab.co.uk: EXE10</title>
 <style type="text/css">
@@ -16,7 +17,7 @@ Data and Analysis Unit: EXE10</h1>
 <h2>Description</h2> fMRI contingency learning experiment, based on
 the Shanks-Darby procedure.  This DAU contains raw data, and an
 analysis script, in open cross-platform formats (see the <a href =
-"../formats.html">file format notes</a>).
+"/willslab-dau/formats.html">file format notes</a>).
 
 <h2>Citation</h2> <p> The APA-format citation for this resource is:
 Wills, A.J. and Milton, F. (2016). <i>Data and Analysis Unit:
@@ -130,12 +131,12 @@ for behavioural analyses reported in Milton et al.
 (submitted). Requires R (R Core team, 2016), and the following
 scripts:
 <ul> 
-<li><a href = "exe10prepocess.R">exe10preprocess.R</a> - R
+<li><a href = "exe10preprocess.R">exe10preprocess.R</a> - R
 script for behavioural data pre-processing.
 <li><a href = "exe10graphs.R">exe10graphs.R</a> - R script for
 graph production. Includes <i>add_label</i> function, written by
 Anderson (2013).
-<li><a href = "http://www.willslab.co.uk/plym10/bsci.R">bsci.R</a>
+<li><a href = "/willslab-dau/plym10/bsci.R">bsci.R</a>
  - R function for calculation of difference-adjusted
 between-subject confidence intervals. Implements same calculation
 as <i>bs.ci()</i> from Baguley (2012). Written by Thom Baguley.
@@ -153,8 +154,10 @@ provided in case others find them useful, with absolutely no warranty!
 Eprime 1.x scripts. The archive contains two .es2 scripts; 
 one for each of the two conditions.  Both are for 
 counterblance condition 1.
-<li><a href="eprime_convert_exe10.R">eprime_convert_exe010.R</a> -
+<li>eprime_convert_exe010.R -
   Script to convert multiple E-prime .edat files to exe10data.txt.
+  <strong>Missing file:</strong> this script is no longer available on this
+  website, and no surviving copy is known.
 <li><b>rawdata</b> - Directory (local copy only, available on
   request). Contains .edat files for this experiment, plus combination
   of them into a single .XLS file, and some notes on the file
@@ -163,8 +166,7 @@ counterblance condition 1.
 <h2>References</h2>
 <ul>
 <li>Anderson, S. C. (2013). <i>Labelling panels in
-R</i>. <a href="http://seananderson.ca/2013/10/21/panel-letters.html">
-http://seananderson.ca/2013/10/21/panel-letters.html</a>
+R</i>. http://seananderson.ca/2013/10/21/panel-letters.html
 <li>Baguley, T. (2012). Calculating and graphing within-subject
 confidence intervals for ANOVA. <i>Behavior Research Methods, 44</i>,
 158-175.

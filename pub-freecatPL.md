@@ -19,12 +19,12 @@ Most laboratory studies of category learning focus on situations where accurate 
   {% if paper.tag == "freecatPL" %}
   <p>{{ paper.content | markdownify }}
   <div align="right">
-  {% unless paper.pdf == "/no-text" %}
+  {% if paper.pdf and paper.pdf != "" and paper.pdf != "/no-text" and paper.pdf != "NA" %}
   <a href="{{ paper.pdf }}">Full text</a>
-  {% endunless %}
-  {% unless paper.osr == "/no-osr" %}
+  {% endif %}
+  {% if paper.osr and paper.osr != "" and paper.osr != "/no-osr" and paper.osr != "NA" %}
    : <a href="{{ paper.osr }}">Repository</a>
-  {% endunless %}
+  {% endif %}
   </div>
   </p>
   {% endif %} 

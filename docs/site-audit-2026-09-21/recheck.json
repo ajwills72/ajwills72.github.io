@@ -1,0 +1,1031 @@
+{
+  "https://www.andywills.info/docs/index.html": {
+    "url": "https://www.andywills.info/docs/index.html",
+    "status": "404",
+    "final": "https://www.andywills.info/docs/index.html",
+    "type": "text/html; charset=utf-8",
+    "error": ""
+  },
+  "https://www.andywills.info/tags.html": {
+    "url": "https://www.andywills.info/tags.html",
+    "status": "404",
+    "final": "https://www.andywills.info/tags.html",
+    "type": "text/html; charset=utf-8",
+    "error": ""
+  },
+  "https://core.ac.uk/download/pdf/193094737.pdf": {
+    "url": "https://core.ac.uk/download/pdf/193094737.pdf",
+    "status": "404",
+    "final": "https://fileserver-az.core.ac.uk/download/pdf/193094737.pdf",
+    "type": "text/html; charset=UTF-8",
+    "error": ""
+  },
+  "https://www.secondhandbooksplymouth.co.uk/": {
+    "url": "https://www.secondhandbooksplymouth.co.uk/",
+    "status": "404",
+    "final": "https://www.secondhandbooksplymouth.co.uk/",
+    "type": "text/html;charset=UTF-8",
+    "error": ""
+  },
+  "https://www.patreon.com/astronomycast/posts": {
+    "url": "https://www.patreon.com/astronomycast/posts",
+    "status": "403",
+    "final": "https://www.patreon.com/login-sync-domains?ru=https%3A%2F%2Fpatreon.astronomycast.com%2Fposts%3Fsynced%3D1",
+    "type": "text/html; charset=UTF-8",
+    "error": ""
+  },
+  "http://doi.org/10.1002/hbm.25729": {
+    "url": "http://doi.org/10.1002/hbm.25729",
+    "status": "403",
+    "final": "https://onlinelibrary.wiley.com/doi/10.1002/hbm.25729",
+    "type": "text/html; charset=UTF-8",
+    "error": ""
+  },
+  "https://jkkweb.sitehost.iu.edu/articles/Kruschke2001JMP.pdf": {
+    "url": "https://jkkweb.sitehost.iu.edu/articles/Kruschke2001JMP.pdf",
+    "status": "000",
+    "final": "https://jkkweb.sitehost.iu.edu/articles/Kruschke2001JMP.pdf",
+    "type": "",
+    "error": "curl: (60) SSL: no alternative certificate subject name matches target host name 'jkkweb.sitehost.iu.edu'\nMore details here: https://curl.se/docs/sslcerts.html\n\ncurl failed to verify the legitimacy of the server and therefore could not\nestablish a secure connection to it. To learn more about this situation and\nhow to fix it, please visit the web page mentioned above."
+  },
+  "http://doi.org/10.1002/hbm.24047": {
+    "url": "http://doi.org/10.1002/hbm.24047",
+    "status": "403",
+    "final": "https://onlinelibrary.wiley.com/doi/10.1002/hbm.24047",
+    "type": "text/html; charset=UTF-8",
+    "error": ""
+  },
+  "https://elifesciences.org/articles/36395.pdf": {
+    "url": "https://elifesciences.org/articles/36395.pdf",
+    "status": "406",
+    "final": "https://elifesciences.org/articles/36395.pdf",
+    "type": "",
+    "error": ""
+  },
+  "https://www.visualcapitalist.com/cp/100-global-cities-by-quality-of-life-and-cost/": {
+    "url": "https://www.visualcapitalist.com/cp/100-global-cities-by-quality-of-life-and-cost/",
+    "status": "403",
+    "final": "https://www.visualcapitalist.com/cp/100-global-cities-by-quality-of-life-and-cost/",
+    "type": "text/html; charset=UTF-8",
+    "error": ""
+  },
+  "https://www.andywills.info/assets/pdf/behaviorisms.pdf": {
+    "url": "https://www.andywills.info/assets/pdf/behaviorisms.pdf",
+    "status": "404",
+    "final": "https://www.andywills.info/assets/pdf/behaviorisms.pdf",
+    "type": "text/html; charset=utf-8",
+    "error": ""
+  },
+  "https://brichandbook.readthedocs.io/en/latest/modelling.html": {
+    "url": "https://brichandbook.readthedocs.io/en/latest/modelling.html",
+    "status": "404",
+    "final": "https://brichandbook.readthedocs.io/en/latest/modelling.html",
+    "type": "text/html; charset=utf-8",
+    "error": ""
+  },
+  "https://askubuntu.com/questions/1269493/ubuntu-server-20-04-1-lts-not-all-disk-space-was-allocated-during-installation": {
+    "url": "https://askubuntu.com/questions/1269493/ubuntu-server-20-04-1-lts-not-all-disk-space-was-allocated-during-installation",
+    "status": "403",
+    "final": "https://askubuntu.com/questions/1269493/ubuntu-server-20-04-1-lts-not-all-disk-space-was-allocated-during-installation",
+    "type": "text/html; charset=UTF-8",
+    "error": ""
+  },
+  "https://confluence.jaytaala.com/display/TKB/Mount+drive+in+linux+and+set+auto-mount+at+boot": {
+    "url": "https://confluence.jaytaala.com/display/TKB/Mount+drive+in+linux+and+set+auto-mount+at+boot",
+    "status": "401",
+    "final": "https://confluence.jaytaala.com/display/TKB/Mount+drive+in+linux+and+set+auto-mount+at+boot",
+    "type": "text/html; charset=iso-8859-1",
+    "error": ""
+  },
+  "https://www.linkedin.com/in/rachel-baron-75bb1817/?originalSubdomain=uk": {
+    "url": "https://www.linkedin.com/in/rachel-baron-75bb1817/?originalSubdomain=uk",
+    "status": "999",
+    "final": "https://www.linkedin.com/in/rachel-baron-75bb1817/?originalSubdomain=uk",
+    "type": "text/html",
+    "error": ""
+  },
+  "https://www.linkedin.com/in/pippa-bealing-9984411a6/?originalSubdomain=uk": {
+    "url": "https://www.linkedin.com/in/pippa-bealing-9984411a6/?originalSubdomain=uk",
+    "status": "999",
+    "final": "https://www.linkedin.com/in/pippa-bealing-9984411a6/?originalSubdomain=uk",
+    "type": "text/html",
+    "error": ""
+  },
+  "https://www.researchgate.net/profile/Tom-Beckers-2": {
+    "url": "https://www.researchgate.net/profile/Tom-Beckers-2",
+    "status": "403",
+    "final": "https://www.researchgate.net/profile/Tom-Beckers-2",
+    "type": "text/html; charset=UTF-8",
+    "error": ""
+  },
+  "https://www.linkedin.com/in/katie-blake96/": {
+    "url": "https://www.linkedin.com/in/katie-blake96/",
+    "status": "999",
+    "final": "https://www.linkedin.com/in/katie-blake96/",
+    "type": "text/html",
+    "error": ""
+  },
+  "https://fold.ai/our-team/": {
+    "url": "https://fold.ai/our-team/",
+    "status": "404",
+    "final": "https://fold.eco/our-team/",
+    "type": "text/html; charset=utf-8",
+    "error": ""
+  },
+  "https://www.linkedin.com/in/kathryn-carpenter-7456b6107/?originalSubdomain=uk": {
+    "url": "https://www.linkedin.com/in/kathryn-carpenter-7456b6107/?originalSubdomain=uk",
+    "status": "999",
+    "final": "https://www.linkedin.com/in/kathryn-carpenter-7456b6107/?originalSubdomain=uk",
+    "type": "text/html",
+    "error": ""
+  },
+  "https://www.linkedin.com/in/edward-copestake-b4b08494/?originalSubdomain=uk": {
+    "url": "https://www.linkedin.com/in/edward-copestake-b4b08494/?originalSubdomain=uk",
+    "status": "999",
+    "final": "https://www.linkedin.com/in/edward-copestake-b4b08494/?originalSubdomain=uk",
+    "type": "text/html",
+    "error": ""
+  },
+  "https://www.researchgate.net/profile/Jan-De-Houwer": {
+    "url": "https://www.researchgate.net/profile/Jan-De-Houwer",
+    "status": "403",
+    "final": "https://www.researchgate.net/profile/Jan-De-Houwer",
+    "type": "text/html; charset=UTF-8",
+    "error": ""
+  },
+  "https://www.linkedin.com/in/guido-de-filippo-0185213a/": {
+    "url": "https://www.linkedin.com/in/guido-de-filippo-0185213a/",
+    "status": "999",
+    "final": "https://www.linkedin.com/in/guido-de-filippo-0185213a/",
+    "type": "text/html",
+    "error": ""
+  },
+  "https://www.plymouth.ac.uk/staff/lenard-dome": {
+    "url": "https://www.plymouth.ac.uk/staff/lenard-dome",
+    "status": "404",
+    "final": "https://www.plymouth.ac.uk/staff/lenard-dome",
+    "type": "text/html; charset=utf-8",
+    "error": ""
+  },
+  "https://scholar.google.co.uk/citations?user=PeAkz6oAAAAJ": {
+    "url": "https://scholar.google.co.uk/citations?user=PeAkz6oAAAAJ",
+    "status": "404",
+    "final": "https://scholar.google.co.uk/citations?user=PeAkz6oAAAAJ",
+    "type": "text/html; charset=UTF-8",
+    "error": ""
+  },
+  "https://www.researchgate.net/profile/David-George-15": {
+    "url": "https://www.researchgate.net/profile/David-George-15",
+    "status": "403",
+    "final": "https://www.researchgate.net/profile/David-George-15",
+    "type": "text/html; charset=UTF-8",
+    "error": ""
+  },
+  "https://www.gluck.edu/mark_bio.html": {
+    "url": "https://www.gluck.edu/mark_bio.html",
+    "status": "404",
+    "final": "https://www.gluck.edu/mark_bio.html",
+    "type": "text/html; charset=UTF-8",
+    "error": ""
+  },
+  "https://www.researchgate.net/profile/Kazuhiro-Goto": {
+    "url": "https://www.researchgate.net/profile/Kazuhiro-Goto",
+    "status": "403",
+    "final": "https://www.researchgate.net/profile/Kazuhiro-Goto",
+    "type": "text/html; charset=UTF-8",
+    "error": ""
+  },
+  "http://nurturesciencepub.org/": {
+    "url": "http://nurturesciencepub.org/",
+    "status": "000",
+    "final": "http://nurturesciencepub.org/",
+    "type": "",
+    "error": "curl: (6) Could not resolve host: nurturesciencepub.org"
+  },
+  "https://www.linkedin.com/in/ben-hardwick-63b929120/?originalSubdomain=uk": {
+    "url": "https://www.linkedin.com/in/ben-hardwick-63b929120/?originalSubdomain=uk",
+    "status": "404",
+    "final": "https://www.linkedin.com/in/ben-hardwick-63b929120",
+    "type": "text/html; charset=utf-8",
+    "error": ""
+  },
+  "https://www.linkedin.com/in/dr-yvonne-hemmings-8593a111b/?originalSubdomain=uk": {
+    "url": "https://www.linkedin.com/in/dr-yvonne-hemmings-8593a111b/?originalSubdomain=uk",
+    "status": "999",
+    "final": "https://www.linkedin.com/in/dr-yvonne-hemmings-8593a111b/?originalSubdomain=uk",
+    "type": "text/html",
+    "error": ""
+  },
+  "https://www.plymouth.ac.uk/staff/tim-hollins-2": {
+    "url": "https://www.plymouth.ac.uk/staff/tim-hollins-2",
+    "status": "404",
+    "final": "https://www.plymouth.ac.uk/staff/tim-hollins-2",
+    "type": "text/html; charset=utf-8",
+    "error": ""
+  },
+  "https://www.researchgate.net/scientific-contributions/Lucy-J-Hopewell-25641277": {
+    "url": "https://www.researchgate.net/scientific-contributions/Lucy-J-Hopewell-25641277",
+    "status": "403",
+    "final": "https://www.researchgate.net/scientific-contributions/Lucy-J-Hopewell-25641277",
+    "type": "text/html; charset=UTF-8",
+    "error": ""
+  },
+  "https://www.linkedin.com/in/angus-inkster-361315190/": {
+    "url": "https://www.linkedin.com/in/angus-inkster-361315190/",
+    "status": "999",
+    "final": "https://www.linkedin.com/in/angus-inkster-361315190/",
+    "type": "text/html",
+    "error": ""
+  },
+  "https://www.canterbury.ac.uk/science-engineering-and-social-sciences/psychology-and-life-sciences/staff/Profile.aspx?staff=e60942d39c138260": {
+    "url": "https://www.canterbury.ac.uk/science-engineering-and-social-sciences/psychology-and-life-sciences/staff/Profile.aspx?staff=e60942d39c138260",
+    "status": "404",
+    "final": "https://www.canterbury.ac.uk/science-engineering-and-social-sciences/psychology-and-life-sciences/staff/Profile.aspx?staff=e60942d39c138260",
+    "type": "text/html; charset=utf-8",
+    "error": ""
+  },
+  "https://www.computing.dcu.ie/~gjones/": {
+    "url": "https://www.computing.dcu.ie/~gjones/",
+    "status": "404",
+    "final": "https://www.computing.dcu.ie/~gjones/",
+    "type": "text/html; charset=utf-8",
+    "error": ""
+  },
+  "https://www.linkedin.com/in/kohzhisheng/?originalSubdomain=sg": {
+    "url": "https://www.linkedin.com/in/kohzhisheng/?originalSubdomain=sg",
+    "status": "999",
+    "final": "https://www.linkedin.com/in/kohzhisheng/?originalSubdomain=sg",
+    "type": "text/html",
+    "error": ""
+  },
+  "https://www.liverpool.ac.uk/population-health/staff/rebecca-lawson/": {
+    "url": "https://www.liverpool.ac.uk/population-health/staff/rebecca-lawson/",
+    "status": "404",
+    "final": "https://www.liverpool.ac.uk/people/rebecca-lawson",
+    "type": "text/html; charset=UTF-8",
+    "error": ""
+  },
+  "https://keck.usc.edu/faculty-search/adam-matthew-leventhal/": {
+    "url": "https://keck.usc.edu/faculty-search/adam-matthew-leventhal/",
+    "status": "403",
+    "final": "https://keck.usc.edu/faculty-search/adam-matthew-leventhal/",
+    "type": "text/html; charset=UTF-8",
+    "error": ""
+  },
+  "https://www.linkedin.com/in/elisa-maes-02b26536/?originalSubdomain=be": {
+    "url": "https://www.linkedin.com/in/elisa-maes-02b26536/?originalSubdomain=be",
+    "status": "999",
+    "final": "https://www.linkedin.com/in/elisa-maes-02b26536/?originalSubdomain=be",
+    "type": "text/html",
+    "error": ""
+  },
+  "https://www.linkedin.com/in/christina-meier-bb2b3a8a/?originalSubdomain=uk": {
+    "url": "https://www.linkedin.com/in/christina-meier-bb2b3a8a/?originalSubdomain=uk",
+    "status": "999",
+    "final": "https://www.linkedin.com/in/christina-meier-bb2b3a8a/?originalSubdomain=uk",
+    "type": "text/html",
+    "error": ""
+  },
+  "https://www.andywills.info/assets/img/fraser-milton.jpg": {
+    "url": "https://www.andywills.info/assets/img/fraser-milton.jpg",
+    "status": "404",
+    "final": "https://www.andywills.info/assets/img/fraser-milton.jpg",
+    "type": "text/html; charset=utf-8",
+    "error": ""
+  },
+  "https://www.researchgate.net/profile/Fraser-Milton": {
+    "url": "https://www.researchgate.net/profile/Fraser-Milton",
+    "status": "403",
+    "final": "https://www.researchgate.net/profile/Fraser-Milton",
+    "type": "text/html; charset=UTF-8",
+    "error": ""
+  },
+  "https://www.linkedin.com/in/stephen-oakeshott-b0437417/?originalSubdomain=uk": {
+    "url": "https://www.linkedin.com/in/stephen-oakeshott-b0437417/?originalSubdomain=uk",
+    "status": "999",
+    "final": "https://www.linkedin.com/in/stephen-oakeshott-b0437417/?originalSubdomain=uk",
+    "type": "text/html",
+    "error": ""
+  },
+  "https://www.linkedin.com/in/garret-o-connell-9aa60722/?originalSubdomain=de": {
+    "url": "https://www.linkedin.com/in/garret-o-connell-9aa60722/?originalSubdomain=de",
+    "status": "999",
+    "final": "https://www.linkedin.com/in/garret-o-connell-9aa60722/?originalSubdomain=de",
+    "type": "text/html",
+    "error": ""
+  },
+  "https://www.canterbury.ac.uk/science-engineering-and-social-sciences/psychology-and-life-sciences/psychology/staff/Profile.aspx?staff=549e189ce72fb760": {
+    "url": "https://www.canterbury.ac.uk/science-engineering-and-social-sciences/psychology-and-life-sciences/psychology/staff/Profile.aspx?staff=549e189ce72fb760",
+    "status": "404",
+    "final": "https://www.canterbury.ac.uk/science-engineering-and-social-sciences/psychology-and-life-sciences/psychology/staff/Profile.aspx?staff=549e189ce72fb760",
+    "type": "text/html; charset=utf-8",
+    "error": ""
+  },
+  "https://www.city.ac.uk/about/people/academics/emmanuel-pothos": {
+    "url": "https://www.city.ac.uk/about/people/academics/emmanuel-pothos",
+    "status": "403",
+    "final": "https://www.citystgeorges.ac.uk/about/people/academics/emmanuel-pothos",
+    "type": "text/html; charset=UTF-8",
+    "error": ""
+  },
+  "https://people.uea.ac.uk/t_sambrook": {
+    "url": "https://people.uea.ac.uk/t_sambrook",
+    "status": "000",
+    "final": "https://people.uea.ac.uk/t_sambrook",
+    "type": "",
+    "error": "curl: (6) Could not resolve host: people.uea.ac.uk"
+  },
+  "https://www.ucl.ac.uk/pals/people/david-shanks": {
+    "url": "https://www.ucl.ac.uk/pals/people/david-shanks",
+    "status": "403",
+    "final": "https://www.ucl.ac.uk/brain-sciences/pals/people/david-shanks",
+    "type": "text/html; charset=UTF-8",
+    "error": ""
+  },
+  "https://www.researchgate.net/profile/Stuart-Spicer": {
+    "url": "https://www.researchgate.net/profile/Stuart-Spicer",
+    "status": "403",
+    "final": "https://www.researchgate.net/profile/Stuart-Spicer",
+    "type": "text/html; charset=UTF-8",
+    "error": ""
+  },
+  "https://uk.linkedin.com/in/mark-suret-25128b25": {
+    "url": "https://uk.linkedin.com/in/mark-suret-25128b25",
+    "status": "999",
+    "final": "https://uk.linkedin.com/in/mark-suret-25128b25",
+    "type": "text/html",
+    "error": ""
+  },
+  "https://www.researchgate.net/scientific-contributions/Frederick-Verbruggen-38674382": {
+    "url": "https://www.researchgate.net/scientific-contributions/Frederick-Verbruggen-38674382",
+    "status": "403",
+    "final": "https://www.researchgate.net/scientific-contributions/Frederick-Verbruggen-38674382",
+    "type": "text/html; charset=UTF-8",
+    "error": ""
+  },
+  "https://www2.le.ac.uk/departments/npb/people/akw12/index": {
+    "url": "https://www2.le.ac.uk/departments/npb/people/akw12/index",
+    "status": "404",
+    "final": "https://www2.le.ac.uk/departments/npb/people/akw12/index",
+    "type": "text/html",
+    "error": ""
+  },
+  "https://www.linkedin.com/in/fayme-yeates-33a77a4a/?originalSubdomain=uk": {
+    "url": "https://www.linkedin.com/in/fayme-yeates-33a77a4a/?originalSubdomain=uk",
+    "status": "999",
+    "final": "https://www.linkedin.com/in/fayme-yeates-33a77a4a",
+    "type": "text/html",
+    "error": ""
+  },
+  "https://people.sap.com/jan.zwickel": {
+    "url": "https://people.sap.com/jan.zwickel",
+    "status": "000",
+    "final": "https://people.sap.com/jan.zwickel",
+    "type": "",
+    "error": "curl: (6) Could not resolve host: people.sap.com"
+  },
+  "https://escholarship.org/uc/item/5r98q3dr": {
+    "url": "https://escholarship.org/uc/item/5r98q3dr",
+    "status": "202",
+    "final": "https://escholarship.org/uc/item/5r98q3dr",
+    "type": "text/html; charset=UTF-8",
+    "error": ""
+  },
+  "https://towardsdatascience.com/reproducible-work-in-r-e7d160d5d198": {
+    "url": "https://towardsdatascience.com/reproducible-work-in-r-e7d160d5d198",
+    "status": "404",
+    "final": "https://towardsdatascience.com/reproducible-work-in-r-e7d160d5d198/",
+    "type": "text/html; charset=utf-8",
+    "error": ""
+  },
+  "https://github.com/ajwills72/deepsim": {
+    "url": "https://github.com/ajwills72/deepsim",
+    "status": "404",
+    "final": "https://github.com/ajwills72/deepsim",
+    "type": "text/html; charset=utf-8",
+    "error": ""
+  },
+  "https://www.andywills.info/metapage/wills-et-al-2007/assets/mp3/Radio5liveAnitaAnand2007-07-02.mp3": {
+    "url": "https://www.andywills.info/metapage/wills-et-al-2007/assets/mp3/Radio5liveAnitaAnand2007-07-02.mp3",
+    "status": "404",
+    "final": "https://www.andywills.info/metapage/wills-et-al-2007/assets/mp3/Radio5liveAnitaAnand2007-07-02.mp3",
+    "type": "text/html; charset=utf-8",
+    "error": ""
+  },
+  "https://www.andywills.info/metapage/wills-et-al-2015/assets/pdf/2015willsSup.pdf": {
+    "url": "https://www.andywills.info/metapage/wills-et-al-2015/assets/pdf/2015willsSup.pdf",
+    "status": "404",
+    "final": "https://www.andywills.info/metapage/wills-et-al-2015/assets/pdf/2015willsSup.pdf",
+    "type": "text/html; charset=utf-8",
+    "error": ""
+  },
+  "http://www.willslab.org.uk/plym4/index.html": {
+    "url": "http://www.willslab.org.uk/plym4/index.html",
+    "status": "200",
+    "final": "https://willslab.org.uk/",
+    "type": "text/html; charset=UTF-8",
+    "error": ""
+  },
+  "https://greeking.me/blog/greek-history-culture/item/57-10-most-important-archaeological-sites-of-greece": {
+    "url": "https://greeking.me/blog/greek-history-culture/item/57-10-most-important-archaeological-sites-of-greece",
+    "status": "404",
+    "final": "https://greeking.me/blog/greek-history-culture/item/blog/greek-history-culture/item/390-greek-ruins",
+    "type": "text/html; charset=utf-8",
+    "error": ""
+  },
+  "https://www.hostelbay.com/en/blog/top-10-historical-sites-you-should-not-miss-in-the-cyclades": {
+    "url": "https://www.hostelbay.com/en/blog/top-10-historical-sites-you-should-not-miss-in-the-cyclades",
+    "status": "000",
+    "final": "https://www.hostelbay.com/en/blog/top-10-historical-sites-you-should-not-miss-in-the-cyclades",
+    "type": "",
+    "error": "curl: (28) Failed to connect to www.hostelbay.com port 443 after 8006 ms: Timeout was reached"
+  },
+  "https://www.timeanddate.com/weather/greece/mykonos/climate": {
+    "url": "https://www.timeanddate.com/weather/greece/mykonos/climate",
+    "status": "403",
+    "final": "https://www.timeanddate.com/weather/greece/mykonos/climate",
+    "type": "text/html; charset=UTF-8",
+    "error": ""
+  },
+  "https://escholarship.org/uc/item/0kw671vv": {
+    "url": "https://escholarship.org/uc/item/0kw671vv",
+    "status": "202",
+    "final": "https://escholarship.org/uc/item/0kw671vv",
+    "type": "text/html; charset=UTF-8",
+    "error": ""
+  },
+  "https://www.ojepn.com/images/2022/2022-0404.pdf": {
+    "url": "https://www.ojepn.com/images/2022/2022-0404.pdf",
+    "status": "404",
+    "final": "https://ojepn.com/images/2022/2022-0404.pdf",
+    "type": "text/html; charset=utf-8",
+    "error": ""
+  },
+  "https://rdcu.be/d56gS": {
+    "url": "https://rdcu.be/d56gS",
+    "status": "202",
+    "final": "https://rdcu.be/d56gS",
+    "type": "text/html; charset=UTF-8",
+    "error": ""
+  },
+  "https://www.andywills.info/metapage/edmunds-et-al-2019.md": {
+    "url": "https://www.andywills.info/metapage/edmunds-et-al-2019.md",
+    "status": "404",
+    "final": "https://www.andywills.info/metapage/edmunds-et-al-2019.md",
+    "type": "text/html; charset=utf-8",
+    "error": ""
+  },
+  "https://www.mdpi.com/2076-328X/16/3/437": {
+    "url": "https://www.mdpi.com/2076-328X/16/3/437",
+    "status": "403",
+    "final": "https://www.mdpi.com/2076-328X/16/3/437",
+    "type": "text/html",
+    "error": ""
+  },
+  "https://www.mdpi.com/2076-328X/16/1/109": {
+    "url": "https://www.mdpi.com/2076-328X/16/1/109",
+    "status": "403",
+    "final": "https://www.mdpi.com/2076-328X/16/1/109",
+    "type": "text/html",
+    "error": ""
+  },
+  "https://direct.mit.edu/opmi/article/doi/10.1162/opmi_a_00208/131175": {
+    "url": "https://direct.mit.edu/opmi/article/doi/10.1162/opmi_a_00208/131175",
+    "status": "403",
+    "final": "https://direct.mit.edu/opmi/article/doi/10.1162/opmi_a_00208/131175",
+    "type": "text/html; charset=UTF-8",
+    "error": ""
+  },
+  "https://www.sciencedirect.com/science/article/pii/S0195666325005434?via%3Dihub": {
+    "url": "https://www.sciencedirect.com/science/article/pii/S0195666325005434?via%3Dihub",
+    "status": "403",
+    "final": "https://www.sciencedirect.com/science/article/pii/S0195666325005434?via%3Dihub",
+    "type": "text/html; charset=UTF-8",
+    "error": ""
+  },
+  "https://www.andywills.info/publications/NA": {
+    "url": "https://www.andywills.info/publications/NA",
+    "status": "404",
+    "final": "https://www.andywills.info/publications/NA",
+    "type": "text/html; charset=utf-8",
+    "error": ""
+  },
+  "https://www.ojepn.com/images/2021/2021-6623.pdf": {
+    "url": "https://www.ojepn.com/images/2021/2021-6623.pdf",
+    "status": "404",
+    "final": "https://ojepn.com/images/2021/2021-6623.pdf",
+    "type": "text/html; charset=utf-8",
+    "error": ""
+  },
+  "http://hdl.handle.net/10026.1/16905": {
+    "url": "http://hdl.handle.net/10026.1/16905",
+    "status": "404",
+    "final": "http://hdl.handle.net/10026.1/16905",
+    "type": "text/html;charset=utf-8",
+    "error": ""
+  },
+  "https://www.ojepn.com/images/2020/2020-8639.pdf": {
+    "url": "https://www.ojepn.com/images/2020/2020-8639.pdf",
+    "status": "404",
+    "final": "https://ojepn.com/images/2020/2020-8639.pdf",
+    "type": "text/html; charset=utf-8",
+    "error": ""
+  },
+  "https://www.ojepn.com/images/2020/aa.pdf": {
+    "url": "https://www.ojepn.com/images/2020/aa.pdf",
+    "status": "404",
+    "final": "https://ojepn.com/images/2020/aa.pdf",
+    "type": "text/html; charset=utf-8",
+    "error": ""
+  },
+  "https://doi.org/10.1080/09658211.2019.1647247": {
+    "url": "https://doi.org/10.1080/09658211.2019.1647247",
+    "status": "403",
+    "final": "https://www.tandfonline.com/doi/full/10.1080/09658211.2019.1647247",
+    "type": "text/html; charset=UTF-8",
+    "error": ""
+  },
+  "https://ore.exeter.ac.uk/repository/handle/10871/27115": {
+    "url": "https://ore.exeter.ac.uk/repository/handle/10871/27115",
+    "status": "202",
+    "final": "https://ore.exeter.ac.uk/repository/handle/10871/27115",
+    "type": "text/html; charset=UTF-8",
+    "error": ""
+  },
+  "https://www.andywills.info/pubs/pu114": {
+    "url": "https://www.andywills.info/pubs/pu114",
+    "status": "404",
+    "final": "https://www.andywills.info/pubs/pu114",
+    "type": "text/html; charset=utf-8",
+    "error": ""
+  },
+  "https://www.andywills.info/pubs/auto111/publications.md": {
+    "url": "https://www.andywills.info/pubs/auto111/publications.md",
+    "status": "404",
+    "final": "https://www.andywills.info/pubs/auto111/publications.md",
+    "type": "text/html; charset=utf-8",
+    "error": ""
+  },
+  "https://www.andywills.info/pubs/auto112/publications.md": {
+    "url": "https://www.andywills.info/pubs/auto112/publications.md",
+    "status": "404",
+    "final": "https://www.andywills.info/pubs/auto112/publications.md",
+    "type": "text/html; charset=utf-8",
+    "error": ""
+  },
+  "https://www.andywills.info/pubs/auto113/publications.md": {
+    "url": "https://www.andywills.info/pubs/auto113/publications.md",
+    "status": "404",
+    "final": "https://www.andywills.info/pubs/auto113/publications.md",
+    "type": "text/html; charset=utf-8",
+    "error": ""
+  },
+  "https://www.andywills.info/pubs/pu101/1997wills.pdf": {
+    "url": "https://www.andywills.info/pubs/pu101/1997wills.pdf",
+    "status": "404",
+    "final": "https://www.andywills.info/pubs/pu101/1997wills.pdf",
+    "type": "text/html; charset=utf-8",
+    "error": ""
+  },
+  "https://www.andywills.info/pubs/pu102/1998jones.pdf": {
+    "url": "https://www.andywills.info/pubs/pu102/1998jones.pdf",
+    "status": "404",
+    "final": "https://www.andywills.info/pubs/pu102/1998jones.pdf",
+    "type": "text/html; charset=utf-8",
+    "error": ""
+  },
+  "https://www.andywills.info/pubs/pu103/1998willsmclaren.pdf": {
+    "url": "https://www.andywills.info/pubs/pu103/1998willsmclaren.pdf",
+    "status": "404",
+    "final": "https://www.andywills.info/pubs/pu103/1998willsmclaren.pdf",
+    "type": "text/html; charset=utf-8",
+    "error": ""
+  },
+  "https://www.andywills.info/pubs/pu103/wm98fig1.png": {
+    "url": "https://www.andywills.info/pubs/pu103/wm98fig1.png",
+    "status": "404",
+    "final": "https://www.andywills.info/pubs/pu103/wm98fig1.png",
+    "type": "text/html; charset=utf-8",
+    "error": ""
+  },
+  "https://www.andywills.info/pubs/pu105/2002Wills.pdf": {
+    "url": "https://www.andywills.info/pubs/pu105/2002Wills.pdf",
+    "status": "404",
+    "final": "https://www.andywills.info/pubs/pu105/2002Wills.pdf",
+    "type": "text/html; charset=utf-8",
+    "error": ""
+  },
+  "https://www.andywills.info/pubs/pu106/2002zwickel.pdf": {
+    "url": "https://www.andywills.info/pubs/pu106/2002zwickel.pdf",
+    "status": "404",
+    "final": "https://www.andywills.info/pubs/pu106/2002zwickel.pdf",
+    "type": "text/html; charset=utf-8",
+    "error": ""
+  },
+  "https://www.andywills.info/pubs/pu107/2003welhamschnadtwills.pdf": {
+    "url": "https://www.andywills.info/pubs/pu107/2003welhamschnadtwills.pdf",
+    "status": "404",
+    "final": "https://www.andywills.info/pubs/pu107/2003welhamschnadtwills.pdf",
+    "type": "text/html; charset=utf-8",
+    "error": ""
+  },
+  "https://www.andywills.info/pubs/pu108/2003lochmannwills.pdf": {
+    "url": "https://www.andywills.info/pubs/pu108/2003lochmannwills.pdf",
+    "status": "404",
+    "final": "https://www.andywills.info/pubs/pu108/2003lochmannwills.pdf",
+    "type": "text/html; charset=utf-8",
+    "error": ""
+  },
+  "https://www.andywills.info/pubs/pu108/publications.md": {
+    "url": "https://www.andywills.info/pubs/pu108/publications.md",
+    "status": "404",
+    "final": "https://www.andywills.info/pubs/pu108/publications.md",
+    "type": "text/html; charset=utf-8",
+    "error": ""
+  },
+  "https://www.andywills.info/pubs/pu109/2004GotoWillsLea.pdf": {
+    "url": "https://www.andywills.info/pubs/pu109/2004GotoWillsLea.pdf",
+    "status": "404",
+    "final": "https://www.andywills.info/pubs/pu109/2004GotoWillsLea.pdf",
+    "type": "text/html; charset=utf-8",
+    "error": ""
+  },
+  "https://www.andywills.info/pubs/pu109/publications.md": {
+    "url": "https://www.andywills.info/pubs/pu109/publications.md",
+    "status": "404",
+    "final": "https://www.andywills.info/pubs/pu109/publications.md",
+    "type": "text/html; charset=utf-8",
+    "error": ""
+  },
+  "https://www.andywills.info/pubs/pu110/2004willssuretmclaren.pdf": {
+    "url": "https://www.andywills.info/pubs/pu110/2004willssuretmclaren.pdf",
+    "status": "404",
+    "final": "https://www.andywills.info/pubs/pu110/2004willssuretmclaren.pdf",
+    "type": "text/html; charset=utf-8",
+    "error": ""
+  },
+  "https://www.andywills.info/pubs/pu110/wsm04fig1a.svg": {
+    "url": "https://www.andywills.info/pubs/pu110/wsm04fig1a.svg",
+    "status": "404",
+    "final": "https://www.andywills.info/pubs/pu110/wsm04fig1a.svg",
+    "type": "text/html; charset=utf-8",
+    "error": ""
+  },
+  "https://www.andywills.info/pubs/pu110/wsm04fig1a.pdf": {
+    "url": "https://www.andywills.info/pubs/pu110/wsm04fig1a.pdf",
+    "status": "404",
+    "final": "https://www.andywills.info/pubs/pu110/wsm04fig1a.pdf",
+    "type": "text/html; charset=utf-8",
+    "error": ""
+  },
+  "https://www.andywills.info/pubs/pu110/publications.md": {
+    "url": "https://www.andywills.info/pubs/pu110/publications.md",
+    "status": "404",
+    "final": "https://www.andywills.info/pubs/pu110/publications.md",
+    "type": "text/html; charset=utf-8",
+    "error": ""
+  },
+  "https://www.andywills.info/pubs/pu111/2004miltonwills.pdf": {
+    "url": "https://www.andywills.info/pubs/pu111/2004miltonwills.pdf",
+    "status": "404",
+    "final": "https://www.andywills.info/pubs/pu111/2004miltonwills.pdf",
+    "type": "text/html; charset=utf-8",
+    "error": ""
+  },
+  "https://www.andywills.info/pubs/pu111/publications.md": {
+    "url": "https://www.andywills.info/pubs/pu111/publications.md",
+    "status": "404",
+    "final": "https://www.andywills.info/pubs/pu111/publications.md",
+    "type": "text/html; charset=utf-8",
+    "error": ""
+  },
+  "https://www.andywills.info/pubs/pu112/2004bryantJonesWills.pdf": {
+    "url": "https://www.andywills.info/pubs/pu112/2004bryantJonesWills.pdf",
+    "status": "404",
+    "final": "https://www.andywills.info/pubs/pu112/2004bryantJonesWills.pdf",
+    "type": "text/html; charset=utf-8",
+    "error": ""
+  },
+  "https://www.andywills.info/pubs/pu112/publications.md": {
+    "url": "https://www.andywills.info/pubs/pu112/publications.md",
+    "status": "404",
+    "final": "https://www.andywills.info/pubs/pu112/publications.md",
+    "type": "text/html; charset=utf-8",
+    "error": ""
+  },
+  "https://www.andywills.info/pubs/pu113/2005lepelley.pdf": {
+    "url": "https://www.andywills.info/pubs/pu113/2005lepelley.pdf",
+    "status": "404",
+    "final": "https://www.andywills.info/pubs/pu113/2005lepelley.pdf",
+    "type": "text/html; charset=utf-8",
+    "error": ""
+  },
+  "https://www.andywills.info/pubs/pu113/publications.md": {
+    "url": "https://www.andywills.info/pubs/pu113/publications.md",
+    "status": "404",
+    "final": "https://www.andywills.info/pubs/pu113/publications.md",
+    "type": "text/html; charset=utf-8",
+    "error": ""
+  },
+  "https://www.andywills.info/pubs/pu117/2005willsch6.pdf": {
+    "url": "https://www.andywills.info/pubs/pu117/2005willsch6.pdf",
+    "status": "404",
+    "final": "https://www.andywills.info/pubs/pu117/2005willsch6.pdf",
+    "type": "text/html; charset=utf-8",
+    "error": ""
+  },
+  "https://www.andywills.info/pubs/pu117/publications.md": {
+    "url": "https://www.andywills.info/pubs/pu117/publications.md",
+    "status": "404",
+    "final": "https://www.andywills.info/pubs/pu117/publications.md",
+    "type": "text/html; charset=utf-8",
+    "error": ""
+  },
+  "https://www.andywills.info/pubs/pu119/2006leawillsryan.pdf": {
+    "url": "https://www.andywills.info/pubs/pu119/2006leawillsryan.pdf",
+    "status": "404",
+    "final": "https://www.andywills.info/pubs/pu119/2006leawillsryan.pdf",
+    "type": "text/html; charset=utf-8",
+    "error": ""
+  },
+  "https://www.andywills.info/pubs/pu119/publications.md": {
+    "url": "https://www.andywills.info/pubs/pu119/publications.md",
+    "status": "404",
+    "final": "https://www.andywills.info/pubs/pu119/publications.md",
+    "type": "text/html; charset=utf-8",
+    "error": ""
+  },
+  "https://www.andywills.info/pubs/pu120/2006Willsetal.pdf": {
+    "url": "https://www.andywills.info/pubs/pu120/2006Willsetal.pdf",
+    "status": "404",
+    "final": "https://www.andywills.info/pubs/pu120/2006Willsetal.pdf",
+    "type": "text/html; charset=utf-8",
+    "error": ""
+  },
+  "https://www.andywills.info/pubs/pu120/publications.md": {
+    "url": "https://www.andywills.info/pubs/pu120/publications.md",
+    "status": "404",
+    "final": "https://www.andywills.info/pubs/pu120/publications.md",
+    "type": "text/html; charset=utf-8",
+    "error": ""
+  },
+  "https://www.andywills.info/pubs/pu121/2006Willsetal.pdf": {
+    "url": "https://www.andywills.info/pubs/pu121/2006Willsetal.pdf",
+    "status": "404",
+    "final": "https://www.andywills.info/pubs/pu121/2006Willsetal.pdf",
+    "type": "text/html; charset=utf-8",
+    "error": ""
+  },
+  "https://www.andywills.info/pubs/pu121/media/Radio5liveAnitaAnand2007-07-02.mp3": {
+    "url": "https://www.andywills.info/pubs/pu121/media/Radio5liveAnitaAnand2007-07-02.mp3",
+    "status": "404",
+    "final": "https://www.andywills.info/pubs/pu121/media/Radio5liveAnitaAnand2007-07-02.mp3",
+    "type": "text/html; charset=utf-8",
+    "error": ""
+  },
+  "https://www.andywills.info/pubs/pu121/media/WillsSciAmMind.pdf": {
+    "url": "https://www.andywills.info/pubs/pu121/media/WillsSciAmMind.pdf",
+    "status": "404",
+    "final": "https://www.andywills.info/pubs/pu121/media/WillsSciAmMind.pdf",
+    "type": "text/html; charset=utf-8",
+    "error": ""
+  },
+  "https://www.andywills.info/pubs/pu121/media/Daily+Mirror+03.07.08.pdf": {
+    "url": "https://www.andywills.info/pubs/pu121/media/Daily+Mirror+03.07.08.pdf",
+    "status": "404",
+    "final": "https://www.andywills.info/pubs/pu121/media/Daily+Mirror+03.07.08.pdf",
+    "type": "text/html; charset=utf-8",
+    "error": ""
+  },
+  "https://www.andywills.info/pubs/pu121/media/FT+06.07.07.pdf": {
+    "url": "https://www.andywills.info/pubs/pu121/media/FT+06.07.07.pdf",
+    "status": "404",
+    "final": "https://www.andywills.info/pubs/pu121/media/FT+06.07.07.pdf",
+    "type": "text/html; charset=utf-8",
+    "error": ""
+  },
+  "https://www.andywills.info/pubs/pu121/media/Metro+03.07.07.pdf": {
+    "url": "https://www.andywills.info/pubs/pu121/media/Metro+03.07.07.pdf",
+    "status": "404",
+    "final": "https://www.andywills.info/pubs/pu121/media/Metro+03.07.07.pdf",
+    "type": "text/html; charset=utf-8",
+    "error": ""
+  },
+  "https://www.andywills.info/pubs/pu121/media/JOCN1905_C1.pdf": {
+    "url": "https://www.andywills.info/pubs/pu121/media/JOCN1905_C1.pdf",
+    "status": "404",
+    "final": "https://www.andywills.info/pubs/pu121/media/JOCN1905_C1.pdf",
+    "type": "text/html; charset=utf-8",
+    "error": ""
+  },
+  "https://www.andywills.info/pubs/pu121/publications.md": {
+    "url": "https://www.andywills.info/pubs/pu121/publications.md",
+    "status": "404",
+    "final": "https://www.andywills.info/pubs/pu121/publications.md",
+    "type": "text/html; charset=utf-8",
+    "error": ""
+  },
+  "https://www.andywills.info/pubs/pu122/2006Willsetal.pdf": {
+    "url": "https://www.andywills.info/pubs/pu122/2006Willsetal.pdf",
+    "status": "404",
+    "final": "https://www.andywills.info/pubs/pu122/2006Willsetal.pdf",
+    "type": "text/html; charset=utf-8",
+    "error": ""
+  },
+  "https://www.andywills.info/pubs/pu122/publications.md": {
+    "url": "https://www.andywills.info/pubs/pu122/publications.md",
+    "status": "404",
+    "final": "https://www.andywills.info/pubs/pu122/publications.md",
+    "type": "text/html; charset=utf-8",
+    "error": ""
+  },
+  "https://qz.com/1307091/the-inside-story-of-how-ai-got-good-enough-to-dominate-silicon-valley": {
+    "url": "https://qz.com/1307091/the-inside-story-of-how-ai-got-good-enough-to-dominate-silicon-valley",
+    "status": "403",
+    "final": "https://qz.com/1307091/the-inside-story-of-how-ai-got-good-enough-to-dominate-silicon-valley",
+    "type": "text/html; charset=UTF-8",
+    "error": ""
+  },
+  "https://www.andywills.info/quotes/no_source": {
+    "url": "https://www.andywills.info/quotes/no_source",
+    "status": "404",
+    "final": "https://www.andywills.info/quotes/no_source",
+    "type": "text/html; charset=utf-8",
+    "error": ""
+  },
+  "https://www.andywills.info/assets/pdf/WillsCogSci2011.pdf": {
+    "url": "https://www.andywills.info/assets/pdf/WillsCogSci2011.pdf",
+    "status": "404",
+    "final": "https://www.andywills.info/assets/pdf/WillsCogSci2011.pdf",
+    "type": "text/html; charset=utf-8",
+    "error": ""
+  },
+  "https://www.andywills.info/assets/pdf/Gregynog2004.pdf": {
+    "url": "https://www.andywills.info/assets/pdf/Gregynog2004.pdf",
+    "status": "404",
+    "final": "https://www.andywills.info/assets/pdf/Gregynog2004.pdf",
+    "type": "text/html; charset=utf-8",
+    "error": ""
+  },
+  "https://www.andywills.info/willslab-dau/formats.html": {
+    "url": "https://www.andywills.info/willslab-dau/formats.html",
+    "status": "404",
+    "final": "https://www.andywills.info/willslab-dau/formats.html",
+    "type": "text/html; charset=utf-8",
+    "error": ""
+  },
+  "https://www.andywills.info/pubs/2008milton.pdf": {
+    "url": "https://www.andywills.info/pubs/2008milton.pdf",
+    "status": "404",
+    "final": "https://www.andywills.info/pubs/2008milton.pdf",
+    "type": "text/html; charset=utf-8",
+    "error": ""
+  },
+  "https://www.andywills.info/willslab-dau/pubs/2008milton.pdf": {
+    "url": "https://www.andywills.info/willslab-dau/pubs/2008milton.pdf",
+    "status": "404",
+    "final": "https://www.andywills.info/willslab-dau/pubs/2008milton.pdf",
+    "type": "text/html; charset=utf-8",
+    "error": ""
+  },
+  "https://www.andywills.info/willslab-dau/exe1/formats.html": {
+    "url": "https://www.andywills.info/willslab-dau/exe1/formats.html",
+    "status": "404",
+    "final": "https://www.andywills.info/willslab-dau/exe1/formats.html",
+    "type": "text/html; charset=utf-8",
+    "error": ""
+  },
+  "https://www.andywills.info/willslab-dau/exe1/junk/exe1stim.tbz": {
+    "url": "https://www.andywills.info/willslab-dau/exe1/junk/exe1stim.tbz",
+    "status": "404",
+    "final": "https://www.andywills.info/willslab-dau/exe1/junk/exe1stim.tbz",
+    "type": "text/html; charset=utf-8",
+    "error": ""
+  },
+  "https://www.andywills.info/willslab-dau/exe1/junk/exe1data.txt": {
+    "url": "https://www.andywills.info/willslab-dau/exe1/junk/exe1data.txt",
+    "status": "404",
+    "final": "https://www.andywills.info/willslab-dau/exe1/junk/exe1data.txt",
+    "type": "text/html; charset=utf-8",
+    "error": ""
+  },
+  "https://www.andywills.info/willslab-dau/exe1/junk/exe1code.txt": {
+    "url": "https://www.andywills.info/willslab-dau/exe1/junk/exe1code.txt",
+    "status": "404",
+    "final": "https://www.andywills.info/willslab-dau/exe1/junk/exe1code.txt",
+    "type": "text/html; charset=utf-8",
+    "error": ""
+  },
+  "https://www.andywills.info/willslab-dau/exe10/exe10prepocess.R": {
+    "url": "https://www.andywills.info/willslab-dau/exe10/exe10prepocess.R",
+    "status": "404",
+    "final": "https://www.andywills.info/willslab-dau/exe10/exe10prepocess.R",
+    "type": "text/html; charset=utf-8",
+    "error": ""
+  },
+  "http://www.willslab.co.uk/plym10/bsci.R": {
+    "url": "http://www.willslab.co.uk/plym10/bsci.R",
+    "status": "404",
+    "final": "https://www.andywills.info/plym10/bsci.R",
+    "type": "text/html; charset=utf-8",
+    "error": ""
+  },
+  "https://www.andywills.info/willslab-dau/exe10/eprime_convert_exe10.R": {
+    "url": "https://www.andywills.info/willslab-dau/exe10/eprime_convert_exe10.R",
+    "status": "404",
+    "final": "https://www.andywills.info/willslab-dau/exe10/eprime_convert_exe10.R",
+    "type": "text/html; charset=utf-8",
+    "error": ""
+  },
+  "http://seananderson.ca/2013/10/21/panel-letters.html": {
+    "url": "http://seananderson.ca/2013/10/21/panel-letters.html",
+    "status": "404",
+    "final": "https://seananderson.ca/2013/10/21/panel-letters.html",
+    "type": "text/html; charset=utf-8",
+    "error": ""
+  },
+  "https://www.andywills.info/willslab-dau/exe10/formats.html": {
+    "url": "https://www.andywills.info/willslab-dau/exe10/formats.html",
+    "status": "404",
+    "final": "https://www.andywills.info/willslab-dau/exe10/formats.html",
+    "type": "text/html; charset=utf-8",
+    "error": ""
+  },
+  "https://www.andywills.info/willslab-dau/exe11/www.willslab.co.uk/exe11": {
+    "url": "https://www.andywills.info/willslab-dau/exe11/www.willslab.co.uk/exe11",
+    "status": "404",
+    "final": "https://www.andywills.info/willslab-dau/exe11/www.willslab.co.uk/exe11",
+    "type": "text/html; charset=utf-8",
+    "error": ""
+  },
+  "https://www.andywills.info/willslab-dau/exe13/www.willslab.co.uk/exe13": {
+    "url": "https://www.andywills.info/willslab-dau/exe13/www.willslab.co.uk/exe13",
+    "status": "404",
+    "final": "https://www.andywills.info/willslab-dau/exe13/www.willslab.co.uk/exe13",
+    "type": "text/html; charset=utf-8",
+    "error": ""
+  },
+  "https://www.andywills.info/pubs/2011wills.pdf": {
+    "url": "https://www.andywills.info/pubs/2011wills.pdf",
+    "status": "404",
+    "final": "https://www.andywills.info/pubs/2011wills.pdf",
+    "type": "text/html; charset=utf-8",
+    "error": ""
+  },
+  "https://www.andywills.info/willslab-dau/exe6/exe5analysis.R": {
+    "url": "https://www.andywills.info/willslab-dau/exe6/exe5analysis.R",
+    "status": "404",
+    "final": "https://www.andywills.info/willslab-dau/exe6/exe5analysis.R",
+    "type": "text/html; charset=utf-8",
+    "error": ""
+  },
+  "https://www.andywills.info/willslab-dau/exe9/exe8data.csv": {
+    "url": "https://www.andywills.info/willslab-dau/exe9/exe8data.csv",
+    "status": "404",
+    "final": "https://www.andywills.info/willslab-dau/exe9/exe8data.csv",
+    "type": "text/html; charset=utf-8",
+    "error": ""
+  },
+  "https://www.andywills.info/willslab-dau/kulmaes1/kulmaes1phase1.sps": {
+    "url": "https://www.andywills.info/willslab-dau/kulmaes1/kulmaes1phase1.sps",
+    "status": "404",
+    "final": "https://www.andywills.info/willslab-dau/kulmaes1/kulmaes1phase1.sps",
+    "type": "text/html; charset=utf-8",
+    "error": ""
+  },
+  "http://fac.ppw.kuleuven.be/clep/affect4/": {
+    "url": "http://fac.ppw.kuleuven.be/clep/affect4/",
+    "status": "301",
+    "final": "https://fac.ppw.kuleuven.be/clep/affect4/",
+    "type": "",
+    "error": "curl: (35) LibreSSL/3.3.6: error:1404B458:SSL routines:ST_CONNECT:tlsv1 unrecognized name"
+  },
+  "http://www.howtogeek.com/howto/31717/what-do-the-phrases-free-speech-vs.-free-beer-really-mean/": {
+    "url": "http://www.howtogeek.com/howto/31717/what-do-the-phrases-free-speech-vs.-free-beer-really-mean/",
+    "status": "404",
+    "final": "https://www.howtogeek.com/howto/31717/what-do-the-phrases-free-speech-vs.-free-beer-really-mean/",
+    "type": "text/html; charset=UTF-8",
+    "error": ""
+  },
+  "http://www.willslab.co.uk/catlearn.html": {
+    "url": "http://www.willslab.co.uk/catlearn.html",
+    "status": "404",
+    "final": "https://www.andywills.info/catlearn.html",
+    "type": "text/html; charset=utf-8",
+    "error": ""
+  },
+  "https://www.andywills.info/willslab-dau/syd2/logo.png": {
+    "url": "https://www.andywills.info/willslab-dau/syd2/logo.png",
+    "status": "404",
+    "final": "https://www.andywills.info/willslab-dau/syd2/logo.png",
+    "type": "text/html; charset=utf-8",
+    "error": ""
+  },
+  "https://www.andywills.info/willslab-dau/syd2/syd2dataRECtxt": {
+    "url": "https://www.andywills.info/willslab-dau/syd2/syd2dataRECtxt",
+    "status": "404",
+    "final": "https://www.andywills.info/willslab-dau/syd2/syd2dataRECtxt",
+    "type": "text/html; charset=utf-8",
+    "error": ""
+  }
+}

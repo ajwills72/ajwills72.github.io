@@ -20,7 +20,7 @@ Annoyingly, Ubuntu 22.04 server at install will leave most of a large drive unus
 
 ## Additional drives
 
-If you have additional hard drives, you will probably want to mount these at boot time. You do this by editing `/etc/fstab`. Instructions [here](https://confluence.jaytaala.com/display/TKB/Mount+drive+in+linux+and+set+auto-mount+at+boot).
+If you have additional hard drives, you will probably want to mount these at boot time. You do this by editing `/etc/fstab`. Instructions [here](https://confluence.jaytaala.com/display/TKB/Mount+drive+in+linux+and+set+auto-mount+at+boot). **Broken link:** these instructions are now password-protected (September 2026).
 
 ## Boot failure
 

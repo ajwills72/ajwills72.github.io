@@ -41,5 +41,5 @@ In other news, I talked to my wife (a Head Teacher of an [SEN school](https://ww
 
 ### UPDATE: 2020-05-19, part 2
 
-Starting to read the Supplementary Materials, a key point seems to be that if a problem is NP-hard, then it is intractable by the authors' definition. A famous example of an NP-hard problem is the [Travelling Salesperson Problem](https://en.wikipedia.org/wiki/Travelling_salesman_problem), yet humans quickly find near-optimal solutions to these problems (e.g. [MacGregor & Omerod, 1996](https://core.ac.uk/download/pdf/193094737.pdf)). So, intractable by this definition does not mean that humans are unable to make progress on a solution. 
+Starting to read the Supplementary Materials, a key point seems to be that if a problem is NP-hard, then it is intractable by the authors' definition. A famous example of an NP-hard problem is the [Travelling Salesperson Problem](https://en.wikipedia.org/wiki/Travelling_salesman_problem), yet humans quickly find near-optimal solutions to these problems (e.g. [MacGregor & Omerod, 1996](https://pubmed.ncbi.nlm.nih.gov/8934685/)). So, intractable by this definition does not mean that humans are unable to make progress on a solution.
  

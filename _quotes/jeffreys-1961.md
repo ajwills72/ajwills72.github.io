@@ -1,7 +1,7 @@
 ---
 year: 1961
 attrib: Harold Jeffreys 
-source: no_source
+source: /no-source
 tag: bayesian
 ---
 
